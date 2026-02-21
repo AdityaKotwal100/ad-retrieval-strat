@@ -1,0 +1,7 @@
+{
+  "schema_version": 2,
+  "n_campaigns": 10783,
+  "build_time": "2026-02-20T19:07:25Z",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384
+}

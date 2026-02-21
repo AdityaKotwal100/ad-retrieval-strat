@@ -1,0 +1,7 @@
+{
+  "query": "online SAT prep tutoring service for high school students",
+  "context": {
+    "age": 17,
+    "interests": ["education", "tutoring", "test prep"]
+  }
+}

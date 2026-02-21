@@ -1,0 +1,1387 @@
+{
+  "ad_eligibility": 0.8916,
+  "extracted_categories": [
+    "project management",
+    "b2b_software"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_08594",
+      "relevance_score": 0.477248,
+      "internal_score": 0.894733,
+      "title": "Slack: Where Work Happens",
+      "advertiser": "Slack",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8594",
+      "creative_format": "display",
+      "budget_remaining": 8436.2
+    },
+    {
+      "campaign_id": "camp_08407",
+      "relevance_score": 0.462736,
+      "internal_score": 0.867525,
+      "title": "Zoom: Powering Hybrid Workspaces",
+      "advertiser": "Zoom",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8407",
+      "creative_format": "video",
+      "budget_remaining": 93940.32
+    },
+    {
+      "campaign_id": "camp_08346",
+      "relevance_score": 0.458381,
+      "internal_score": 0.85936,
+      "title": "ProjectZen: Easy Project Management",
+      "advertiser": "CloudSync",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8346",
+      "creative_format": "text",
+      "budget_remaining": 40552.82
+    },
+    {
+      "campaign_id": "camp_08298",
+      "relevance_score": 0.454335,
+      "internal_score": 0.851775,
+      "title": "Monday.com: Work OS Platform for Teams",
+      "advertiser": "Monday.com",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8298",
+      "creative_format": "text",
+      "budget_remaining": 81258.69
+    },
+    {
+      "campaign_id": "camp_08324",
+      "relevance_score": 0.451496,
+      "internal_score": 0.846452,
+      "title": "Connect Your Team with QuantumConnect",
+      "advertiser": "QuantumConnect",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8324",
+      "creative_format": "native",
+      "budget_remaining": 27942.13
+    },
+    {
+      "campaign_id": "camp_08566",
+      "relevance_score": 0.449199,
+      "internal_score": 0.842146,
+      "title": "Zoom Meetings: Connect Your Team",
+      "advertiser": "Zoom",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8566",
+      "creative_format": "carousel",
+      "budget_remaining": 45871.55
+    },
+    {
+      "campaign_id": "camp_08414",
+      "relevance_score": 0.443495,
+      "internal_score": 0.831453,
+      "title": "ConnectNow: Unified Communication Platform",
+      "advertiser": "Slack",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8414",
+      "creative_format": "carousel",
+      "budget_remaining": 39748.84
+    },
+    {
+      "campaign_id": "camp_08450",
+      "relevance_score": 0.436092,
+      "internal_score": 0.817575,
+      "title": "Slack Enterprise Grid: Connected Workspace",
+      "advertiser": "Slack",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8450",
+      "creative_format": "display",
+      "budget_remaining": 81431.05
+    },
+    {
+      "campaign_id": "camp_08269",
+      "relevance_score": 0.434542,
+      "internal_score": 0.814668,
+      "title": "Zoom Meetings: Seamless Video Conferencing",
+      "advertiser": "Zoom",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8269",
+      "creative_format": "native",
+      "budget_remaining": 41877.73
+    },
+    {
+      "campaign_id": "camp_08308",
+      "relevance_score": 0.380014,
+      "internal_score": 0.71244,
+      "title": "Streamline HR with PeakPerform HR Software",
+      "advertiser": "PeakPerform",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8308",
+      "creative_format": "carousel",
+      "budget_remaining": 2093.22
+    },
+    {
+      "campaign_id": "camp_08517",
+      "relevance_score": 0.368876,
+      "internal_score": 0.69156,
+      "title": "Streamline HR with PeopleFirst Software",
+      "advertiser": "PeopleFirst",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8517",
+      "creative_format": "display",
+      "budget_remaining": 1288.09
+    },
+    {
+      "campaign_id": "camp_08642",
+      "relevance_score": 0.361738,
+      "internal_score": 0.678177,
+      "title": "Okta: Secure Identity Management for All",
+      "advertiser": "Okta",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8642",
+      "creative_format": "video",
+      "budget_remaining": 66798.83
+    },
+    {
+      "campaign_id": "camp_08146",
+      "relevance_score": 0.358566,
+      "internal_score": 0.672229,
+      "title": "Okta: Secure Identity for Businesses",
+      "advertiser": "Okta",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8146",
+      "creative_format": "native",
+      "budget_remaining": 19816.46
+    },
+    {
+      "campaign_id": "camp_08580",
+      "relevance_score": 0.349013,
+      "internal_score": 0.65432,
+      "title": "SecureAccess: Enterprise-Grade Identity Management",
+      "advertiser": "Okta",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8580",
+      "creative_format": "display",
+      "budget_remaining": 65687.19
+    },
+    {
+      "campaign_id": "camp_08576",
+      "relevance_score": 0.345736,
+      "internal_score": 0.648177,
+      "title": "ShieldGuard: Protect Your Business Data",
+      "advertiser": "ShieldGuard",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8576",
+      "creative_format": "carousel",
+      "budget_remaining": 57155.72
+    },
+    {
+      "campaign_id": "camp_08329",
+      "relevance_score": 0.345035,
+      "internal_score": 0.646863,
+      "title": "Defend Your Network with ShieldCore",
+      "advertiser": "ShieldCore",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8329",
+      "creative_format": "text",
+      "budget_remaining": 1103.15
+    },
+    {
+      "campaign_id": "camp_08435",
+      "relevance_score": 0.344235,
+      "internal_score": 0.645363,
+      "title": "SecuriCloud: Your Data in Safe Hands",
+      "advertiser": "SecuriCloud",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8435",
+      "creative_format": "display",
+      "budget_remaining": 58938.06
+    },
+    {
+      "campaign_id": "camp_08488",
+      "relevance_score": 0.342347,
+      "internal_score": 0.641824,
+      "title": "Optimize HR with Atlas HR Software",
+      "advertiser": "Atlas HR",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8488",
+      "creative_format": "display",
+      "budget_remaining": 76258.92
+    },
+    {
+      "campaign_id": "camp_08423",
+      "relevance_score": 0.341124,
+      "internal_score": 0.63953,
+      "title": "Secure Your Perimeter with Guardian Shield",
+      "advertiser": "Guardian Shield",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8423",
+      "creative_format": "native",
+      "budget_remaining": 58137.06
+    },
+    {
+      "campaign_id": "camp_08593",
+      "relevance_score": 0.335895,
+      "internal_score": 0.629728,
+      "title": "Simplify HR with WorkFlow HR Suite",
+      "advertiser": "WorkFlow",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8593",
+      "creative_format": "native",
+      "budget_remaining": 74975.84
+    },
+    {
+      "campaign_id": "camp_08597",
+      "relevance_score": 0.335678,
+      "internal_score": 0.62932,
+      "title": "DataGuard: Advanced Threat Protection",
+      "advertiser": "DataGuard",
+      "category": "cybersecurity",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8597",
+      "creative_format": "video",
+      "budget_remaining": 67246.28
+    },
+    {
+      "campaign_id": "camp_08134",
+      "relevance_score": 0.335171,
+      "internal_score": 0.62837,
+      "title": "PeopleFirst: Modern HR Solutions",
+      "advertiser": "PeopleFirst",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8134",
+      "creative_format": "carousel",
+      "budget_remaining": 40398.66
+    },
+    {
+      "campaign_id": "camp_08398",
+      "relevance_score": 0.333669,
+      "internal_score": 0.625555,
+      "title": "Next-Gen HR Software: Elevate Workforce",
+      "advertiser": "Elevate Workforce",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8398",
+      "creative_format": "native",
+      "budget_remaining": 47022.81
+    },
+    {
+      "campaign_id": "camp_08544",
+      "relevance_score": 0.333004,
+      "internal_score": 0.624307,
+      "title": "HubSpot CRM: Grow Better, Faster",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8544",
+      "creative_format": "native",
+      "budget_remaining": 63034.8
+    },
+    {
+      "campaign_id": "camp_08353",
+      "relevance_score": 0.331366,
+      "internal_score": 0.621236,
+      "title": "EasyHR: Simplify Your HR Processes",
+      "advertiser": "EasyHR",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8353",
+      "creative_format": "carousel",
+      "budget_remaining": 97665.54
+    },
+    {
+      "campaign_id": "camp_08481",
+      "relevance_score": 0.330462,
+      "internal_score": 0.619541,
+      "title": "PeopleFirst HR: Modern HR Solutions",
+      "advertiser": "PeopleFirst",
+      "category": "HR software",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8481",
+      "creative_format": "text",
+      "budget_remaining": 17461.45
+    },
+    {
+      "campaign_id": "camp_08560",
+      "relevance_score": 0.325888,
+      "internal_score": 0.610967,
+      "title": "HubSpot Sales Hub: Grow Your Business",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8560",
+      "creative_format": "native",
+      "budget_remaining": 24379.06
+    },
+    {
+      "campaign_id": "camp_08348",
+      "relevance_score": 0.324521,
+      "internal_score": 0.608404,
+      "title": "Streamline CRM, Achieve Peak Performance",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8348",
+      "creative_format": "native",
+      "budget_remaining": 92653.24
+    },
+    {
+      "campaign_id": "camp_08468",
+      "relevance_score": 0.320032,
+      "internal_score": 0.599987,
+      "title": "Unlock Sales Potential with StellarCRM",
+      "advertiser": "StellarCRM",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8468",
+      "creative_format": "video",
+      "budget_remaining": 46446.18
+    },
+    {
+      "campaign_id": "camp_08633",
+      "relevance_score": 0.319159,
+      "internal_score": 0.598352,
+      "title": "HubSpot: Automate Your Sales Funnel",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8633",
+      "creative_format": "video",
+      "budget_remaining": 13519.33
+    },
+    {
+      "campaign_id": "camp_08273",
+      "relevance_score": 0.311542,
+      "internal_score": 0.584071,
+      "title": "Empower Your Sales With Salesflow CRM",
+      "advertiser": "Salesflow",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8273",
+      "creative_format": "display",
+      "budget_remaining": 53400.23
+    },
+    {
+      "campaign_id": "camp_08459",
+      "relevance_score": 0.299601,
+      "internal_score": 0.561685,
+      "title": "HubSpot: Free CRM for Growing Businesses",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8459",
+      "creative_format": "display",
+      "budget_remaining": 47268.47
+    },
+    {
+      "campaign_id": "camp_08240",
+      "relevance_score": 0.288073,
+      "internal_score": 0.540071,
+      "title": "HubSpot CRM: Grow Better",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8240",
+      "creative_format": "display",
+      "budget_remaining": 37756.84
+    },
+    {
+      "campaign_id": "camp_08598",
+      "relevance_score": 0.155727,
+      "internal_score": 0.291953,
+      "title": "PeakView Analytics: Data-Driven Decisions",
+      "advertiser": "PeakView",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8598",
+      "creative_format": "display",
+      "budget_remaining": 6426.62
+    },
+    {
+      "campaign_id": "camp_08487",
+      "relevance_score": 0.155727,
+      "internal_score": 0.291953,
+      "title": "Unlock Insights with DataSpark Analytics Platform",
+      "advertiser": "DataSpark",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8487",
+      "creative_format": "text",
+      "budget_remaining": 96837.78
+    },
+    {
+      "campaign_id": "camp_08521",
+      "relevance_score": 0.149682,
+      "internal_score": 0.28062,
+      "title": "Datadog: Monitor Your Infrastructure",
+      "advertiser": "Datadog",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8521",
+      "creative_format": "video",
+      "budget_remaining": 43151.18
+    },
+    {
+      "campaign_id": "camp_08161",
+      "relevance_score": 0.149215,
+      "internal_score": 0.279744,
+      "title": "Datadog: Monitor Everything, Effortlessly",
+      "advertiser": "Datadog",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8161",
+      "creative_format": "video",
+      "budget_remaining": 88899.84
+    },
+    {
+      "campaign_id": "camp_08430",
+      "relevance_score": 0.147942,
+      "internal_score": 0.277357,
+      "title": "DataDog: Monitor Everything, Everywhere",
+      "advertiser": "Datadog",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8430",
+      "creative_format": "text",
+      "budget_remaining": 1287.85
+    },
+    {
+      "campaign_id": "camp_08247",
+      "relevance_score": 0.147942,
+      "internal_score": 0.277357,
+      "title": "InsightDash: Data-Driven Business Decisions",
+      "advertiser": "InsightDash",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8247",
+      "creative_format": "video",
+      "budget_remaining": 41121.52
+    },
+    {
+      "campaign_id": "camp_08270",
+      "relevance_score": 0.14707,
+      "internal_score": 0.275722,
+      "title": "NetForce Cloud: Enterprise Hosting Solutions",
+      "advertiser": "NetForce",
+      "category": "cloud hosting",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8270",
+      "creative_format": "carousel",
+      "budget_remaining": 19971.72
+    },
+    {
+      "campaign_id": "camp_08493",
+      "relevance_score": 0.145059,
+      "internal_score": 0.271953,
+      "title": "Insightful: Advanced Analytics for SMBs",
+      "advertiser": "Insightful",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8493",
+      "creative_format": "video",
+      "budget_remaining": 17516.3
+    },
+    {
+      "campaign_id": "camp_08472",
+      "relevance_score": 0.142926,
+      "internal_score": 0.267953,
+      "title": "Datadog: Real-Time Monitoring, Superior Insights",
+      "advertiser": "Datadog",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8472",
+      "creative_format": "native",
+      "budget_remaining": 24993.9
+    },
+    {
+      "campaign_id": "camp_08542",
+      "relevance_score": 0.141581,
+      "internal_score": 0.265432,
+      "title": "AnalyticsIQ: Understand Your Customer Better",
+      "advertiser": "AnalyticsIQ",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8542",
+      "creative_format": "native",
+      "budget_remaining": 27817.9
+    },
+    {
+      "campaign_id": "camp_08539",
+      "relevance_score": 0.138357,
+      "internal_score": 0.259388,
+      "title": "SkyHost: Fast, Reliable Cloud Hosting",
+      "advertiser": "SkyHost",
+      "category": "cloud hosting",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8539",
+      "creative_format": "carousel",
+      "budget_remaining": 53152.95
+    },
+    {
+      "campaign_id": "camp_08232",
+      "relevance_score": 0.137274,
+      "internal_score": 0.257357,
+      "title": "DataWise: Unlock Data Insights",
+      "advertiser": "DataWise",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8232",
+      "creative_format": "text",
+      "budget_remaining": 42704.53
+    },
+    {
+      "campaign_id": "camp_08550",
+      "relevance_score": 0.137252,
+      "internal_score": 0.257317,
+      "title": "Snowflake: The Data Cloud Provider",
+      "advertiser": "Snowflake",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8550",
+      "creative_format": "carousel",
+      "budget_remaining": 72056.4
+    },
+    {
+      "campaign_id": "camp_08577",
+      "relevance_score": 0.136919,
+      "internal_score": 0.256693,
+      "title": "DataWise: Unlock Data-Driven Insights",
+      "advertiser": "DataWise",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8577",
+      "creative_format": "native",
+      "budget_remaining": 91470.03
+    },
+    {
+      "campaign_id": "camp_04782",
+      "relevance_score": 0.11953,
+      "internal_score": 0.224091,
+      "title": "Master Data Science with Python",
+      "advertiser": "Coursera",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4782",
+      "creative_format": "display",
+      "budget_remaining": 68292.98
+    },
+    {
+      "campaign_id": "camp_04533",
+      "relevance_score": 0.048095,
+      "internal_score": 0.090168,
+      "title": "Learn Machine Learning on Coursera",
+      "advertiser": "Coursera",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4533",
+      "creative_format": "carousel",
+      "budget_remaining": 55218.6
+    },
+    {
+      "campaign_id": "camp_04823",
+      "relevance_score": 0.045841,
+      "internal_score": 0.085941,
+      "title": "Unlock Code: Master Python Programming",
+      "advertiser": "Unlock Code",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4823",
+      "creative_format": "text",
+      "budget_remaining": 73123.26
+    },
+    {
+      "campaign_id": "camp_04596",
+      "relevance_score": 0.04526,
+      "internal_score": 0.084853,
+      "title": "EdX: Earn Degrees from Top Universities",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4596",
+      "creative_format": "text",
+      "budget_remaining": 63925.44
+    },
+    {
+      "campaign_id": "camp_04382",
+      "relevance_score": 0.04526,
+      "internal_score": 0.084853,
+      "title": "Khan Academy: Free Education for All",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4382",
+      "creative_format": "text",
+      "budget_remaining": 68061.25
+    },
+    {
+      "campaign_id": "camp_04366",
+      "relevance_score": 0.044371,
+      "internal_score": 0.083186,
+      "title": "Learn Anything: Discover New Skills",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4366",
+      "creative_format": "text",
+      "budget_remaining": 95909.25
+    },
+    {
+      "campaign_id": "camp_04418",
+      "relevance_score": 0.044371,
+      "internal_score": 0.083186,
+      "title": "Polish Your Resume for Tech Jobs",
+      "advertiser": "CareerSpring",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4418",
+      "creative_format": "native",
+      "budget_remaining": 41722.61
+    },
+    {
+      "campaign_id": "camp_04738",
+      "relevance_score": 0.041785,
+      "internal_score": 0.078338,
+      "title": "Learn Spanish, Free with Duolingo",
+      "advertiser": "Duolingo",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4738",
+      "creative_format": "video",
+      "budget_remaining": 89229.85
+    },
+    {
+      "campaign_id": "camp_04837",
+      "relevance_score": 0.041691,
+      "internal_score": 0.07816,
+      "title": "QuantumLeap Coding: Full Stack Fast",
+      "advertiser": "QuantumLeap Coding",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4837",
+      "creative_format": "native",
+      "budget_remaining": 31219.38
+    },
+    {
+      "campaign_id": "camp_04774",
+      "relevance_score": 0.041437,
+      "internal_score": 0.077684,
+      "title": "Learn to Code with Python Basics",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4774",
+      "creative_format": "carousel",
+      "budget_remaining": 18089.95
+    },
+    {
+      "campaign_id": "camp_06142",
+      "relevance_score": 0.03174,
+      "internal_score": 0.059505,
+      "title": "Discover the Newest Indie Concerts",
+      "advertiser": "Underground Shows",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6142",
+      "creative_format": "carousel",
+      "budget_remaining": 20389.67
+    },
+    {
+      "campaign_id": "camp_07017",
+      "relevance_score": 0.030897,
+      "internal_score": 0.057924,
+      "title": "Level Up Your Game. Guaranteed.",
+      "advertiser": "PixelPlay",
+      "category": "game subscriptions",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/7017",
+      "creative_format": "video",
+      "budget_remaining": 84010.99
+    },
+    {
+      "campaign_id": "camp_02196",
+      "relevance_score": 0.030363,
+      "internal_score": 0.056924,
+      "title": "Airbnb: Unique Stays, Local Experiences",
+      "advertiser": "Airbnb",
+      "category": "hotels",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2196",
+      "creative_format": "text",
+      "budget_remaining": 32996.49
+    },
+    {
+      "campaign_id": "camp_02589",
+      "relevance_score": 0.030055,
+      "internal_score": 0.056346,
+      "title": "Hilton Honors: Get Rewarded",
+      "advertiser": "Hilton",
+      "category": "hotels",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2589",
+      "creative_format": "video",
+      "budget_remaining": 80742.5
+    },
+    {
+      "campaign_id": "camp_02660",
+      "relevance_score": 0.030055,
+      "internal_score": 0.056346,
+      "title": "Hilton: Last Minute Hotel Deals",
+      "advertiser": "Hilton",
+      "category": "hotels",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2660",
+      "creative_format": "display",
+      "budget_remaining": 45585.76
+    },
+    {
+      "campaign_id": "camp_06401",
+      "relevance_score": 0.0291,
+      "internal_score": 0.054556,
+      "title": "The Lumineers: World Tour Tickets",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6401",
+      "creative_format": "display",
+      "budget_remaining": 22680.98
+    },
+    {
+      "campaign_id": "camp_06370",
+      "relevance_score": 0.029056,
+      "internal_score": 0.054473,
+      "title": "Experience Summer's Biggest Concerts",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6370",
+      "creative_format": "carousel",
+      "budget_remaining": 79968.33
+    },
+    {
+      "campaign_id": "camp_06151",
+      "relevance_score": 0.028523,
+      "internal_score": 0.053473,
+      "title": "The Grand Ole Opry: Country Music",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6151",
+      "creative_format": "carousel",
+      "budget_remaining": 2471.88
+    },
+    {
+      "campaign_id": "camp_06243",
+      "relevance_score": 0.028523,
+      "internal_score": 0.053473,
+      "title": "Experience Concerts Like Never Before",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6243",
+      "creative_format": "video",
+      "budget_remaining": 55281.67
+    },
+    {
+      "campaign_id": "camp_06321",
+      "relevance_score": 0.028523,
+      "internal_score": 0.053473,
+      "title": "Comedy Central Live Presents",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6321",
+      "creative_format": "text",
+      "budget_remaining": 76189.95
+    },
+    {
+      "campaign_id": "camp_06392",
+      "relevance_score": 0.028523,
+      "internal_score": 0.053473,
+      "title": "Unforgettable Shows, Unbeatable Prices",
+      "advertiser": "Local Sounds",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6392",
+      "creative_format": "native",
+      "budget_remaining": 19428.03
+    },
+    {
+      "campaign_id": "camp_06202",
+      "relevance_score": 0.028167,
+      "internal_score": 0.052807,
+      "title": "The Arena: Live Action Esports",
+      "advertiser": "The Arena",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6202",
+      "creative_format": "text",
+      "budget_remaining": 88817.5
+    },
+    {
+      "campaign_id": "camp_06196",
+      "relevance_score": 0.028167,
+      "internal_score": 0.052807,
+      "title": "Experience the Magic on Stage",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6196",
+      "creative_format": "text",
+      "budget_remaining": 50564.78
+    },
+    {
+      "campaign_id": "camp_06302",
+      "relevance_score": 0.028167,
+      "internal_score": 0.052807,
+      "title": "Rock Legends Reunion Tour",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6302",
+      "creative_format": "display",
+      "budget_remaining": 67265.73
+    },
+    {
+      "campaign_id": "camp_06380",
+      "relevance_score": 0.028167,
+      "internal_score": 0.052807,
+      "title": "The Grand Tour Returns - Limited Dates!",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6380",
+      "creative_format": "native",
+      "budget_remaining": 31412.64
+    },
+    {
+      "campaign_id": "camp_09171",
+      "relevance_score": 0.027894,
+      "internal_score": 0.052294,
+      "title": "LegalZoom: Start an LLC Quick",
+      "advertiser": "LegalZoom",
+      "category": "business formation",
+      "vertical": "legal",
+      "landing_url": "https://example.com/campaign/9171",
+      "creative_format": "native",
+      "budget_remaining": 13593.56
+    },
+    {
+      "campaign_id": "camp_09165",
+      "relevance_score": 0.027343,
+      "internal_score": 0.051262,
+      "title": "Incorporate Your Business with Confidence",
+      "advertiser": "IncorportateMe",
+      "category": "business formation",
+      "vertical": "legal",
+      "landing_url": "https://example.com/campaign/9165",
+      "creative_format": "native",
+      "budget_remaining": 70482.87
+    },
+    {
+      "campaign_id": "camp_06486",
+      "relevance_score": 0.026811,
+      "internal_score": 0.050264,
+      "title": "Game Pass: Your Ultimate Game Library",
+      "advertiser": "Xbox",
+      "category": "game subscriptions",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6486",
+      "creative_format": "video",
+      "budget_remaining": 98258.87
+    },
+    {
+      "campaign_id": "camp_06614",
+      "relevance_score": 0.026366,
+      "internal_score": 0.049431,
+      "title": "Endless Games. One Low Price.",
+      "advertiser": "GameSphere",
+      "category": "game subscriptions",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6614",
+      "creative_format": "text",
+      "budget_remaining": 60577.03
+    },
+    {
+      "campaign_id": "camp_06011",
+      "relevance_score": 0.022282,
+      "internal_score": 0.041773,
+      "title": "See Your Favorite Artists Live!",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6011",
+      "creative_format": "display",
+      "budget_remaining": 47031.81
+    },
+    {
+      "campaign_id": "camp_08934",
+      "relevance_score": 0.022178,
+      "internal_score": 0.041579,
+      "title": "Business Formation Services Online",
+      "advertiser": "BusinessSolutionsNow",
+      "category": "business formation",
+      "vertical": "legal",
+      "landing_url": "https://example.com/campaign/8934",
+      "creative_format": "carousel",
+      "budget_remaining": 33504.29
+    },
+    {
+      "campaign_id": "camp_06108",
+      "relevance_score": 0.021748,
+      "internal_score": 0.040773,
+      "title": "The Velvet Notes: Live in Concert",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6108",
+      "creative_format": "native",
+      "budget_remaining": 74737.17
+    },
+    {
+      "campaign_id": "camp_07009",
+      "relevance_score": 0.021536,
+      "internal_score": 0.040376,
+      "title": "Galaxy Raiders: Epic Space Shooter",
+      "advertiser": "Cosmic Games",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/7009",
+      "creative_format": "carousel",
+      "budget_remaining": 85325.67
+    },
+    {
+      "campaign_id": "camp_10764",
+      "relevance_score": 0.021007,
+      "internal_score": 0.039384,
+      "title": "Solaris Panels: Efficient Home Energy",
+      "advertiser": "Solaris",
+      "category": "solar panels",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10764",
+      "creative_format": "video",
+      "budget_remaining": 11920.51
+    },
+    {
+      "campaign_id": "camp_06329",
+      "relevance_score": 0.020792,
+      "internal_score": 0.03898,
+      "title": "HBO Max: Stream It All Here",
+      "advertiser": "HBO Max",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6329",
+      "creative_format": "display",
+      "budget_remaining": 90472.42
+    },
+    {
+      "campaign_id": "camp_07001",
+      "relevance_score": 0.020647,
+      "internal_score": 0.038709,
+      "title": "Kingdom Clash: Epic Mobile Battles",
+      "advertiser": "Nova Games",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/7001",
+      "creative_format": "video",
+      "budget_remaining": 12845.24
+    },
+    {
+      "campaign_id": "camp_06950",
+      "relevance_score": 0.020393,
+      "internal_score": 0.038233,
+      "title": "Celestial Kingdoms: Mobile RPG Adventure",
+      "advertiser": "Nova Games",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6950",
+      "creative_format": "native",
+      "budget_remaining": 1809.64
+    },
+    {
+      "campaign_id": "camp_02621",
+      "relevance_score": 0.020362,
+      "internal_score": 0.038174,
+      "title": "BudgetGo: Cheap Domestic Flight Deals",
+      "advertiser": "BudgetGo",
+      "category": "flights",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2621",
+      "creative_format": "carousel",
+      "budget_remaining": 21188.24
+    },
+    {
+      "campaign_id": "camp_06398",
+      "relevance_score": 0.020259,
+      "internal_score": 0.03798,
+      "title": "Hulu: Stream Your Way This Fall",
+      "advertiser": "Hulu",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6398",
+      "creative_format": "native",
+      "budget_remaining": 43257.29
+    },
+    {
+      "campaign_id": "camp_06356",
+      "relevance_score": 0.020259,
+      "internal_score": 0.03798,
+      "title": "Disney+ Family Movie Night",
+      "advertiser": "Disney+",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6356",
+      "creative_format": "carousel",
+      "budget_remaining": 85890.18
+    },
+    {
+      "campaign_id": "camp_02692",
+      "relevance_score": 0.020108,
+      "internal_score": 0.037697,
+      "title": "Delta Business Class to Europe",
+      "advertiser": "Delta",
+      "category": "flights",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2692",
+      "creative_format": "native",
+      "budget_remaining": 64225.68
+    },
+    {
+      "campaign_id": "camp_06600",
+      "relevance_score": 0.020104,
+      "internal_score": 0.037691,
+      "title": "Next Gen Gaming PC's Now Available",
+      "advertiser": "Corsair",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6600",
+      "creative_format": "carousel",
+      "budget_remaining": 66478.0
+    },
+    {
+      "campaign_id": "camp_06998",
+      "relevance_score": 0.019911,
+      "internal_score": 0.037329,
+      "title": "Eden Online: A New World Awaits",
+      "advertiser": "Celestial Studios",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6998",
+      "creative_format": "native",
+      "budget_remaining": 69843.29
+    },
+    {
+      "campaign_id": "camp_06347",
+      "relevance_score": 0.019903,
+      "internal_score": 0.037314,
+      "title": "Hulu: Next Day TV - Watch Now",
+      "advertiser": "Hulu",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6347",
+      "creative_format": "display",
+      "budget_remaining": 89392.37
+    },
+    {
+      "campaign_id": "camp_06301",
+      "relevance_score": 0.019903,
+      "internal_score": 0.037314,
+      "title": "Dark Nights: Gritty Crime Thrillers Unfold",
+      "advertiser": "HBO Max",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6301",
+      "creative_format": "native",
+      "budget_remaining": 50412.13
+    },
+    {
+      "campaign_id": "camp_06853",
+      "relevance_score": 0.019684,
+      "internal_score": 0.036904,
+      "title": "Apex Legends Mobile: Fight Anywhere",
+      "advertiser": "EA",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6853",
+      "creative_format": "text",
+      "budget_remaining": 48268.1
+    },
+    {
+      "campaign_id": "camp_06926",
+      "relevance_score": 0.019556,
+      "internal_score": 0.036663,
+      "title": "Azure Kingdom - Strategy PC Game",
+      "advertiser": "Celestial Games",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6926",
+      "creative_format": "video",
+      "budget_remaining": 7471.52
+    },
+    {
+      "campaign_id": "camp_06836",
+      "relevance_score": 0.019329,
+      "internal_score": 0.036237,
+      "title": "CloudPlay: Mobile Gaming, Reimagined",
+      "advertiser": "CloudPlay",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6836",
+      "creative_format": "video",
+      "budget_remaining": 20280.99
+    },
+    {
+      "campaign_id": "camp_06688",
+      "relevance_score": 0.019329,
+      "internal_score": 0.036237,
+      "title": "Level Up Your Mobile Gaming",
+      "advertiser": "Epic Games",
+      "category": "mobile games",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6688",
+      "creative_format": "video",
+      "budget_remaining": 21270.22
+    }
+  ],
+  "latency_ms": 13.25,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 96,
+    "filter_drops": {
+      "negative_keyword": 143,
+      "price_hard": 1761
+    },
+    "n_results": 96,
+    "gated": false,
+    "timing_ms": {
+      "embed": 1.94,
+      "parallel_stages": 1.61,
+      "parse": 0.56,
+      "filter_and_rerank": 8.71,
+      "total": 13.25
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0571,
+      "commercial_boost": 0.9456,
+      "top_cluster": "financial_hardship",
+      "top_cluster_sim": 0.1052,
+      "commercial_sim": 0.2325,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0571,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 2,
+    "categories": [
+      {
+        "category": "project management",
+        "score": 0.7148
+      },
+      {
+        "category": "b2b_software",
+        "score": 0.7148
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": 50.0,
+      "attribute_intents": {},
+      "negative_terms": [],
+      "user_location": null
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_08594",
+        "base_score": 0.614774,
+        "final_score": 0.894733,
+        "active_params": 2,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.874774,
+        "deltas": [
+          {
+            "component": "interest",
+            "delta": 0.01,
+            "reason": "overlap: {'software'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=project management tools"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.10722,
+            "reason": "cat_match=project management(conf=0.71)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.071667,
+            "reason": "category_terms: frozenset({'management', 'project'}); feature_terms: frozenset({'under'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.007856,
+            "reason": "over_budget: $54.90999984741211 > $50.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_08407",
+        "base_score": 0.511733,
+        "final_score": 0.867525,
+        "active_params": 2,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.874774,
+        "deltas": [
+          {
+            "component": "interest",
+            "delta": 0.02,
+            "reason": "overlap: {'management', 'project'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=project management tools"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.10722,
+            "reason": "cat_match=project management(conf=0.71)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.048571,
+            "reason": "category_terms: frozenset({'management', 'project'}); feature_terms: frozenset({'under', '50'}); benefit_terms: frozenset({'remote'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $42.189998626708984 <= $50.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_08346",
+        "base_score": 0.599283,
+        "final_score": 0.85936,
+        "active_params": 2,
+        "coverage_ratio": 0.0,
+        "query_potential_max": 1.874774,
+        "deltas": [
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=project management tools"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.10722,
+            "reason": "cat_match=project management(conf=0.71)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.052857,
+            "reason": "category_terms: frozenset({'management', 'project'}); feature_terms: frozenset({'under'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.018592,
+            "reason": "over_budget: $61.619998931884766 > $50.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_08298",
+        "base_score": 0.599283,
+        "final_score": 0.851775,
+        "active_params": 2,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.874774,
+        "deltas": [
+          {
+            "component": "interest",
+            "delta": 0.02,
+            "reason": "overlap: {'management', 'project'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=project management tools"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.10722,
+            "reason": "cat_match=project management(conf=0.71)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.055,
+            "reason": "category_terms: frozenset({'management', 'project'}); feature_terms: frozenset({'under'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.039456,
+            "reason": "over_budget: $74.66000366210938 > $50.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_08324",
+        "base_score": 0.599283,
+        "final_score": 0.846452,
+        "active_params": 2,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.874774,
+        "deltas": [
+          {
+            "component": "interest",
+            "delta": 0.01,
+            "reason": "overlap: {'software'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=project management tools"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.10722,
+            "reason": "cat_match=project management(conf=0.71)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.053333,
+            "reason": "category_terms: frozenset({'management', 'project'}); feature_terms: frozenset({'under'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.036768,
+            "reason": "over_budget: $72.9800033569336 > $50.0"
+          }
+        ]
+      }
+    ]
+  }
+}

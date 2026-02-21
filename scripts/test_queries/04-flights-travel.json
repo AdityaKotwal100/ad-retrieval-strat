@@ -1,0 +1,7 @@
+{
+  "query": "cheap flights and hotel deals",
+  "context": {
+    "age": 30,
+    "interests": ["travel"]
+  }
+}

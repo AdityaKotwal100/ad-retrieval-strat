@@ -1,0 +1,1244 @@
+{
+  "running shoes": [
+    "running shoes",
+    "road running shoes",
+    "trail running shoes",
+    "track running shoes",
+    "racing shoes",
+    "training shoes",
+    "neutral shoes",
+    "stability shoes",
+    "motion control shoes",
+    "minimalist running shoes"
+  ],
+  "workout apparel": [
+    "workout apparel",
+    "leggings",
+    "shorts",
+    "sports bras",
+    "tank tops",
+    "t shirts",
+    "hoodies",
+    "sweatshirts",
+    "joggers",
+    "compression wear"
+  ],
+  "fitness": [
+    "fitness",
+    "fitness classes",
+    "fitness programs",
+    "fitness equipment",
+    "fitness apps",
+    "fitness training",
+    "group fitness",
+    "personal training"
+  ],
+  "fitness trackers": [
+    "fitness trackers",
+    "fitness smartwatch",
+    "activity trackers",
+    "wearable fitness devices",
+    "heart rate monitors",
+    "gps fitness watch",
+    "smart bands"
+  ],
+  "supplements": [
+    "dietary supplements",
+    "protein powder",
+    "creatine",
+    "collagen",
+    "multivitamins",
+    "pre workout",
+    "amino acids",
+    "herbal supplements"
+  ],
+  "yoga gear": [
+    "yoga mats",
+    "yoga blocks",
+    "yoga straps",
+    "yoga bolsters",
+    "yoga wheels",
+    "yoga towels",
+    "yoga mat bags",
+    "yoga apparel"
+  ],
+  "gym equipment": [
+    "gym equipment",
+    "home gym systems",
+    "power racks",
+    "dumbbells",
+    "barbells",
+    "weight benches",
+    "treadmills",
+    "ellipticals",
+    "smith machines",
+    "pull up bars",
+    "resistance bands",
+    "kettlebells"
+  ],
+  "headphones": [
+    "headphones",
+    "over ear headphones",
+    "on ear headphones",
+    "in ear headphones",
+    "earbuds",
+    "wireless headphones",
+    "wired headphones",
+    "gaming headsets",
+    "studio headphones"
+  ],
+  "monitors": [
+    "computer monitors",
+    "gaming monitors",
+    "office monitors",
+    "ultrawide monitors",
+    "curved monitors",
+    "portable monitors",
+    "touchscreen monitors",
+    "lcd monitors",
+    "oled monitors"
+  ],
+  "smart home": [
+    "smart home devices",
+    "smart home hubs",
+    "smart speakers",
+    "smart displays",
+    "smart lighting",
+    "smart plugs",
+    "smart thermostats",
+    "smart locks",
+    "smart security cameras",
+    "smart doorbells",
+    "home automation systems"
+  ],
+  "smartphones": [
+    "smartphones",
+    "android phones",
+    "ios phones",
+    "foldable phones",
+    "5g phones",
+    "rugged smartphones",
+    "flagship smartphones",
+    "midrange smartphones",
+    "entry level smartphones"
+  ],
+  "tablets": [
+    "tablets",
+    "android tablets",
+    "ios tablets",
+    "windows tablets",
+    "drawing tablets",
+    "convertible tablets",
+    "rugged tablets",
+    "tablet computers"
+  ],
+  "laptops": [
+    "laptops",
+    "notebooks",
+    "ultrabooks",
+    "gaming laptops",
+    "business laptops",
+    "2 in 1 laptops",
+    "workstations",
+    "chromebooks"
+  ],
+  "streetwear": [
+    "streetwear",
+    "streetwear hoodies",
+    "streetwear sneakers",
+    "streetwear jackets",
+    "streetwear pants",
+    "streetwear t shirts",
+    "streetwear shorts",
+    "streetwear accessories"
+  ],
+  "luxury fashion": [
+    "luxury fashion",
+    "luxury handbags",
+    "luxury wallets",
+    "luxury footwear",
+    "luxury outerwear",
+    "luxury ready to wear",
+    "luxury accessories",
+    "luxury watches",
+    "luxury jewelry"
+  ],
+  "women's clothing": [
+    "women clothing",
+    "women tops",
+    "women dresses",
+    "women pants",
+    "women skirts",
+    "women coats",
+    "women jackets",
+    "women activewear",
+    "women loungewear"
+  ],
+  "men's clothing": [
+    "men clothing",
+    "men shirts",
+    "men t shirts",
+    "men pants",
+    "men jeans",
+    "men shorts",
+    "men suits",
+    "men jackets",
+    "men activewear",
+    "men outerwear"
+  ],
+  "shoes": [
+    "shoes",
+    "sneakers",
+    "boots",
+    "dress shoes",
+    "sandals",
+    "heels",
+    "loafers",
+    "running shoes",
+    "basketball shoes",
+    "hiking boots"
+  ],
+  "accessories": [
+    "accessories",
+    "jewelry",
+    "earrings",
+    "necklaces",
+    "bracelets",
+    "belts",
+    "wallets",
+    "handbags",
+    "backpacks",
+    "sunglasses",
+    "scarves"
+  ],
+  "children's clothing": [
+    "children clothing",
+    "baby clothing",
+    "kids tops",
+    "kids pants",
+    "kids jackets",
+    "school uniforms",
+    "kids activewear",
+    "kids outerwear",
+    "kids sleepwear"
+  ],
+  "beverages": [
+    "beverages",
+    "coffee",
+    "tea",
+    "energy drinks",
+    "sparkling water",
+    "juice",
+    "milk alternatives",
+    "alcoholic beverages",
+    "non alcoholic beverages"
+  ],
+  "grocery delivery": [
+    "grocery delivery",
+    "grocery delivery services",
+    "grocery delivery apps",
+    "grocery subscription",
+    "same day grocery delivery",
+    "scheduled grocery delivery"
+  ],
+  "snacks": [
+    "snacks",
+    "chips",
+    "crackers",
+    "protein bars",
+    "chocolate",
+    "nuts",
+    "candy",
+    "dried fruit"
+  ],
+  "meal delivery": [
+    "meal delivery",
+    "meal kits",
+    "prepared meals",
+    "frozen meals",
+    "meal subscription",
+    "ready to eat meals"
+  ],
+  "food_beverage": [
+    "food",
+    "beverages",
+    "dairy products",
+    "bakery products",
+    "confectionery",
+    "oils",
+    "condiments",
+    "plant based foods",
+    "hungry"
+  ],
+  "coffee": [
+    "coffee beans",
+    "ground coffee",
+    "instant coffee",
+    "coffee pods",
+    "espresso",
+    "cold brew",
+    "coffee equipment"
+  ],
+  "cooking equipment": [
+    "cookware",
+    "kitchen appliances",
+    "bakeware",
+    "cutlery",
+    "food processors",
+    "blenders",
+    "mixers",
+    "thermometers",
+    "air fryers",
+    "slow cookers"
+  ],
+  "organic food": [
+    "organic produce",
+    "organic dairy",
+    "organic grains",
+    "organic cereals",
+    "organic baby food",
+    "organic spices",
+    "organic frozen foods",
+    "organic packaged foods"
+  ],
+  "cruises": [
+    "cruises",
+    "ocean cruises",
+    "river cruises",
+    "expedition cruises",
+    "cruise lines",
+    "cruise itineraries",
+    "cruise cabins"
+  ],
+  "car rentals": [
+    "car rentals",
+    "rental cars",
+    "car rental services",
+    "airport car rentals",
+    "luxury car rentals",
+    "rental insurance"
+  ],
+  "hotels": [
+    "hotels",
+    "resorts",
+    "boutique hotels",
+    "extended stay hotels",
+    "airport hotels",
+    "beach resorts",
+    "lodging"
+  ],
+  "vacation packages": [
+    "vacation packages",
+    "all inclusive packages",
+    "flight hotel packages",
+    "cruise packages",
+    "resort packages",
+    "tour packages"
+  ],
+  "travel gear": [
+    "luggage",
+    "carry on bags",
+    "travel backpacks",
+    "travel adapters",
+    "travel accessories",
+    "neck pillows",
+    "packing cubes",
+    "travel organizers"
+  ],
+  "flights": [
+    "flights",
+    "airfare",
+    "airlines",
+    "domestic flights",
+    "international flights",
+    "connecting flights",
+    "business class",
+    "economy class"
+  ],
+  "coupe": [
+    "coupes",
+    "sports coupes",
+    "two door cars",
+    "rear wheel drive coupes",
+    "front wheel drive coupes",
+    "all wheel drive coupes"
+  ],
+  "car accessories": [
+    "car accessories",
+    "car interior accessories",
+    "car exterior accessories",
+    "car electronics",
+    "car organizers",
+    "car covers",
+    "car cleaning supplies"
+  ],
+  "auto parts": [
+    "auto parts",
+    "engine parts",
+    "brake parts",
+    "suspension parts",
+    "cooling system parts",
+    "electrical components",
+    "aftermarket parts",
+    "oem parts"
+  ],
+  "car insurance": [
+    "car insurance",
+    "liability coverage",
+    "collision coverage",
+    "comprehensive coverage",
+    "insurance deductibles",
+    "insurance premiums",
+    "insurance claims",
+    "auto insurance policies"
+  ],
+
+  "tires": [
+    "tires",
+    "all season tires",
+    "all terrain tires",
+    "winter tires",
+    "summer tires",
+    "performance tires",
+    "run flat tires",
+    "off road tires"
+  ],
+  "used cars": [
+    "used cars",
+    "certified pre owned vehicles",
+    "used sedans",
+    "used suvs",
+    "used trucks",
+    "used electric vehicles",
+    "vehicle history reports"
+  ],
+  "trucks": [
+    "trucks",
+    "pickup trucks",
+    "light duty trucks",
+    "heavy duty trucks",
+    "crew cab trucks",
+    "extended cab trucks",
+    "off road trucks"
+  ],
+  "SUVs": [
+    "suvs",
+    "compact suvs",
+    "midsize suvs",
+    "full size suvs",
+    "crossover suvs",
+    "three row suvs",
+    "all wheel drive suvs"
+  ],
+  "electric vehicles": [
+    "electric vehicles",
+    "battery electric vehicles",
+    "hybrid vehicles",
+    "plug in hybrid vehicles",
+    "electric sedans",
+    "electric suvs",
+    "charging stations"
+  ],
+  "sedan": [
+    "sedans",
+    "compact sedans",
+    "midsize sedans",
+    "full size sedans",
+    "four door sedans"
+  ],
+  "sedans": [
+    "sedans",
+    "luxury sedans",
+    "all wheel drive sedans",
+    "compact sedans",
+    "midsize sedans",
+    "full size sedans"
+  ],
+  "loans": [
+    "loans",
+    "personal loans",
+    "mortgage loans",
+    "home equity loans",
+    "auto loans",
+    "student loans",
+    "business loans",
+    "debt consolidation loans"
+  ],
+  "investing": [
+    "investing",
+    "brokerage accounts",
+    "index funds",
+    "etfs",
+    "mutual funds",
+    "dividend stocks",
+    "retirement accounts",
+    "portfolio management"
+  ],
+  "insurance": [
+    "insurance",
+    "auto insurance",
+    "home insurance",
+    "health insurance",
+    "life insurance",
+    "renters insurance",
+    "pet insurance",
+    "disability insurance"
+  ],
+  "banking": [
+    "banking",
+    "checking accounts",
+    "savings accounts",
+    "money market accounts",
+    "credit unions",
+    "online banking",
+    "business banking",
+    "international transfers"
+  ],
+  "credit cards": [
+    "credit cards",
+    "cash back cards",
+    "travel rewards cards",
+    "balance transfer cards",
+    "secured credit cards",
+    "business credit cards"
+  ],
+  "cryptocurrency": [
+    "cryptocurrency",
+    "crypto exchanges",
+    "crypto wallets",
+    "bitcoin",
+    "ethereum",
+    "altcoins",
+    "blockchain"
+  ],
+  "vitamins": [
+    "vitamins",
+    "multivitamins",
+    "vitamin d",
+    "vitamin b12",
+    "prenatal vitamins",
+    "probiotics",
+    "herbal supplements"
+  ],
+  "vision care": [
+    "eye exam near me",
+    "eye clinics near me",
+    "reading glasses online",
+    "blue light glasses",
+    "contact lens solution",
+    "eye doctor near me",
+    "astigmatism glasses",
+    "budget contacts"
+  ],
+  "dental care": [
+    "teeth cleaning near me",
+    "dentists near me",
+    "dental insurance",
+    "dental veneers",
+    "dental implants",
+    "electric toothbrush",
+    "dental floss",
+    "accepts medicaid",
+    "anxiety dental care"
+  ],
+  "telemedicine": [
+    "telemedicine providers",
+    "telemedicine appointments",
+    "telemedicine without insurance",
+    "mental health telemedicine",
+    "pediatric telemedicine",
+    "routine checkups online",
+    "covid testing online",
+    "virtual doctor visit"
+  ],
+  "mental health": [
+    "therapists near me",
+    "online counseling",
+    "therapy covered by insurance",
+    "cheap therapy options",
+    "cognitive behavioral therapy",
+    "mental health apps",
+    "anxiety and depression help",
+    "self help books"
+  ],
+  "medical devices": [
+    "blood pressure monitor",
+    "blood glucose meter",
+    "medical alert system",
+    "portable oxygen concentrator",
+    "cpap cleaning machine",
+    "hearing aids",
+    "tens unit",
+    "adjustable bed"
+  ],
+  "test prep": [
+    "sat prep",
+    "act prep",
+    "gre prep",
+    "gmat prep",
+    "lsat prep",
+    "mcat prep",
+    "toefl practice tests",
+    "ged classes",
+    "ap calculus bc"
+  ],
+  "online courses": [
+    "affordable online courses",
+    "free online courses",
+    "coding courses",
+    "python courses",
+    "data science courses",
+    "digital marketing courses",
+    "language learning platforms",
+    "online mba courses",
+    "photography courses"
+  ],
+  "tutoring": [
+    "sat tutoring",
+    "act tutoring",
+    "online math tutors",
+    "spanish tutoring",
+    "chemistry tutors near me",
+    "english tutors",
+    "test prep tutoring",
+    "tutoring services"
+  ],
+  "textbooks": [
+    "used textbooks online",
+    "cheap textbooks",
+    "textbook rental",
+    "college textbooks",
+    "organic chemistry textbook",
+    "linear algebra textbook",
+    "computer science textbooks",
+    "nursing textbooks"
+  ],
+  "coding bootcamps": [
+    "coding bootcamps near me",
+    "online coding bootcamps",
+    "part time bootcamps",
+    "javascript bootcamps",
+    "computer science bootcamp",
+    "affordable coding bootcamps",
+    "bootcamp reviews"
+  ],
+  "language learning": [
+    "language learning apps",
+    "language learning websites",
+    "language learning podcasts",
+    "language learning tutor",
+    "language learning resources",
+    "language learning courses",
+    "learn english",
+    "learn italian",
+    "study methods"
+  ],
+  "furniture": [
+    "living room furniture",
+    "furniture sets",
+    "furniture stores near me",
+    "sectional sofas",
+    "mid century modern furniture",
+    "outdoor patio furniture",
+    "ergonomic office chairs",
+    "bedroom furniture ideas",
+    "affordable furniture"
+  ],
+  "appliances": [
+    "washing machines",
+    "appliance sale near me",
+    "energy efficient appliances",
+    "stainless steel appliances",
+    "appliance repair services",
+    "refrigerator brands",
+    "vacuum cleaner",
+    "stand mixer"
+  ],
+  "home decor": [
+    "home decor",
+    "wall art",
+    "framed art",
+    "decorative pillows",
+    "curtains",
+    "lighting fixtures",
+    "decor accessories",
+    "decorative objects"
+  ],
+  "gardening tools": [
+    "gardening tools",
+    "garden hoses",
+    "pruning tools",
+    "leaf blowers",
+    "garden rakes",
+    "garden trowels",
+    "tillers",
+    "gardening gloves"
+  ],
+  "cleaning": [
+    "cleaning supplies",
+    "all purpose cleaners",
+    "glass cleaners",
+    "mold removers",
+    "steam mops",
+    "carpet cleaners",
+    "toilet cleaners",
+    "surface cleaners"
+  ],
+  "beauty": [
+    "beauty products",
+    "makeup",
+    "makeup brushes",
+    "eyeshadow palettes",
+    "lipstick",
+    "foundation",
+    "concealer"
+  ],
+  "skincare": [
+    "skincare",
+    "cleansers",
+    "serums",
+    "moisturizers",
+    "eye creams",
+    "face masks",
+    "exfoliants",
+    "sunscreen"
+  ],
+  "men's grooming": [
+    "mens grooming",
+    "facial cleansers",
+    "moisturizers",
+    "beard care",
+    "hair styling products",
+    "electric shavers",
+    "trimmers",
+    "cologne"
+  ],
+  "makeup": [
+    "makeup",
+    "foundation",
+    "blush",
+    "highlighter",
+    "mascara",
+    "setting spray",
+    "makeup remover"
+  ],
+  "fragrance": [
+    "fragrance",
+    "perfume",
+    "eau de parfum",
+    "eau de toilette",
+    "cologne",
+    "unisex fragrance",
+    "fragrance oils"
+  ],
+  "haircare": [
+    "haircare",
+    "shampoo",
+    "conditioner",
+    "hair oil",
+    "hair serum",
+    "hair dryers",
+    "hair straighteners",
+    "hair brushes"
+  ],
+  "nail care": [
+    "nail care",
+    "nail polish",
+    "nail polish remover",
+    "cuticle oil",
+    "gel nail kits",
+    "nail files",
+    "top coat"
+  ],
+  "books": [
+    "books",
+    "fiction books",
+    "nonfiction books",
+    "mystery books",
+    "fantasy books",
+    "history books",
+    "finance books",
+    "self help books"
+  ],
+  "movies": [
+    "movies",
+    "action films",
+    "comedy films",
+    "romance films",
+    "horror films",
+    "animated films",
+    "science fiction films",
+    "drama films",
+    "thriller films",
+    "documentary films"
+  ],
+  "streaming services": [
+    "streaming services",
+    "video streaming platforms",
+    "live tv streaming",
+    "on demand streaming",
+    "anime streaming",
+    "music streaming services",
+    "subscription streaming"
+  ],
+  "podcasts": [
+    "podcasts",
+    "true crime podcasts",
+    "comedy podcasts",
+    "news podcasts",
+    "history podcasts",
+    "education podcasts",
+    "business podcasts"
+  ],
+  "audiobooks": [
+    "audiobooks",
+    "fiction audiobooks",
+    "nonfiction audiobooks",
+    "science fiction audiobooks",
+    "thriller audiobooks",
+    "history audiobooks",
+    "audiobook subscriptions"
+  ],
+  "music": [
+    "music",
+    "music streaming",
+    "music albums",
+    "music artists",
+    "music genres",
+    "live music",
+    "music podcasts"
+  ],
+  "concerts": [
+    "concerts",
+    "live concerts",
+    "music festivals",
+    "concert tickets",
+    "tour dates",
+    "live performances"
+  ],
+  "mobile games": [
+    "mobile games",
+    "rpg mobile games",
+    "strategy mobile games",
+    "puzzle mobile games",
+    "action mobile games",
+    "multiplayer mobile games"
+  ],
+  "PC gaming": [
+    "pc games",
+    "rpg pc games",
+    "strategy pc games",
+    "open world games",
+    "multiplayer pc games",
+    "gaming peripherals"
+  ],
+  "consoles": [
+    "gaming consoles",
+    "home consoles",
+    "handheld consoles",
+    "console accessories",
+    "console storage",
+    "console repair"
+  ],
+  "VR": [
+    "virtual reality",
+    "vr headsets",
+    "vr controllers",
+    "vr games",
+    "vr accessories",
+    "vr systems"
+  ],
+  "gaming accessories": [
+    "gaming accessories",
+    "gaming mouse",
+    "gaming keyboard",
+    "gaming headset",
+    "gaming controller",
+    "gaming chair",
+    "gaming microphone"
+  ],
+  "game subscriptions": [
+    "game subscriptions",
+    "cloud gaming services",
+    "game pass services",
+    "console subscriptions",
+    "digital game libraries"
+  ],
+  "pet health": [
+    "pet health",
+    "flea prevention",
+    "tick prevention",
+    "pet first aid",
+    "pet supplements",
+    "pet dental care",
+    "pet medications",
+    "veterinary services"
+  ],
+  "pet insurance": [
+    "pet insurance",
+    "pet insurance policies",
+    "pet insurance coverage",
+    "accident coverage",
+    "illness coverage",
+    "veterinary reimbursement"
+  ],
+  "pet food": [
+    "pet food",
+    "dog food",
+    "cat food",
+    "puppy food",
+    "senior pet food",
+    "dry pet food",
+    "wet pet food",
+    "raw pet food"
+  ],
+  "pet service": [
+    "pet services",
+    "dog walking",
+    "pet boarding",
+    "pet grooming",
+    "veterinary clinics",
+    "pet transportation",
+    "pet sitting",
+    "pet cremation"
+  ],
+  "pet supplies": [
+    "pet supplies",
+    "litter boxes",
+    "pet feeders",
+    "scratching posts",
+    "pet beds",
+    "pet harnesses",
+    "pet crates",
+    "water fountains"
+  ],
+  "pet care": [
+    "pet care",
+    "pet wellness plans",
+    "flea treatments",
+    "tick treatments",
+    "pet dental chews",
+    "pet supplements"
+  ],
+  "pet grooming": [
+    "pet grooming",
+    "grooming clippers",
+    "grooming shears",
+    "grooming shampoo",
+    "deshedding tools",
+    "grooming dryers",
+    "grooming brushes"
+  ],
+  "pet accessories": [
+    "pet accessories",
+    "pet carriers",
+    "pet trees",
+    "pet leashes",
+    "pet bowls",
+    "aquarium filters",
+    "aquarium pumps"
+  ],
+  "pet services": [
+    "pet services",
+    "pet adoption",
+    "pet vaccination",
+    "dog grooming",
+    "dog walking",
+    "pet dental services",
+    "pet training"
+  ],
+  "pet toys": [
+    "pet toys",
+    "dog toys",
+    "cat toys",
+    "chew toys",
+    "puzzle toys",
+    "interactive toys",
+    "scratching posts"
+  ],
+  "mortgages": [
+    "mortgages",
+    "fixed rate mortgages",
+    "adjustable rate mortgages",
+    "refinance mortgages",
+    "fha loans",
+    "va loans",
+    "mortgage pre approval"
+  ],
+  "property management": [
+    "property management",
+    "property management companies",
+    "property management services",
+    "property management software",
+    "rental management",
+    "hoa management"
+  ],
+  "moving services": [
+    "moving services",
+    "local movers",
+    "long distance movers",
+    "interstate movers",
+    "moving companies",
+    "moving containers"
+  ],
+  "home buying": [
+    "home buying",
+    "real estate agents",
+    "home inspections",
+    "home warranties",
+    "new construction homes",
+    "resale homes",
+    "down payment assistance"
+  ],
+  "rentals": [
+    "rentals",
+    "apartments",
+    "rental houses",
+    "short term rentals",
+    "furnished rentals",
+    "lease agreements",
+    "property listings"
+  ],
+  "home improvement": [
+    "home improvement",
+    "home renovation",
+    "home repair",
+    "home improvement tools",
+    "windows",
+    "countertops",
+    "decking",
+    "landscaping",
+    "plumbing services",
+    "home automation"
+  ],
+  "b2b_software": [
+    "business software",
+    "erp software",
+    "project management software",
+    "email marketing software",
+    "customer support software",
+    "cloud storage",
+    "video conferencing software",
+    "accounting software",
+    "data analytics software",
+    "cybersecurity software"
+  ],
+  "cloud hosting": [
+    "cloud hosting",
+    "dedicated hosting",
+    "virtual private servers",
+    "shared hosting",
+    "managed hosting",
+    "e commerce hosting",
+    "server infrastructure"
+  ],
+  "cybersecurity": [
+    "cybersecurity",
+    "network security",
+    "endpoint security",
+    "security consulting",
+    "security training",
+    "security audits",
+    "cyber insurance"
+  ],
+  "CRM": [
+    "customer relationship management",
+    "crm software",
+    "sales automation",
+    "marketing automation",
+    "lead management",
+    "customer service crm"
+  ],
+  "project management": [
+    "project management",
+    "project management software",
+    "task management",
+    "collaboration software",
+    "project methodologies",
+    "project certification"
+  ],
+  "HR software": [
+    "human resources software",
+    "payroll software",
+    "applicant tracking systems",
+    "employee self service",
+    "benefits administration",
+    "performance management"
+  ],
+  "analytics": [
+    "analytics",
+    "web analytics",
+    "marketing analytics",
+    "business intelligence",
+    "data visualization",
+    "conversion optimization"
+  ],
+  "business formation": [
+    "business formation",
+    "llc formation",
+    "corporation formation",
+    "ein registration",
+    "business registration services",
+    "business compliance"
+  ],
+  "immigration": [
+    "immigration services",
+    "immigration law",
+    "immigration attorneys",
+    "visa applications",
+    "green card applications",
+    "citizenship services"
+  ],
+  "tax services": [
+    "tax services",
+    "tax preparation",
+    "tax advisory",
+    "tax filing",
+    "corporate tax",
+    "personal tax"
+  ],
+  "estate planning": [
+    "estate planning",
+    "estate planning attorneys",
+    "wills",
+    "trusts",
+    "probate services",
+    "estate planning software"
+  ],
+  "legal services": [
+    "legal services",
+    "attorneys",
+    "criminal defense",
+    "family law",
+    "employment law",
+    "personal injury law",
+    "landlord tenant law"
+  ],
+  "IP protection": [
+    "intellectual property",
+    "trademarks",
+    "patents",
+    "copyrights",
+    "ip attorneys",
+    "trademark registration",
+    "patent filing",
+    "ip litigation"
+  ],
+  "life insurance": [
+    "life insurance",
+    "term life insurance",
+    "whole life insurance",
+    "universal life insurance",
+    "life insurance policies",
+    "life insurance providers"
+  ],
+  "home insurance": [
+    "home insurance",
+    "homeowners insurance",
+    "property insurance",
+    "dwelling coverage",
+    "home insurance policies"
+  ],
+  "renters insurance": [
+    "renters insurance",
+    "tenant insurance",
+    "personal property coverage",
+    "liability coverage"
+  ],
+  "health insurance": [
+    "health insurance",
+    "health insurance plans",
+    "hmo plans",
+    "ppo plans",
+    "high deductible plans",
+    "medical coverage"
+  ],
+  "auto insurance": [
+    "auto insurance",
+    "liability coverage",
+    "collision coverage",
+    "comprehensive coverage",
+    "auto insurance policies"
+  ],
+  "luxury travel": [
+    "luxury travel",
+    "luxury tours",
+    "luxury resorts",
+    "private tours",
+    "all inclusive resorts",
+    "travel concierge services"
+  ],
+  "luxury cars": [
+    "luxury cars",
+    "luxury sedans",
+    "luxury suvs",
+    "luxury electric vehicles",
+    "sports cars"
+  ],
+  "fine jewelry": [
+    "fine jewelry",
+    "diamond jewelry",
+    "gold jewelry",
+    "platinum jewelry",
+    "jewelry designers",
+    "jewelry appraisal"
+  ],
+  "designer bags": [
+    "designer bags",
+    "luxury handbags",
+    "tote bags",
+    "crossbody bags",
+    "clutch bags"
+  ],
+  "luxury watches": [
+    "luxury watches",
+    "mechanical watches",
+    "automatic watches",
+    "chronograph watches",
+    "dive watches"
+  ],
+  "premium spirits": [
+    "spirits",
+    "whiskey",
+    "bourbon",
+    "scotch",
+    "rum",
+    "gin",
+    "cognac"
+  ],
+  "composting": [
+    "composting",
+    "compost bins",
+    "compost tumblers",
+    "composting systems",
+    "organic waste composting"
+  ],
+  "water conservation": [
+    "water conservation",
+    "water efficient fixtures",
+    "low flow fixtures",
+    "rainwater harvesting",
+    "drought resistant landscaping"
+  ],
+  "sustainable fashion": [
+    "sustainable fashion",
+    "ethical fashion",
+    "organic clothing",
+    "recycled fabrics",
+    "eco apparel"
+  ],
+  "solar panels": [
+    "solar panels",
+    "solar panel systems",
+    "solar inverters",
+    "solar batteries",
+    "solar installation"
+  ],
+  "eco-friendly products": [
+    "eco friendly products",
+    "reusable products",
+    "plastic free products",
+    "sustainable household products",
+    "biodegradable products"
+  ]
+}

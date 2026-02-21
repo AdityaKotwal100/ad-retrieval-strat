@@ -1,0 +1,11 @@
+{
+  "query": "budget bluetooth earbuds under $30 for running",
+  "context": {
+    "age": 20,
+    "interests": [
+      "music",
+      "running",
+      "fitness"
+    ]
+  }
+}

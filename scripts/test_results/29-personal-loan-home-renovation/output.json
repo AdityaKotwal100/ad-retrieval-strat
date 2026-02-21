@@ -1,0 +1,619 @@
+{
+  "ad_eligibility": 0.8543,
+  "extracted_categories": [
+    "loans",
+    "home improvement"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_03349",
+      "relevance_score": 0.512272,
+      "internal_score": 0.83078,
+      "title": "Flex Loan: Personal Loans, Simplified",
+      "advertiser": "SoFi",
+      "category": "loans",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3349",
+      "creative_format": "text",
+      "budget_remaining": 91844.95
+    },
+    {
+      "campaign_id": "camp_07648",
+      "relevance_score": 0.395804,
+      "internal_score": 0.641898,
+      "title": "RenovateRight: Home Improvement Made Easy",
+      "advertiser": "RenovateRight",
+      "category": "home improvement",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7648",
+      "creative_format": "video",
+      "budget_remaining": 78719.87
+    },
+    {
+      "campaign_id": "camp_07845",
+      "relevance_score": 0.35186,
+      "internal_score": 0.570631,
+      "title": "Spring Home Cleaning - Refresh Your Space",
+      "advertiser": "SparkleClean",
+      "category": "home improvement",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7845",
+      "creative_format": "native",
+      "budget_remaining": 99200.81
+    },
+    {
+      "campaign_id": "camp_03724",
+      "relevance_score": 0.315179,
+      "internal_score": 0.511143,
+      "title": "SoFi: Achieve Your Financial Goals",
+      "advertiser": "SoFi",
+      "category": "loans",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3724",
+      "creative_format": "native",
+      "budget_remaining": 77194.67
+    },
+    {
+      "campaign_id": "camp_03534",
+      "relevance_score": 0.303029,
+      "internal_score": 0.491439,
+      "title": "QuickCash: Get a Personal Loan Fast",
+      "advertiser": "QuickCash",
+      "category": "loans",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3534",
+      "creative_format": "text",
+      "budget_remaining": 81022.05
+    },
+    {
+      "campaign_id": "camp_03562",
+      "relevance_score": 0.288139,
+      "internal_score": 0.467292,
+      "title": "HomeFirst Mortgage: Your Dream Home Awaits",
+      "advertiser": "HomeFirst Mortgage",
+      "category": "loans",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3562",
+      "creative_format": "carousel",
+      "budget_remaining": 52633.95
+    },
+    {
+      "campaign_id": "camp_04957",
+      "relevance_score": 0.184827,
+      "internal_score": 0.299745,
+      "title": "SmartSprinkler: Automated Garden Watering",
+      "advertiser": "AquaWise",
+      "category": "smart home",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4957",
+      "creative_format": "native",
+      "budget_remaining": 25264.03
+    },
+    {
+      "campaign_id": "camp_05093",
+      "relevance_score": 0.170859,
+      "internal_score": 0.277091,
+      "title": "SmartBloom WiFi Sprinkler Controller",
+      "advertiser": "SmartBloom",
+      "category": "smart home",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5093",
+      "creative_format": "video",
+      "budget_remaining": 29651.2
+    },
+    {
+      "campaign_id": "camp_04917",
+      "relevance_score": 0.170314,
+      "internal_score": 0.276209,
+      "title": "SmartSprinkler - Intelligent Watering System",
+      "advertiser": "RainWise",
+      "category": "smart home",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4917",
+      "creative_format": "text",
+      "budget_remaining": 97053.93
+    },
+    {
+      "campaign_id": "camp_07981",
+      "relevance_score": 0.167633,
+      "internal_score": 0.27186,
+      "title": "Find Your Dream Home Today!",
+      "advertiser": "Realtor.com",
+      "category": "home buying",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7981",
+      "creative_format": "display",
+      "budget_remaining": 70389.76
+    },
+    {
+      "campaign_id": "camp_07570",
+      "relevance_score": 0.161579,
+      "internal_score": 0.262042,
+      "title": "Trulia: Find Your Neighborhood Fit",
+      "advertiser": "Trulia",
+      "category": "home buying",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7570",
+      "creative_format": "carousel",
+      "budget_remaining": 35726.17
+    },
+    {
+      "campaign_id": "camp_07600",
+      "relevance_score": 0.140226,
+      "internal_score": 0.227412,
+      "title": "Modern Condo Living Awaits You",
+      "advertiser": "Skyline Realty",
+      "category": "home buying",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7600",
+      "creative_format": "text",
+      "budget_remaining": 56350.3
+    },
+    {
+      "campaign_id": "camp_08053",
+      "relevance_score": 0.113757,
+      "internal_score": 0.184486,
+      "title": "Simplified Mortgage Pre-Approval - QuickApply",
+      "advertiser": "QuickApply Finance",
+      "category": "mortgages",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/8053",
+      "creative_format": "video",
+      "budget_remaining": 41321.58
+    },
+    {
+      "campaign_id": "camp_05016",
+      "relevance_score": 0.100349,
+      "internal_score": 0.162741,
+      "title": "Roomba i7+: Never Vacuum Again",
+      "advertiser": "Roomba",
+      "category": "appliances",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5016",
+      "creative_format": "native",
+      "budget_remaining": 53186.49
+    },
+    {
+      "campaign_id": "camp_03766",
+      "relevance_score": 0.04923,
+      "internal_score": 0.079838,
+      "title": "Secure Your Future with Term Life",
+      "advertiser": "Haven Life",
+      "category": "insurance",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3766",
+      "creative_format": "carousel",
+      "budget_remaining": 5804.61
+    },
+    {
+      "campaign_id": "camp_03917",
+      "relevance_score": 0.036431,
+      "internal_score": 0.059082,
+      "title": "BrightSmile Whitening Strips: Get White Teeth",
+      "advertiser": "Colgate",
+      "category": "dental care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/3917",
+      "creative_format": "native",
+      "budget_remaining": 23256.0
+    },
+    {
+      "campaign_id": "camp_02772",
+      "relevance_score": 0.028113,
+      "internal_score": 0.045593,
+      "title": "Goodyear: Engineered for Excellence",
+      "advertiser": "Goodyear",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2772",
+      "creative_format": "video",
+      "budget_remaining": 21291.43
+    },
+    {
+      "campaign_id": "camp_07577",
+      "relevance_score": 0.024974,
+      "internal_score": 0.040502,
+      "title": "Rent Your Perfect Apartment Now",
+      "advertiser": "Apartments.com",
+      "category": "rentals",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7577",
+      "creative_format": "video",
+      "budget_remaining": 65813.27
+    },
+    {
+      "campaign_id": "camp_07999",
+      "relevance_score": 0.021548,
+      "internal_score": 0.034946,
+      "title": "Apartments.com: Your Perfect Rental",
+      "advertiser": "Apartments.com",
+      "category": "rentals",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7999",
+      "creative_format": "display",
+      "budget_remaining": 76207.58
+    },
+    {
+      "campaign_id": "camp_07914",
+      "relevance_score": 0.017848,
+      "internal_score": 0.028946,
+      "title": "Modern Townhouses for Rent",
+      "advertiser": "CityLiving Rentals",
+      "category": "rentals",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7914",
+      "creative_format": "display",
+      "budget_remaining": 61269.47
+    },
+    {
+      "campaign_id": "camp_07749",
+      "relevance_score": 0.007228,
+      "internal_score": 0.011721,
+      "title": "EZ Moving Solutions: Stress-Free Relocation",
+      "advertiser": "EZ Moving Solutions",
+      "category": "moving services",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7749",
+      "creative_format": "video",
+      "budget_remaining": 14622.14
+    },
+    {
+      "campaign_id": "camp_07667",
+      "relevance_score": 0.006127,
+      "internal_score": 0.009936,
+      "title": "Stress-Free Moving with PackAssist",
+      "advertiser": "U-Haul",
+      "category": "moving services",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7667",
+      "creative_format": "carousel",
+      "budget_remaining": 37750.45
+    },
+    {
+      "campaign_id": "camp_04096",
+      "relevance_score": 0.005324,
+      "internal_score": 0.008634,
+      "title": "Anywhere Dental Care with SmileDirect",
+      "advertiser": "SmileDirectClub",
+      "category": "dental care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4096",
+      "creative_format": "carousel",
+      "budget_remaining": 88555.02
+    },
+    {
+      "campaign_id": "camp_05106",
+      "relevance_score": 0.005013,
+      "internal_score": 0.008129,
+      "title": "Home Depot: Grill Master Specials",
+      "advertiser": "Home Depot",
+      "category": "appliances",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5106",
+      "creative_format": "text",
+      "budget_remaining": 98210.28
+    },
+    {
+      "campaign_id": "camp_07755",
+      "relevance_score": 0.003428,
+      "internal_score": 0.005559,
+      "title": "SwiftMove: Local and Long Distance Movers",
+      "advertiser": "SwiftMove",
+      "category": "moving services",
+      "vertical": "real_estate",
+      "landing_url": "https://example.com/campaign/7755",
+      "creative_format": "display",
+      "budget_remaining": 88891.58
+    },
+    {
+      "campaign_id": "camp_03009",
+      "relevance_score": 0.0,
+      "internal_score": -0.007692,
+      "title": "New Hankook SUV Tire",
+      "advertiser": "Hankook",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3009",
+      "creative_format": "text",
+      "budget_remaining": 40659.26
+    },
+    {
+      "campaign_id": "camp_02794",
+      "relevance_score": 0.0,
+      "internal_score": -0.007859,
+      "title": "Winter Tires: Safe Driving This Season",
+      "advertiser": "SnowPro",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2794",
+      "creative_format": "text",
+      "budget_remaining": 65129.24
+    },
+    {
+      "campaign_id": "camp_03646",
+      "relevance_score": 0.0,
+      "internal_score": -0.017662,
+      "title": "Secure Your Future: EverGuard Term Life",
+      "advertiser": "EverGuard",
+      "category": "insurance",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3646",
+      "creative_format": "video",
+      "budget_remaining": 31771.42
+    },
+    {
+      "campaign_id": "camp_03514",
+      "relevance_score": 0.0,
+      "internal_score": -0.031007,
+      "title": "Capital One SavorOne: Dining and Entertainment",
+      "advertiser": "Capital One",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3514",
+      "creative_format": "display",
+      "budget_remaining": 89024.65
+    },
+    {
+      "campaign_id": "camp_04099",
+      "relevance_score": 0.0,
+      "internal_score": -0.032789,
+      "title": "See Clearly with ClearView Optics",
+      "advertiser": "ClearView Optics",
+      "category": "vision care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4099",
+      "creative_format": "carousel",
+      "budget_remaining": 30984.81
+    },
+    {
+      "campaign_id": "camp_04323",
+      "relevance_score": 0.0,
+      "internal_score": -0.045922,
+      "title": "Shine Dental: Brighter Smiles, Happier Lives",
+      "advertiser": "Shine Dental",
+      "category": "dental care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4323",
+      "creative_format": "display",
+      "budget_remaining": 72006.68
+    }
+  ],
+  "latency_ms": 8.27,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 31,
+    "filter_drops": {
+      "geo_include": 1778,
+      "age_range": 184,
+      "gender": 6,
+      "category_gender_mismatch": 1
+    },
+    "n_results": 31,
+    "gated": false,
+    "timing_ms": {
+      "embed": 1.85,
+      "parallel_stages": 1.11,
+      "parse": 0.47,
+      "filter_and_rerank": 4.47,
+      "total": 8.27
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0692,
+      "commercial_boost": 0.9179,
+      "top_cluster": "financial_hardship",
+      "top_cluster_sim": 0.3272,
+      "commercial_sim": 0.1473,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0692,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 2,
+    "categories": [
+      {
+        "category": "loans",
+        "score": 0.6046
+      },
+      {
+        "category": "home improvement",
+        "score": 0.5545
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {},
+      "negative_terms": [],
+      "user_location": "US-CO"
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_03349",
+        "base_score": 0.321757,
+        "final_score": 0.83078,
+        "active_params": 3,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.621757,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CO"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 45 in [45,53]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'investing', 'finance'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.15,
+            "reason": "leaf_partial=unsecured personal loan"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.09069,
+            "reason": "cat_match=loans(conf=0.60)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.123333,
+            "reason": "model_terms: frozenset({'loan'}); category_terms: frozenset({'personal', 'loan'}); feature_terms: frozenset({'low'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_07648",
+        "base_score": 0.248723,
+        "final_score": 0.641898,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.621757,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CO"
+          },
+          {
+            "component": "demographic",
+            "delta": -0.01,
+            "reason": "age 45 outside [38,44]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'home', 'improvement'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.2,
+            "reason": "category=home renovation"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083175,
+            "reason": "cat_match=home improvement(conf=0.55)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.066667,
+            "reason": "category_terms: frozenset({'home', 'renovation'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_07845",
+        "base_score": 0.260789,
+        "final_score": 0.570631,
+        "active_params": 3,
+        "coverage_ratio": 0.3333,
+        "query_potential_max": 1.621757,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CO"
+          },
+          {
+            "component": "demographic",
+            "delta": -0.01,
+            "reason": "age 45 outside [38,44]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.2,
+            "reason": "category=home renovation"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083175,
+            "reason": "cat_match=home improvement(conf=0.55)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.013333,
+            "reason": "model_terms: frozenset({'home'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_03724",
+        "base_score": 0.31712,
+        "final_score": 0.511143,
+        "active_params": 3,
+        "coverage_ratio": 0.3333,
+        "query_potential_max": 1.621757,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CO"
+          },
+          {
+            "component": "demographic",
+            "delta": -0.01,
+            "reason": "age 45 outside [38,44]; gender_match"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.09069,
+            "reason": "cat_match=loans(conf=0.60)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.09,
+            "reason": "model_terms: frozenset({'personal'}); category_terms: frozenset({'personal', 'loan'}); feature_terms: frozenset({'low'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_03534",
+        "base_score": 0.304082,
+        "final_score": 0.491439,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.621757,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CO"
+          },
+          {
+            "component": "demographic",
+            "delta": -0.01,
+            "reason": "age 45 outside [37,44]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'investing', 'finance'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.09069,
+            "reason": "cat_match=loans(conf=0.60)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.053333,
+            "reason": "model_terms: frozenset({'personal'}); category_terms: frozenset({'personal'})"
+          }
+        ]
+      }
+    ]
+  }
+}

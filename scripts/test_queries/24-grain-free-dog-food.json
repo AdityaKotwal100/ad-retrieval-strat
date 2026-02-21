@@ -1,0 +1,8 @@
+{
+  "query": "grain-free natural dog food for large breed adult dogs",
+  "context": {
+    "age": 38,
+    "gender": "female",
+    "interests": ["pet food", "pet health", "dogs"]
+  }
+}

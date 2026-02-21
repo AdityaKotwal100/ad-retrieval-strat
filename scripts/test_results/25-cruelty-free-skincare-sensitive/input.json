@@ -1,0 +1,12 @@
+{
+  "query": "cruelty-free moisturizer for sensitive skin anti-aging",
+  "context": {
+    "age": 42,
+    "gender": "female",
+    "interests": [
+      "skincare",
+      "beauty",
+      "wellness"
+    ]
+  }
+}

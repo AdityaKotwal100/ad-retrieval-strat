@@ -1,0 +1,49 @@
+schema_version: 1
+
+# Weight file for scoring components.
+# Type invariant: every field below is a float.
+# Value convention: positive values boost, negative values penalize.
+# Practical range: keep each weight in roughly [-1.0, 1.0] so FAISS similarity
+# remains the primary relevance signal.
+# System invariant: weights are independent; they do not need to sum to 1.
+
+taxonomy:
+  category_match: 0.2        # boost when taxonomy category phrase matches query
+  subcategory_match: 0.25     # boost when taxonomy subcategory phrase matches query
+  leaf_match: 0.3            # boost when taxonomy leaf phrase matches query
+  mismatch_penalty: -0.15     # penalty when query has no overlap with campaign taxonomy
+
+brand:
+  name_match: 0.15           # boost for matching brand name
+  product_line_match: 0.12   # boost for matching brand product line
+  mismatch_penalty: -0.12    # penalty when query specifies a brand but campaign does not match
+
+attributes:
+  match_boost: 0.02          # per-attribute boost for explicit query attribute match
+  contradiction_penalty: -0.04  # per-attribute penalty for explicit contradiction
+
+keywords:
+  brand_term_boost: 0.05     # max boost from overlap in brand keyword bucket
+  model_term_boost: 0.04     # max boost from overlap in model keyword bucket
+  category_term_boost: 0.10  # max boost from overlap in category keyword bucket
+  feature_term_boost: 0.02   # max boost from overlap in feature keyword bucket
+  benefit_term_boost: 0.02   # max boost from overlap in benefit keyword bucket
+
+pricing:
+  budget_match_boost: 0.08   # boost when campaign price aligns with budget signals
+  over_budget_penalty: -0.08 # penalty scaled by over-budget ratio
+
+geo_demo:
+  location_match: 0.05    # boost for matching user location targeting
+  age_match: 0.04         # boost when age fits campaign range
+  age_mismatch: -0.04     # penalty when age does not fit campaign range
+  gender_match: 0.03      # boost when gender targeting matches
+  gender_mismatch: -0.03  # penalty when gender targeting conflicts
+  interest_overlap: 0.05  # max boost scaled by overlap ratio of user interests
+
+contradiction:
+  negative_keyword_penalty: -0.30  # penalty per matched negative keyword phrase
+
+category_alignment:
+  match_weight: 0.15      # multiplied by extracted category confidence for semantic match
+  mismatch_penalty: -0.05 # applied when top extracted category is confident and non-overlapping

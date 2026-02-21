@@ -1,0 +1,1490 @@
+[
+  {
+    "campaign_id": "camp_00010",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Endurance Apparel: Go The Distance Endurance Apparel is tough enough for the longest workouts. Performance fabrics, durable construction, and comfortable fit. Endurance Apparel ProFormance workout app..."
+  },
+  {
+    "campaign_id": "camp_00207",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Reebok Nano X4: Dominate Your WOD The Reebok Nano X4 is built for every WOD. Unmatched flexibility meets premium durability. Push your limits. Shop now! Reebok Nano X4 workout apparel men's activewear..."
+  },
+  {
+    "campaign_id": "camp_00280",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "ActiveFlex Leggings: Move Freely Experience ultimate comfort and flexibility with ActiveFlex Leggings. Perfect for any workout, or just lounging around. Shop now! ActiveFlex Apparel SculptFlex workout..."
+  },
+  {
+    "campaign_id": "camp_00405",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "SwiftStride Leggings: Move With Freedom Experience unrestricted movement and superior comfort with SwiftStride leggings. Perfect for any workout or everyday wear. SwiftStride High-Waisted Leggings wor..."
+  },
+  {
+    "campaign_id": "camp_00407",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Under Armour: Train Without Limits Unlock your potential with Under Armour's latest training apparel. Engineered for performance, built for comfort. Push your limits. Under Armour Training Collection ..."
+  },
+  {
+    "campaign_id": "camp_00419",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "FlexFit Apparel: Move Freely Experience unrestricted movement with FlexFit Apparel's innovative designs. Comfort and performance combined for your best workout yet. FlexFit workout apparel women's tra..."
+  },
+  {
+    "campaign_id": "camp_00465",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "AuraFlow Yoga Pants Women High AuraFlow high-waisted yoga pants offer support, flexibility and ultimate comfort. Find your flow in style and total confidence. AuraFlow Yoga Pants yoga gear pants leggi..."
+  },
+  {
+    "campaign_id": "camp_01085",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Urban Edge: Distressed Denim Jackets Rebel against the ordinary. Our distressed denim jackets offer a rugged, stylish edge to any outfit. Shop now! Levi's Trucker Jacket men's clothing jackets denim j..."
+  },
+  {
+    "campaign_id": "camp_01088",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Timeless Elegance: Silk Scarves Collection Add a touch of luxury to your look with our exquisite silk scarves. Available in vibrant colors and unique patterns. Gucci Silk Collection accessories scarve..."
+  },
+  {
+    "campaign_id": "camp_01090",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Preppy Classics: Embroidered Polo Shirts Elevate your casual style with our classic embroidered polo shirts. Timeless designs, premium quality. Shop the collection. Ralph Lauren Polo Ralph Lauren men'..."
+  },
+  {
+    "campaign_id": "camp_01094",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Sustainable Style: Organic Cotton Jeans Feel good in our stylish organic cotton jeans. Made from sustainable materials for a better tomorrow. Find your perfect fit! H&M Conscious Collection women's cl..."
+  },
+  {
+    "campaign_id": "camp_01095",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "The Perfect Belt: Leather Essentials Complete your look with our premium leather belts. Crafted with quality and style, the perfect accessory for every outfit. Artisan Leather Goods Essential Collecti..."
+  },
+  {
+    "campaign_id": "camp_01099",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Effortless Elegance: The Silk Slip Dress Experience luxury in simplicity. Our silk slip dress drapes beautifully, offering unmatched comfort and sophisticated style for any occasion. Aurelian Atelier ..."
+  },
+  {
+    "campaign_id": "camp_01100",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M: Fall's Coziest Knitwear Wrap yourself in warmth. Discover H&M's latest collection of cozy knit sweaters, perfect for crisp autumn days and nights. H&M Fall Knitwear women's clothing sweaters knit..."
+  },
+  {
+    "campaign_id": "camp_01102",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nike Air Max: Run with Confidence Experience unparalleled cushioning. Nike Air Max provides exceptional comfort and support for every stride. Find your perfect pair today! Nike Air Max shoes sneakers ..."
+  },
+  {
+    "campaign_id": "camp_01105",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Zara: Summer Essential Linen Collection Stay cool and chic. Zara's linen collection offers breathable style for hot summer days. Discover dresses, pants, and tops. Zara Linen Collection women's clothi..."
+  },
+  {
+    "campaign_id": "camp_01107",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Affordable Style for Fashionistas Discover the latest trends without breaking the bank! Shein offers affordable, trendy clothing and accessories for every style. Shein New Arrivals women's clot..."
+  },
+  {
+    "campaign_id": "camp_01113",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Veridia: Recycled Jewelry Wear your conscience with Veridia. Every sale supports environmental causes with unique, ethically sourced recycled jewelry. Veridia Conscious Collection accessories jewelry ..."
+  },
+  {
+    "campaign_id": "camp_01115",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Levi's 501: Timeless Denim, Updated Fit The iconic Levi's 501. Now available in a modern, slightly tapered fit for today's style. Get yours! Levi's 501 men's clothing jeans 501 tapered men's jeans den..."
+  },
+  {
+    "campaign_id": "camp_01119",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "H&M: Sustainable Denim Collection Shop H&M's sustainable denim collection made with recycled materials. Fashion with a conscience. Look good, feel good! H&M Sustainable Collection women's clothing jea..."
+  },
+  {
+    "campaign_id": "camp_01120",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Streetwear - Urban Edge Tees Express your individuality with Urban Edge Tees. Bold designs, comfortable fits. Find your unique style today! Urban Edge streetwear t-shirts graphic tee graphic tees bold..."
+  },
+  {
+    "campaign_id": "camp_01121",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Ralph Lauren: Classic Wool Sweaters Stay warm and stylish this winter with Ralph Lauren's classic wool sweaters. Timeless designs, superior quality. Shop now. Ralph Lauren men's clothing sweaters wool..."
+  },
+  {
+    "campaign_id": "camp_01122",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Affordable Fashion Trends Stay on trend without breaking the bank! Shein offers the latest fashion at unbeatable prices. New arrivals daily! Shein women's clothing tops blouse women's tops tren..."
+  },
+  {
+    "campaign_id": "camp_01128",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "SportFlex: High-Performance Activewear Reach your peak performance with SportFlex activewear. Designed for comfort and flexibility during any workout. Shop the gear today. SportFlex men's clothing act..."
+  },
+  {
+    "campaign_id": "camp_01130",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Summer Breeze: Linen Collection Breathe easy in our new linen collection. Lightweight, breathable, and effortlessly chic. Perfect for sunny days and warm nights. Zara women's clothing dresses midi lin..."
+  },
+  {
+    "campaign_id": "camp_01136",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Effortless Comfort: Uniqlo Lounge Collection Relax in style with Uniqlo's Lounge Collection. Soft, breathable fabrics and comfortable fits. Perfect for lounging at home. Uniqlo Lounge Collection women..."
+  },
+  {
+    "campaign_id": "camp_01137",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Autumn Hues: Corduroy Collection Embrace the season with our cozy corduroy collection. Warm, stylish, and perfect for crisp autumn days. H&M women's clothing skirts midi corduroy skirt autumn clothing..."
+  },
+  {
+    "campaign_id": "camp_01142",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Summer Style: Short Sleeve Shirts Stay cool and stylish this summer with our collection of short sleeve shirts. Perfect for any occasion, from casual to dressy. Shein men's clothing shirts short sleev..."
+  },
+  {
+    "campaign_id": "camp_01144",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara: Summer Linen Collection Breathe easy this summer with our new linen collection. Lightweight, breathable, and effortlessly stylish. Refresh your wardrobe with Zara. Zara Linen Collection women's ..."
+  },
+  {
+    "campaign_id": "camp_01145",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "H&M: Sustainable Denim - Conscious Choice Dress responsibly. H&M's Conscious Choice denim is made with recycled materials and sustainable processes. Look good, feel good, do good. H&M Conscious Choice..."
+  },
+  {
+    "campaign_id": "camp_01146",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nike Air Max: Find Your Air Experience unparalleled comfort and iconic style. The Nike Air Max collection \u2013 designed for every stride, every day. Find Your Air. Nike Air Max shoes sneakers running sho..."
+  },
+  {
+    "campaign_id": "camp_01148",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Uniqlo: AIRism - Feel the Breeze Stay cool and comfortable all day long. Uniqlo's AIRism technology wicks away moisture, keeping you fresh. Feel the breeze with AIRism. Uniqlo AIRism women's clothing ..."
+  },
+  {
+    "campaign_id": "camp_01151",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nordstrom: Designer Handbags - Curated Selection Elevate your style with Nordstrom's curated collection of designer handbags. Find the perfect statement piece to complete your look. Nordstrom Designer..."
+  },
+  {
+    "campaign_id": "camp_01153",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Trendy Tees - Express Yourself Find the latest trends at prices you'll love. Shein's collection of trendy tees allows you to express your unique style. Shein Trendy Tees women's clothing t-shir..."
+  },
+  {
+    "campaign_id": "camp_01154",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Apex Style: Minimalist Streetwear Drop Clean lines, bold statements. Apex Style's new streetwear drop features minimalist designs for maximum impact. Available now. Apex Style Minimalist Drop streetwe..."
+  },
+  {
+    "campaign_id": "camp_01155",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Luna & Co.: Artisan Leather Belts Handcrafted with care. Luna & Co. creates exquisite artisan leather belts for a touch of timeless elegance. Invest in quality. Luna & Co. Artisan Collection accessori..."
+  },
+  {
+    "campaign_id": "camp_01156",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Evergreen Threads: Organic Cotton Basics Comfortable, ethical, and stylish. Evergreen Threads offers organic cotton basics for a sustainable wardrobe. Shop consciously. Evergreen Threads Organic Basic..."
+  },
+  {
+    "campaign_id": "camp_01159",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Zara Linen Collection: Effortless Summer Style Embrace the heat with our breathable linen collection. Lightweight fabrics and chic designs for sunny days. Effortless style is here. Zara Linen Collecti..."
+  },
+  {
+    "campaign_id": "camp_01160",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M Denim: Style That Lasts Find your perfect fit with H&M Denim. From classic jeans to stylish jackets, crafted for comfort and built to last. Shop Now. H&M Denim men's clothing jeans slim fit jeans ..."
+  },
+  {
+    "campaign_id": "camp_01161",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nike Air Max: Run the World Experience unparalleled comfort & style with Nike Air Max. Lightweight design, superior cushioning, and iconic style. Run your best life! Nike Air Max shoes sneakers runnin..."
+  },
+  {
+    "campaign_id": "camp_01162",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gucci: Timeless Elegance, Modern Vision Indulge in the exquisite craftsmanship of Gucci. From iconic bags to tailored suits, experience luxury redefined. Discover your signature. Gucci GG Marmont luxu..."
+  },
+  {
+    "campaign_id": "camp_01164",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Ralph Lauren: The Icon of American Style Experience the timeless sophistication of Ralph Lauren. From classic polos to tailored blazers, embody effortless American style. Shop Now. Ralph Lauren Polo m..."
+  },
+  {
+    "campaign_id": "camp_01165",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Levi's: Authentic Denim Since Forever Levi's: The original and the best. Find your perfect pair of jeans and create your signature style. Timeless denim for everyone. Levi's 501 women's clothing jeans..."
+  },
+  {
+    "campaign_id": "camp_01167",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "ASOS: Your Online Fashion Fix ASOS: Style without limits. Shop the latest trends in clothing, shoes and accessories, delivering straight to your door. Express yourself! ASOS Own Brand shoes boots ankl..."
+  },
+  {
+    "campaign_id": "camp_01171",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "The Leather Shop: Quality Leather Goods Browse our collection of finely crafted leather belts and wallets. Superior quality and timeless design. Accessories with enduring charm. The Leather Shop Timel..."
+  },
+  {
+    "campaign_id": "camp_01173",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "CloudStride: Ultimate Walking Comfort CloudStride shoes: Experience walking on clouds. Lightweight design & superior cushioning for all-day comfort. Shop now & rediscover walking! CloudStride Ultimate..."
+  },
+  {
+    "campaign_id": "camp_01174",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara: Effortless Linen Summer Dresses Breathe easy this summer. Discover Zara's collection of lightweight linen dresses. Effortless style for every occasion. Shop now! Zara Summer Collection women's c..."
+  },
+  {
+    "campaign_id": "camp_01177",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Gucci: Opulent Silk Scarves - Timeless Elegance Indulge in the luxury of Gucci silk scarves. Exquisite craftsmanship and iconic designs. Add a touch of elegance to every look. Gucci Silk Collection ac..."
+  },
+  {
+    "campaign_id": "camp_01179",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Ralph Lauren: Classic Polo Shirts - Iconic Style Embrace timeless style with Ralph Lauren's iconic polo shirts. Crafted with premium cotton and impeccable detail. A wardrobe essential. Ralph Lauren Po..."
+  },
+  {
+    "campaign_id": "camp_01185",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Alpine Ascent: Wool Base Layers - Warmth Brave the cold with Alpine Ascent's premium wool base layers. Maximize warmth and comfort through winter. Shop for ultimate insulation. Alpine Ascent Winter Ge..."
+  },
+  {
+    "campaign_id": "camp_01187",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Luxe Atelier: Cashmere Sweaters - Pure Indulgence Experience the ultimate luxury with Luxe Atelier's cashmere sweaters. Unparalleled softness and sophisticated style. Treat yourself today. Luxe Atelie..."
+  },
+  {
+    "campaign_id": "camp_01190",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Levi's 501: The Original, Reinvented The iconic Levi's 501. Now with sustainable cotton. Same heritage, a better future. Get yours today. Levi's 501 men's clothing jeans straight leg men's jeans denim..."
+  },
+  {
+    "campaign_id": "camp_01196",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nordstrom: The Fall Boot Edit Step into Fall with Nordstrom's curated collection of boots. Find your perfect pair for every occasion. Nordstrom Fall Boot Edit shoes boots ankle boots women's boots fal..."
+  },
+  {
+    "campaign_id": "camp_01198",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Trendy Tops Under $15 Get the latest trends without breaking the bank! Shop Shein for stylish tops, all under $15. New arrivals daily! Shein Value Collection women's clothing tops t-shirts wome..."
+  },
+  {
+    "campaign_id": "camp_01203",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "The Modern Man: Linen Casual Embrace effortless summer style with our linen collection. Breathable comfort for any occasion. Arcadia Summer Collection men's clothing pants linen pants men's pants summ..."
+  },
+  {
+    "campaign_id": "camp_01205",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "H&M: Conscious Collection Denim Jeans Sustainable style is here. H&M's Conscious Collection jeans are made with recycled materials and designed for everyday wear. H&M Conscious Collection women's clot..."
+  },
+  {
+    "campaign_id": "camp_01208",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Uniqlo: AIRism Comfort Redefined Experience ultimate comfort with Uniqlo's AIRism. Breathable, lightweight, and designed to keep you cool all day long. Uniqlo AIRism women's clothing underwear seamles..."
+  },
+  {
+    "campaign_id": "camp_01209",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Ralph Lauren: Iconic Polo Shirts The timeless symbol of American style. Shop the iconic Ralph Lauren Polo shirt, available in a range of colors. Ralph Lauren Polo men's clothing shirts polo shirt Men'..."
+  },
+  {
+    "campaign_id": "camp_01211",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nordstrom: Find Your Fall Look Elevate your wardrobe for fall. Discover the latest trends and classic pieces at Nordstrom. Nordstrom women's clothing sweaters cashmere sweater Sweater Womenswear Warm ..."
+  },
+  {
+    "campaign_id": "camp_01214",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "StreetX: The New Wave of Streetwear Embrace individuality with StreetX's latest collection. Bold designs, high quality, and urban style. StreetX Fall Collection streetwear hoodies graphic hoodie Hoodi..."
+  },
+  {
+    "campaign_id": "camp_01218",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "LuxeThread: Cashmere Scarves-Winter Warmth Indulge in the softest cashmere scarves from LuxeThread. The perfect winter accessory for warmth and refined style. LuxeThread accessories scarves cashmere s..."
+  },
+  {
+    "campaign_id": "camp_01221",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "H&M Conscious Collection: Wear Responsibly Shop H&M's Conscious Collection: stylish, sustainable fashion made with recycled materials. Look good, feel good, do good.  H&M Conscious Collection women's ..."
+  },
+  {
+    "campaign_id": "camp_01222",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nike Air Max: Walk on Air Experience ultimate comfort with Nike Air Max. Innovative design, iconic style. Step into the future of footwear. Nike Air Max shoes sneakers running shoes air cushioning lig..."
+  },
+  {
+    "campaign_id": "camp_01223",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gucci GG Marmont: Timeless Elegance Gucci GG Marmont: luxurious leather, iconic GG hardware. A timeless investment in enduring style. Gucci GG Marmont accessories handbags shoulder bag shoulder bags G..."
+  },
+  {
+    "campaign_id": "camp_01227",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "ASOS Design: Own Your Style ASOS Design: express yourself with unique, trend-setting fashion. Discover your perfect look today. ASOS ASOS Design women's clothing jumpsuits wide leg stylish expression ..."
+  },
+  {
+    "campaign_id": "camp_01232",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Polar Peak: Winter Essentials Collection Brave the cold with Polar Peak's Winter Essentials. Down jackets, fleece pullovers, and thermal leggings will keep you warm. Polar Peak Winter Essentials women..."
+  },
+  {
+    "campaign_id": "camp_01233",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Zenith Watch: Precision Meets Elegance Zenith: Swiss precision, timeless design. A legacy of excellence, crafted for those who demand the best. Zenith Elite Collection accessories watches chronograph ..."
+  },
+  {
+    "campaign_id": "camp_01234",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara Spring Floral Dresses Embrace the season with Zara's new collection of floral dresses. Light, airy, and perfect for any occasion. Zara Spring Collection women's clothing dresses floral print wome..."
+  },
+  {
+    "campaign_id": "camp_01235",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M Sustainable Denim Jeans Shop H&M's sustainably sourced denim jeans. Good for you, good for the planet. Find your perfect fit today! H&M Conscious Collection men's clothing jeans sustainable denim ..."
+  },
+  {
+    "campaign_id": "camp_01239",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Ralph Lauren Oxford Shirts: Classic Style Timeless style with Ralph Lauren Oxford shirts. Crafted with premium cotton for lasting quality and comfort. Ralph Lauren Oxford Shirts men's clothing shirts ..."
+  },
+  {
+    "campaign_id": "camp_01240",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Levi's 501 Original Fit Jeans The original. The one. Levi's 501 Original Fit Jeans. The iconic straight fit, now available in new washes. Levi's 501 men's clothing jeans straight leg men's jeans denim..."
+  },
+  {
+    "campaign_id": "camp_01242",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "ASOS Party Dresses - Sparkle & Shine Get ready to party with ASOS's stunning collection of party dresses. Shine all night long! ASOS Party Dresses women's clothing dresses party dress women's party dr..."
+  },
+  {
+    "campaign_id": "camp_01243",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein Graphic Tees - Express Yourself Showcase your unique style with Shein's wide selection of graphic tees. Affordable fashion for everyone. Shein Graphic Tees women's clothing t-shirts graphic tee ..."
+  },
+  {
+    "campaign_id": "camp_01245",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Urban Edge: Distressed Denim Jackets Make a statement with Urban Edge's distressed denim jackets. Raw style and street-ready attitude. Urban Edge Denim Jackets streetwear jackets denim jacket streetwe..."
+  },
+  {
+    "campaign_id": "camp_01249",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Effortless Style: The Linen Collection Breathe easy this summer with our new collection of lightweight linen dresses and separates. Effortless style meets ultimate comfort. Uniqlo Linen Collection wom..."
+  },
+  {
+    "campaign_id": "camp_01253",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Urban Edge: Conquer the Streets Define your style with our new streetwear collection. Bold graphics, comfortable fits, and urban edge. Vanguard Apparel Urban Edge streetwear t-shirts graphic tee stree..."
+  },
+  {
+    "campaign_id": "camp_01254",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Fall Layers: Cozy Knits Await Embrace the season with our collection of cozy knitwear. Warm sweaters, soft scarves, and stylish beanies. H&M Fall Collection women's clothing sweaters cardigan fall swe..."
+  },
+  {
+    "campaign_id": "camp_01259",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Bold Statements: Accessorize with ASOS Complete your look with bold accessories from ASOS. From statement jewelry to stylish bags, find your perfect finishing touch. ASOS Accessories jewelry necklaces..."
+  },
+  {
+    "campaign_id": "camp_01265",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M: Spring Denim Refresh Refresh your wardrobe with H&M's new spring denim collection. Sustainable styles for every body. Shop the trends! H&M Spring Collection women's clothing jeans skinny jeans de..."
+  },
+  {
+    "campaign_id": "camp_01267",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Stride & Style: Leather Ankle Boots Crafted for comfort and designed for style. Discover your perfect pair of leather ankle boots. Shop Stride & Style today! Stride & Style Autumn Collection shoes boo..."
+  },
+  {
+    "campaign_id": "camp_01271",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nordstrom: Fall Cashmere Sweaters Experience the ultimate in comfort and luxury. Shop Nordstrom's exquisite collection of fall cashmere sweaters. Find your perfect fit. Nordstrom Fall Collection women..."
+  },
+  {
+    "campaign_id": "camp_01273",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Ralph Lauren: Oxford Shirt Collection Timeless elegance redefined. Explore the Ralph Lauren Oxford Shirt Collection. Classic style for every occasion. Shop now. Ralph Lauren Oxford men's clothing shir..."
+  },
+  {
+    "campaign_id": "camp_01278",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Urban Edge: Distressed Denim Shorts Embrace the edge with Urban Edge distressed denim shorts. Bold, rebellious, and perfect for summer. Shop the collection! Urban Edge Rebel Collection streetwear shor..."
+  },
+  {
+    "campaign_id": "camp_01279",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Effortless Summer Style - Linen Collection Stay cool and chic all summer long with our new Linen Collection. Lightweight, breathable, and effortlessly stylish. Zara Linen Collection women's clothing d..."
+  },
+  {
+    "campaign_id": "camp_01286",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Flowing Fabrics - Boho Dresses Embrace your inner bohemian with our collection of flowing boho dresses. Free-spirited style for every adventure. Shein Boho Collection women's clothing dresses boho dre..."
+  },
+  {
+    "campaign_id": "camp_01288",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Stride in Style - Urban Leather Boots Elevate your footwear game with handcrafted leather boots. Designed for lasting comfort and enduring style. Artisan Footwear Co Heritage Boot shoes men's boots le..."
+  },
+  {
+    "campaign_id": "camp_01289",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Sporty Style - Athletic Socks Step up your game with our high-performance athletic socks. Designed for comfort, support, and moisture-wicking. H&M Activewear Collection accessories socks athletic sock..."
+  },
+  {
+    "campaign_id": "camp_01290",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Modern Utility - Cargo Pants Experience modern utility with our reimagined cargo pants. Durable, functional, and stylishly versatile. Tactical Threads Urban Cargo men's clothing pants cargo pants util..."
+  },
+  {
+    "campaign_id": "camp_01291",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Luxe Leather - Women's Handbags Indulge in luxury with our handcrafted leather handbags. Timeless designs and impeccable craftsmanship. Eliza & Co. Signature Collection accessories women's handbags le..."
+  },
+  {
+    "campaign_id": "camp_01294",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Uniqlo AirSense: Lightweight Comfort Experience weightless comfort with Uniqlo AirSense. Breathable, quick-drying, and perfect for everyday wear. Move freely, live comfortably. Uniqlo AirSense men's c..."
+  },
+  {
+    "campaign_id": "camp_01295",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara: Fall Knits Collection Wrap yourself in Zara's luxurious Fall Knits Collection. From cozy sweaters to chic cardigans, find your perfect autumn style. Zara Fall Knits women's clothing knitwear swe..."
+  },
+  {
+    "campaign_id": "camp_01296",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nike Air Max: Run Further, Faster Experience ultimate cushioning with Nike Air Max. Engineered for performance, designed for style. Elevate your run. Nike Air Max shoes running shoes sneaker athletic ..."
+  },
+  {
+    "campaign_id": "camp_01301",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "ASOS: Express Yourself Find your style at ASOS. Clothing, shoes, and accessories to help you express your individuality. Shop now and stand out! ASOS ASOS Design accessories jewelry earrings fashion j..."
+  },
+  {
+    "campaign_id": "camp_01316",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nordstrom: Fall Boot Collection Step into fall with the perfect pair of boots. Explore Nordstrom's curated collection of stylish and comfortable boots for every occasion. Nordstrom Fall Collection sho..."
+  },
+  {
+    "campaign_id": "camp_01318",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Shein: Summer Style Under $20 Score the latest summer styles without breaking the bank! Shein offers trendy dresses, tops, and more, all under $20. Shein Summer Collection women's clothing tops tank t..."
+  },
+  {
+    "campaign_id": "camp_01321",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Apex Activewear: Next-Gen Performance Unleash your potential with Apex Activewear. Innovative fabrics and designs optimize performance. Gear up and dominate your workout. Apex Activewear Performance S..."
+  },
+  {
+    "campaign_id": "camp_01330",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Ralph Lauren: Classic American Style Timeless elegance from Ralph Lauren. Discover iconic polos, tailored shirts, and refined outerwear. Embrace the American dream. Ralph Lauren Polo men's clothing po..."
+  },
+  {
+    "campaign_id": "camp_01333",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Urban Edge: Streetwear Collection Discover the new Urban Edge streetwear collection. Bold designs, comfortable fits, and edgy styles. Own the streets. Urban Edge Streetwear Collection streetwear hoodi..."
+  },
+  {
+    "campaign_id": "camp_01335",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Denim District: Premium Denim Jackets Crafted with high-quality denim, Denim District jackets are a timeless addition to any wardrobe. Shop the collection today! Denim District Jackets men's clothing ..."
+  },
+  {
+    "campaign_id": "camp_01336",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "StrideRight: Performance Athletic Socks Experience superior comfort and support with StrideRight athletic socks. Designed for peak performance, built for lasting comfort. StrideRight Socks accessories..."
+  },
+  {
+    "campaign_id": "camp_01337",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Breezy Bloom: Floral Print Dresses Embrace the season with Breezy Bloom! Our dresses feature vibrant floral prints and flowy designs, perfect for any occasion. Breezy Bloom Dresses women's clothing ma..."
+  },
+  {
+    "campaign_id": "camp_01338",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "UrbanStride: Leather Chelsea Boots Effortless style meets durable comfort with UrbanStride Chelsea boots. Crafted from premium leather, ready to conquer city streets. UrbanStride Boots shoes chelsea b..."
+  },
+  {
+    "campaign_id": "camp_01344",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Ralph Lauren: The Iconic Polo Shirt Timeless style, enduring quality. The Ralph Lauren Polo shirt is a wardrobe staple, available in a spectrum of colors. Ralph Lauren Polo men's clothing shirts polo ..."
+  },
+  {
+    "campaign_id": "camp_01346",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nordstrom: Fall Boots Collection Step into Fall. Discover Nordstrom's curated collection of boots for every style and occasion. Shop now! Nordstrom Boots Collection shoes boots ankle boots women's sty..."
+  },
+  {
+    "campaign_id": "camp_01348",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Shein: Affordable Fashion: New Arrivals Stay on trend without breaking the bank! Shop Shein's newest arrivals for the latest styles at unbeatable prices. Shein New Arrivals women's clothing tops blous..."
+  },
+  {
+    "campaign_id": "camp_01350",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Aurora Silks: Luxurious Scarves Indulge in elegance with Aurora Silks. Hand-crafted scarves, made with the finest silk for an unmatched touch of luxury. Aurora Silks Luxury Scarves accessories scarves..."
+  },
+  {
+    "campaign_id": "camp_01351",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Zenith Fit: Performance Leggings Reach new heights with Zenith Fit. Experience ultimate comfort and support in our performance leggings. Shop now! Zenith Fit Performance Leggings women's clothing legg..."
+  },
+  {
+    "campaign_id": "camp_01359",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Gucci Dionysus: The Ultimate Status Indulge in luxury. The Gucci Dionysus bag is a timeless investment. Own a piece of fashion history. Shop the collection. Gucci Dionysus luxury fashion handbags shou..."
+  },
+  {
+    "campaign_id": "camp_01361",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "The Everyday Tee: Cotton Comfort Simple. Versatile. Essential. Our organic cotton tee is perfect for layering or wearing on its own.  A wardrobe staple. Zara Essentials women's clothing t-shirts crew ..."
+  },
+  {
+    "campaign_id": "camp_01362",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Urban Edge: Graffiti Print Hoodie Express yourself. Our graffiti print hoodie brings a bold, street-style edge to your wardrobe. Stand out from the crowd. Urban Riot Street Collective streetwear hoodi..."
+  },
+  {
+    "campaign_id": "camp_01365",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Leather Revival: The Moto Jacket Timeless cool. Our genuine leather moto jacket is a must-have for every wardrobe.  Add an edge to any outfit. Ironclad Apparel Heritage Collection men's clothing jacke..."
+  },
+  {
+    "campaign_id": "camp_01366",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Comfort First: The Slip-On Sneaker Effortless style and all-day comfort. Our slip-on sneakers are perfect for busy days on the go.  Step into comfort. ASOS ASOS Design shoes sneakers slip-on sneakers ..."
+  },
+  {
+    "campaign_id": "camp_01369",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Evergreen Wool Coats: Warmth Redefined Discover Evergreen's classic wool coats\u2014unmatched warmth and style. Timeless design crafted for enduring elegance. Embrace the cold in comfort. Evergreen Apparel..."
+  },
+  {
+    "campaign_id": "camp_01377",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Urban Edge Outfitters: Streetwear Essentials Urban Edge Outfitters: Your destination for the latest streetwear trends. Express your individuality. Stand out from the crowd. Urban Edge Outfitters Stree..."
+  },
+  {
+    "campaign_id": "camp_01378",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nordstrom: Style Your Story Find your perfect look at Nordstrom. Wide selection of brands and styles. Shop the latest trends today! Nordstrom Fall Collection women's clothing skirts midi skirt fashion..."
+  },
+  {
+    "campaign_id": "camp_01379",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "ASOS: Discover Your 'Fit ASOS: Your global fashion destination, featuring a vast fashion collection. Find your perfect 'fit. Express yourself! ASOS Eyewear accessories sunglasses aviator sunglasses co..."
+  },
+  {
+    "campaign_id": "camp_01380",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Affordable Style for All Shein: The latest fashion trends at unbeatable prices. Redefine your wardrobe without breaking the bank. Shop now Shein New Arrivals women's clothing tops blouse fashio..."
+  },
+  {
+    "campaign_id": "camp_01381",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Leatherbound Wallets: Classic Elegance Leatherbound wallets: Handcrafted from premium leather. Timeless design and exceptional durability. Sophisticated wallets for modern professionals. Leatherbound ..."
+  },
+  {
+    "campaign_id": "camp_01382",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Veridia: The Future of Knitwear Veridia redefines knitwear with sustainable yarns and innovative designs. Comfort and conscious style, perfectly knit together. Veridia Knitwear Sustainable Collection ..."
+  },
+  {
+    "campaign_id": "camp_01384",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Zara: Linen Summer Collection Embrace the season's effortless style. Discover our new linen collection, designed for breezy summer days and balmy nights. Shop now! Zara Linen Collection women's clothi..."
+  },
+  {
+    "campaign_id": "camp_01388",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Uniqlo: Ultra Light Down Sale Stay warm without the weight. Uniqlo's Ultra Light Down jackets are now on sale. Limited time only! Uniqlo Ultra Light Down women's clothing jackets down jacket women's w..."
+  },
+  {
+    "campaign_id": "camp_01389",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Ralph Lauren: Fall Plaid Collection Embrace autumnal charm with Ralph Lauren's new plaid collection. Classic designs, rich colors, and superior craftsmanship. Ralph Lauren Icons men's clothing shirts ..."
+  },
+  {
+    "campaign_id": "camp_01391",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nordstrom: Fall Boot Collection Step into fall with Nordstrom's curated boot collection. Find your perfect pair for every occasion. Nordstrom Exclusive Collection shoes boots ankle boots fall leather ..."
+  },
+  {
+    "campaign_id": "camp_01392",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "ASOS: Party Dress Season Get ready to shine! ASOS has the perfect party dress for every festive occasion. Shop now and celebrate in style. ASOS ASOS Design women's clothing dresses party dress women's..."
+  },
+  {
+    "campaign_id": "camp_01394",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Everett & Sons: Wool Overcoats Brave the cold in style. Explore Everett & Sons premium wool overcoats, crafted for warmth and sophistication. Everett & Sons Heritage Collection men's clothing coats wo..."
+  },
+  {
+    "campaign_id": "camp_01395",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Stella Blu: Vegan Leather Bags Cruelty-free style. Stella Blu offers fashionable vegan leather bags and accessories for the conscious consumer. Stella Blu Eco-Chic accessories handbags vegan handbag v..."
+  },
+  {
+    "campaign_id": "camp_01396",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "CloudStride: Performance Running Shoes Reach new heights of performance. CloudStride running shoes are designed for comfort and speed. CloudStride Velocity shoes sneakers running shoes running perform..."
+  },
+  {
+    "campaign_id": "camp_01398",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nova Edge: Streetwear Collection Unleash your urban style. Nova Edge presents bold streetwear for the modern trendsetter. Stand out from the crowd. Nova Edge Urban Edge streetwear hoodies graphic hood..."
+  },
+  {
+    "campaign_id": "camp_01401",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Stride Confidently: Aura Leather Boots New Aura Leather Boots. Hand-crafted leather boots with exceptional comfort and style. Step into autumn with confidence. Aura Footwear Leather Boot Collection sh..."
+  },
+  {
+    "campaign_id": "camp_01412",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Vanguard: Modern Wool Coats Brave the elements in style. Discover Vanguard's modern wool coats. Crafted for warmth, designed for impact. Vanguard Apparel Outerwear men's clothing coats overcoat men's ..."
+  },
+  {
+    "campaign_id": "camp_01413",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Luminary Luxe: Crystal Evening Clutch Add a touch of sparkle. The Luminary Luxe crystal clutch elevates any evening ensemble. Exquisite craftsmanship. Luminary Luxe Evening Collection accessories hand..."
+  },
+  {
+    "campaign_id": "camp_01415",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Uniqlo AIRism: Stay Cool All Summer Beat the heat with Uniqlo AIRism. Lightweight, breathable innerwear that keeps you cool and comfortable all day long. Uniqlo AIRism women's clothing underwear t-shi..."
+  },
+  {
+    "campaign_id": "camp_01420",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Shein: Style Without Breaking the Bank Shop affordable fashion at Shein. Discover the latest styles for all occasions. New arrivals daily! Shein women's clothing skirts mini skirt women's skirts affor..."
+  },
+  {
+    "campaign_id": "camp_01421",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "H&M: Conscious Choice - Sustainable Style Dress well, do good. H&M Conscious Choice features stylish, sustainable clothes made with recycled materials. H&M Conscious Choice women's clothing jeans skin..."
+  },
+  {
+    "campaign_id": "camp_01425",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Solstice Sandals: Summer Ready! Step into summer with Solstice Sandals. Comfortable, stylish, and perfect for any adventure. Shop now! Coastal Footwear Solstice shoes sandals slides women's sandals co..."
+  },
+  {
+    "campaign_id": "camp_01430",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nordstrom Anniversary Sale: Fall Fashion Don't miss the Nordstrom Anniversary Sale! Score incredible deals on all your fall fashion favorites. Shop now before it's too late! Nordstrom Anniversary Sale..."
+  },
+  {
+    "campaign_id": "camp_01433",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Gucci: Timeless Elegance, Modern Flair Experience the unparalleled craftsmanship and iconic designs of Gucci. Explore our latest collection of luxury fashion for a truly sophisticated statement. Gucci..."
+  },
+  {
+    "campaign_id": "camp_01435",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Zara: Latest Trends, Affordable Prices Stay ahead of the curve with Zara's latest arrivals. Discover our fresh collections and express your unique style without breaking the bank. Zara women's clothin..."
+  },
+  {
+    "campaign_id": "camp_01437",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Ralph Lauren: Preppy Style Redefined Embrace timeless American style with Ralph Lauren. Discover classic designs and luxurious fabrics for a sophisticated wardrobe. Ralph Lauren men's clothing polo sh..."
+  },
+  {
+    "campaign_id": "camp_01439",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Urban Edge: Streetwear Revolution Express your unique style with Urban Edge. Bold designs, comfortable fits, and the ultimate streetwear experience. Define your look. Urban Edge streetwear hoodies gra..."
+  },
+  {
+    "campaign_id": "camp_01442",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Stride Right: Performance Running Shoes Reach your peak performance with Stride Right running shoes. Engineered for comfort and speed, designed to help you achieve your personal best. Stride Right sho..."
+  },
+  {
+    "campaign_id": "camp_01443",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Silken Dreams: Luxury Scarves Collection Indulge in Silken Dreams. Our luxury scarves collection, crafted from the finest silk, adds a touch of elegance and sophistication to any outfit. Silken Dreams..."
+  },
+  {
+    "campaign_id": "camp_01445",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Conquer Your Day: Tech Fleece Stay warm and agile with Nike's Tech Fleece. Lightweight comfort meets modern design. Perfect for workouts and everyday wear. Nike Tech Fleece men's clothing activewear f..."
+  },
+  {
+    "campaign_id": "camp_01452",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M Conscious: Sustainable Style Shop H&M's Conscious collection. Fashionable and affordable clothing made with sustainable materials. Dress good, feel good. H&M Conscious Collection women's clothing ..."
+  },
+  {
+    "campaign_id": "camp_01455",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara: The Minimalist Capsule Wardrobe Simplify your style with Zara's minimalist collection. Versatile pieces for a chic and effortless wardrobe. Shop the essentials. Zara Zara Collection women's clot..."
+  },
+  {
+    "campaign_id": "camp_01456",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Shein: Trendsetting Summer Dresses Stay on trend this summer with Shein's collection of affordable dresses. From floral prints to vibrant colors, find your perfect summer look. Shein Summer Collection..."
+  },
+  {
+    "campaign_id": "camp_01457",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Stride Confidently: The Oxford Collection Crafted with precision and timeless elegance. Discover the Oxford collection: where classic meets modern sophistication. Step into quality. West Haven Oxford ..."
+  },
+  {
+    "campaign_id": "camp_01458",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Winter Warmth: The Puffer Jacket Brave the cold in style with our puffer jackets. Lightweight insulation, maximum warmth. Stay cozy all winter long. Arctic Edge Winter Collection women's clothing coat..."
+  },
+  {
+    "campaign_id": "camp_01462",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Gucci Fall '23: Opulent Textures Experience Gucci's Fall '23 collection. Luxurious fabrics, bold designs, and unparalleled craftsmanship. Explore the season's must-haves. Gucci Fall '23 luxury fashion..."
+  },
+  {
+    "campaign_id": "camp_01467",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nordstrom: Fall Boot Event Step into fall with the perfect pair of boots. Find your ideal style and fit. Shop the Fall Boot Event now! Nordstrom Fall Boot Event shoes boots ankle boots women's boots l..."
+  },
+  {
+    "campaign_id": "camp_01472",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "The 'Aurora' Scarf: Winter Warmth Wrap yourself in cozy luxury. Our 'Aurora' scarf is made from soft wool for ultimate warmth and style this winter. Celestial Knits Winter Collection accessories scarv..."
+  },
+  {
+    "campaign_id": "camp_01475",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Levi's 501: The Original, Reimagined The icon, reinvented. Levi's 501 jeans, now with sustainable materials and a modern fit. Own your piece of history. Levi's 501 men's clothing jeans straight leg de..."
+  },
+  {
+    "campaign_id": "camp_01477",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Nike Air Max: Run Further, Faster Experience unparalleled comfort and performance with the new Nike Air Max. Engineered for your best run yet. Shop now. Nike Air Max shoes athletic shoes running shoes..."
+  },
+  {
+    "campaign_id": "camp_01482",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Shein: Trendy Graphic Tees for Less Express yourself with Shein's affordable graphic tees. New designs added daily. Shop now and find your favorite style. Shein Graphic Tees women's clothing tops t-sh..."
+  },
+  {
+    "campaign_id": "camp_01485",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Alpha Industries: Bomber Jackets - Iconic Style Own a piece of history with Alpha Industries bomber jackets. Durable, stylish, and timeless. Shop now and experience the legend. Alpha Industries Bomber..."
+  },
+  {
+    "campaign_id": "camp_01487",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Strider Boots: All-Weather Adventure Boots Conquer any terrain with Strider Boots. Designed for durability and comfort in all conditions. Your ultimate adventure companion. Strider Boots Adventure Boo..."
+  },
+  {
+    "campaign_id": "camp_01489",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Zara Denim Dream Collection Effortlessly chic denim. Crafted for comfort, designed for style. Discover your perfect fit in our new collection. Zara Denim Dream women's clothing jeans skinny jeans wome..."
+  },
+  {
+    "campaign_id": "camp_01492",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Levi's 501 Original Fit Jeans The original. The icon. Levi's 501 Original Fit Jeans. Timeless style, unmatched quality. Get yours today! Levi's 501 men's clothing jeans straight leg men's jeans denim ..."
+  },
+  {
+    "campaign_id": "camp_01495",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Ralph Lauren Cable Knit Collection Timeless elegance. Ralph Lauren's Cable Knit Collection. Crafted from luxurious materials. Dress in classic style. Ralph Lauren Cable Knit women's clothing sweaters ..."
+  },
+  {
+    "campaign_id": "camp_01501",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Strydr Athletics: Performance Leggings Reach your peak performance in Strydr Athletics leggings. Comfort, support, and style combined. Train harder, go further. Strydr Athletics women's clothing leggi..."
+  },
+  {
+    "campaign_id": "camp_01504",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Zara Linen Collection: Breezy Summer Style Embrace the heat with Zara's linen collection. Lightweight, breathable, and effortlessly chic. Shop dresses, tops, and pants for the perfect summer look. Zar..."
+  },
+  {
+    "campaign_id": "camp_01509",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Ralph Lauren: American Classic Style Discover the timeless elegance of Ralph Lauren. Iconic polo shirts, tailored suits, and sophisticated dresses. Embody the essence of American style. Ralph Lauren P..."
+  },
+  {
+    "campaign_id": "camp_01510",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Levi's: Authentic Denim Since 1873 Experience the heritage and quality of Levi's denim. Find your perfect pair of jeans, jackets, and shirts. Worn by generations, loved by all. Levi's Trucker Jacket m..."
+  },
+  {
+    "campaign_id": "camp_01511",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nordstrom: Style for Every Occasion Discover curated collections for women, men and kids from top designers and emerging brands. Nordstrom: where style meets service. Nordstrom women's clothing dresse..."
+  },
+  {
+    "campaign_id": "camp_01518",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "SoleMate Comfort Shoes: Walk on Air Experience the ultimate in comfort with SoleMate Comfort Shoes. Cushioned insoles and supportive designs. Walk all day in blissful comfort and style. SoleMate Comfo..."
+  },
+  {
+    "campaign_id": "camp_01520",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "H&M: Sustainable Denim Jeans - Feel Good Shop H&M's sustainably sourced denim jeans. Good for you, good for the planet. Comfortable, durable, and stylish. H&M Conscious Collection men's clothing jeans..."
+  },
+  {
+    "campaign_id": "camp_01523",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Uniqlo Ultra Light Down: Warmth Without Weight Stay warm and comfortable this winter with Uniqlo's Ultra Light Down. Lightweight, packable, and perfect for layering. Uniqlo Ultra Light Down women's cl..."
+  },
+  {
+    "campaign_id": "camp_01525",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Levi's 501 Original Fit Jeans The original. The icon. Levi's 501 jeans. A timeless classic. Find your perfect fit and make them your own. Levi's 501 men's clothing jeans straight leg men's jeans denim..."
+  },
+  {
+    "campaign_id": "camp_01526",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nordstrom: Designer Handbag Event Elevate your style with Nordstrom's Designer Handbag Event. Shop luxury brands and find the perfect accessory. Nordstrom Handbags accessories designer women's bags lu..."
+  },
+  {
+    "campaign_id": "camp_01531",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Crimson Tide: Bold Red Leather Jackets Make a statement with Crimson Tide's bold red leather jackets. Edgy, stylish, and guaranteed to turn heads. Crimson Tide Urban Edge men's clothing jackets leathe..."
+  },
+  {
+    "campaign_id": "camp_01546",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "UrbanEdge Streetwear: Redefining Style Express Yourself: UrbanEdge brings you cutting-edge streetwear. High-quality fabrics with bold designs. Make an impact. UrbanEdge streetwear hoodies graphic hood..."
+  },
+  {
+    "campaign_id": "camp_01555",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Levi's: Classic Trucker Jacket - Timeless The original denim jacket. Levi's iconic Trucker Jacket, a symbol of style and independence. Levi's Trucker Jacket men's clothing jackets denim jacket men's j..."
+  },
+  {
+    "campaign_id": "camp_01557",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "ASOS: Party Season - Sequined Dresses Shine brighter than the disco ball. ASOS' sequined dresses are ready to turn heads. ASOS Party Collection women's clothing dresses sequin dress party dresses sequ..."
+  },
+  {
+    "campaign_id": "camp_01558",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Shein: Affordable Summer Swimwear Styles Sun's out, savings are in! Shein has the hottest swimwear styles for less. Shein Swimwear women's clothing bikini affordable trendy savings summer polyester Sh..."
+  },
+  {
+    "campaign_id": "camp_01562",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gilded Age: Vintage-Inspired Jewellery Collection Capture timeless elegance. Gilded Age presents exquisite vintage-inspired jewellery designs. Gilded Age Vintage Collection accessories jewellery neckl..."
+  },
+  {
+    "campaign_id": "camp_01566",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nike Air Max: Step into Style Experience unparalleled comfort and iconic design with the Nike Air Max. Available now in new colorways. Nike Air Max shoes sneakers running shoes men's shoes comfort ico..."
+  },
+  {
+    "campaign_id": "camp_01570",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Levi's 501: The Original Jean Levi's 501: The original blue jean. A timeless classic, redefined for today. Shop the legend. Levi's 501 men's clothing jeans straight leg jeans men's jeans denim jeans c..."
+  },
+  {
+    "campaign_id": "camp_01574",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Aether Apparel: Performance Outerwear Aether Apparel: Where style meets performance. Premium outerwear designed for any adventure. Explore our collection. Aether Apparel Performance men's clothing jac..."
+  },
+  {
+    "campaign_id": "camp_01575",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "LunarStride: Comfort & Style Elevated Experience LunarStride - where superior comfort meets sleek, modern design. Perfect for your active lifestyle. LunarStride Active shoes sneakers walking shoes wom..."
+  },
+  {
+    "campaign_id": "camp_01582",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Gucci: Opulent Silks for Exclusive Occasions Indulge in pure silk. The Gucci collection of evening wear evokes timeless sophistication and elegance. Gucci Evening Wear luxury fashion dresses evening g..."
+  },
+  {
+    "campaign_id": "camp_01583",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "H&M: Sustainable Denim, Style That Lasts Shop sustainably. Discover our new collection of denim made with recycled materials. Fashion with a future. H&M Conscious Collection women's clothing jeans ski..."
+  },
+  {
+    "campaign_id": "camp_01586",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Urban Edge: The Graffiti Collection Express yourself. The Graffiti Collection blends street art with urban fashion to create a bold statement piece. Riot Gear Graffiti Collection streetwear hoodies pr..."
+  },
+  {
+    "campaign_id": "camp_01590",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Luxe Leather Goods: Timeless Wallets Crafted with precision. Our luxury leather wallets embody sophistication and enduring quality. A timeless accessory. Argento Heritage Collection accessories wallet..."
+  },
+  {
+    "campaign_id": "camp_01599",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "H&M Conscious Collection: Sustainable Fashion Dress good, feel good with H&M's Conscious Collection. Sustainable materials, ethical production. Fashion with a conscience. H&M Conscious Collection wome..."
+  },
+  {
+    "campaign_id": "camp_01602",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Shein Curve Collection - Confidence in Every Curve Celebrate your shape with Shein's Curve Collection. Stylish, affordable fashion designed for all body types. Embrace your curves! Shein Curve women's..."
+  },
+  {
+    "campaign_id": "camp_01610",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Nordstrom: Spring into Style Freshen your wardrobe with Nordstrom's curated collection of spring essentials. Discover new arrivals and timeless classics. Nordstrom Spring Collection women's clothing d..."
+  },
+  {
+    "campaign_id": "camp_01613",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Athleisure Co: Rise With Every Stride Elevate your workout with Athleisure Co. Premium activewear, designed for performance and style, inside and outside the gym. Athleisure Co Performance Line women'..."
+  },
+  {
+    "campaign_id": "camp_01614",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Nike: Air Max - Walk on Clouds Feel the revolution with Nike Air Max. Iconic design meets unmatched comfort. Experience the future of footwear. Nike Air Max shoes sneakers running shoes air cushion li..."
+  },
+  {
+    "campaign_id": "camp_03875",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Hers: Personalized Women's Healthcare Online Personalized healthcare for women, delivered discreetly to your door. From skincare to hair loss, Hers has you covered. Consult online today! Hers Women's ..."
+  },
+  {
+    "campaign_id": "camp_03877",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hims: Men's Wellness, Simplified and Discreet Discreet and convenient healthcare solutions for men. From hair loss to ED, Hims offers personalized treatments and expert care online. Hims Men's Health ..."
+  },
+  {
+    "campaign_id": "camp_03954",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Daily Dose: Essential Women's Multivitamin Support your active lifestyle with Daily Dose Women's Multivitamin. Tailored nutrition for energy, immunity, and overall well-being. Daily Dose Women's Multi..."
+  },
+  {
+    "campaign_id": "camp_03993",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hims: Hair Loss Solutions for Men Stop hair loss in its tracks! Hims offers personalized treatments shipped discreetly to your door. Regain your confidence today. Hims Hair Loss Treatment telemedicine..."
+  },
+  {
+    "campaign_id": "camp_03997",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Hers: Women's Wellness, Delivered Discreetly Hers offers personalized solutions for women's health, from skincare to hair loss. Convenient online consultations and discreet delivery. Hers Skincare Sol..."
+  },
+  {
+    "campaign_id": "camp_04099",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hims: Personalized Men's Health Solutions Access personalized treatments for hair loss, ED, and skincare, all online. Discreet shipping and expert support. Hims Hair Loss Solutions telemedicine men's ..."
+  },
+  {
+    "campaign_id": "camp_04105",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Hers: Women's Health, Delivered Personalized skincare, hair loss, and sexual health treatments, delivered discreetly to your door. Empower yourself with Hers. Hers Hair Loss Solutions telemedicine wom..."
+  },
+  {
+    "campaign_id": "camp_04209",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text implies women's/female",
+    "snippet": "Hers: Women's Telehealth Solutions Hers offers convenient online access to birth control, skincare, and mental health support tailored for women. Hers telemedicine women's health birth control online ..."
+  },
+  {
+    "campaign_id": "camp_05399",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "The Everyday Gentleman: Shave Cream Experience a smoother, closer shave with our hydrating Shave Cream. Formulated with aloe vera for sensitive skin. The Everyday Gentleman Essential Grooming men's gr..."
+  },
+  {
+    "campaign_id": "camp_05400",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Sephora Collection: Spring Glow Kit Get your glow on this spring with the Sephora Collection Spring Glow Kit! Includes blush, highlighter, and bronzer. Sephora Sephora Collection makeup makeup kits fa..."
+  },
+  {
+    "campaign_id": "camp_05441",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Ulta Beauty: Spring Makeup Sale Spring into color! Shop the hottest makeup trends at Ulta Beauty. Limited-time offers on your favorite brands. Ulta Makeup face generic face makeup eye makeup lip makeu..."
+  },
+  {
+    "campaign_id": "camp_05444",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Night Bloom: Midnight Rose Parfum Indulge in Night Bloom's captivating Midnight Rose Parfum. A sensual blend of dark rose, amber, and musk. Night Bloom Midnight Rose fragrance perfume floral women's p..."
+  },
+  {
+    "campaign_id": "camp_05457",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Timeless Elegance: Midnight Bloom Perfume Indulge in the captivating scent of Midnight Bloom. A rich, floral fragrance that embodies timeless elegance and sophistication. Elysian Scents Bloom Collecti..."
+  },
+  {
+    "campaign_id": "camp_05461",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hydrating Sun Shield SPF 50 Protect your skin with our Hydrating Sun Shield SPF 50. Lightweight, non-greasy formula for daily sun protection. Olay Sun Shield skincare sunscreen face sun protection spf..."
+  },
+  {
+    "campaign_id": "camp_05464",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Beach Waves: Texturizing Sea Salt Spray Get effortless beach waves with our Texturizing Sea Salt Spray. Adds volume, texture, and a tousled, carefree look. OceanBreeze Wave Collection haircare styling..."
+  },
+  {
+    "campaign_id": "camp_05465",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Summer Glow: Golden Hour Bronzer Achieve a sun-kissed glow with our Golden Hour Bronzer. Lightweight formula for a natural-looking, radiant complexion. SunKissed Glow Collection makeup face bronzer fa..."
+  },
+  {
+    "campaign_id": "camp_05485",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "L'Oreal Age Perfect Rosy Tone Moisturizer Fight dullness! L'Oreal Age Perfect Rosy Tone Moisturizer revitalizes skin with a gentle pink tint. Get your glow back! L'Oreal Age Perfect skincare moisturiz..."
+  },
+  {
+    "campaign_id": "camp_05488",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text also contains men's/male",
+    "snippet": "Dove: Nourishing Body Wash for Women Dove Nourishing Body Wash provides gentle cleansing and lasting hydration. Feel the difference of our signature formula. Love your skin. Dove Nourishing skincare b..."
+  },
+  {
+    "campaign_id": "camp_05510",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Beard Grooming Kit: Tamed Beard Maintain a well-groomed beard with our complete kit. Includes beard oil, balm, brush, and comb. The Bearded Man Co. Original Collection men's grooming beard care beard ..."
+  },
+  {
+    "campaign_id": "camp_05527",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "The Manicure Edit: Festive Colors Get ready for the holidays! Shop festive nail polish colors and manicure essentials at Ulta. Limited-time offers available now! Ulta Manicure Edit nail care nail poli..."
+  },
+  {
+    "campaign_id": "camp_05532",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Summer Breeze - Refreshing Fragrance Embrace the essence of summer.  Summer Breeze, a light and airy fragrance, perfect for warm days and breezy nights. Elysian Scents Seasonal Collection fragrance wo..."
+  },
+  {
+    "campaign_id": "camp_05534",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Beard Oil for a Soft Beard Tame your beard and nourish your skin with our premium beard oil.  Made with natural oils for a soft, manageable beard. The Groomed Gent Classic Collection men's grooming be..."
+  },
+  {
+    "campaign_id": "camp_05543",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Ulta Beauty: Your Beauty Destination Shop all things beauty at Ulta! Makeup, skincare, haircare, fragrance & more. Earn rewards and enjoy exclusive deals. Ulta All makeup face general skincare beauty ..."
+  },
+  {
+    "campaign_id": "camp_05549",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Urban Gent: Beard Oil - Sandalwood Spice Nourish and tame your beard with our luxurious Sandalwood Spice beard oil. Promotes growth, softens hair, and adds a subtle, masculine scent. Urban Gent Sandal..."
+  },
+  {
+    "campaign_id": "camp_05559",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hydration Rescue: Winter Skin Savior Combat winter dryness with AquaSilk's deeply hydrating serum. Replenish moisture and restore your skin's natural radiance. Available now! AquaSilk Hydration Plus s..."
+  },
+  {
+    "campaign_id": "camp_05563",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Midnight Bloom: A Mystical Fragrance Embrace the night with Midnight Bloom. A bewitching blend of jasmine, sandalwood, and dark vanilla. Experience the allure. Elysian Scents Nocturne fragrance perfum..."
+  },
+  {
+    "campaign_id": "camp_05564",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gel Shine: Long-Lasting Nail Color Achieve salon-quality gel shine at home with ColorStay Gel Envy. Chip-resistant and vibrant for up to two weeks!  Revlon ColorStay Gel Envy nail care nail polish gel..."
+  },
+  {
+    "campaign_id": "camp_05582",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Volume Boost Shampoo: Thick, Full Hair Transform fine, limp hair with Volume Boost Shampoo. Infused with biotin for added thickness and lasting volume. L'Oreal Elvive haircare shampoo volumizing volum..."
+  },
+  {
+    "campaign_id": "camp_05617",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gentle Cuticle Oil: Healthy Nails Nourish and hydrate your cuticles with our Gentle Cuticle Oil. Promotes healthy nail growth and prevents dryness. Nailixir nail care treatment oil nail oil organic hy..."
+  },
+  {
+    "campaign_id": "camp_05639",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "L'Oreal Men Expert: Hydra Energetic Fight fatigue and revitalize your skin with L'Oreal Men Expert Hydra Energetic. A boost of instant hydration for a fresh, energized look. L'Oreal Men Expert Hydra E..."
+  },
+  {
+    "campaign_id": "camp_05647",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Neutrogena: Clear Pore Cleanser/Mask Fight breakouts and clear pores with Neutrogena's Clear Pore. Can be used as a daily cleanser or a deep-cleaning mask. Neutrogena Clear Pore skincare cleansers acn..."
+  },
+  {
+    "campaign_id": "camp_05667",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Sephora Favorites: Spring Sampler Box Discover your new favorite beauty products with our curated Spring Sampler Box. Limited edition, while supplies last! Sephora Favorites makeup makeup kit variety ..."
+  },
+  {
+    "campaign_id": "camp_05677",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Glossier Cloud Paint: Seamless Blush Our Cloud Paint seamlessly blends onto your cheeks for a natural, diffused flush of color. Easy to apply, buildable formula. Glossier Cloud Paint makeup blush liqu..."
+  },
+  {
+    "campaign_id": "camp_05678",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Invigorating Clean: Citrus Burst Body Wash Start your day with our invigorating citrus burst body wash. Leaves your skin feeling refreshed and energized. Dove Renewing Care skincare body wash citrus b..."
+  },
+  {
+    "campaign_id": "camp_05683",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Dove Men+Care: Sensitive Skin Relief Specifically designed for sensitive skin. Dove Men+Care offers gentle cleansing and lasting hydration. Real care for real men. Dove Men+Care men's grooming body wa..."
+  },
+  {
+    "campaign_id": "camp_05715",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Radiant Defense: Protective Day Cream SPF 30 Protect your skin from daily damage with Radiant Defense SPF 30.  Hydration and broad-spectrum sun protection in one step. Neutrogena Ultra Sheer skincare ..."
+  },
+  {
+    "campaign_id": "camp_05719",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Cuticle Care: Nourishing Oil - Ulta Keep your nails healthy and strong with Cuticle Care Nourishing Oil. Available at Ulta. Hydrates and protects for beautiful hands. Ulta Beauty Essentials nail care ..."
+  },
+  {
+    "campaign_id": "camp_05732",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Estee Lauder: Advanced Night Repair Wake up to younger-looking skin. Estee Lauder Advanced Night Repair serum fights signs of aging while you sleep. Estee Lauder Advanced Night Repair skincare serum n..."
+  },
+  {
+    "campaign_id": "camp_05757",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "EverGleam: Diamond Shine Nail Polish Achieve salon-worthy nails at home with EverGleam Diamond Shine. Brilliant color, long-lasting wear, and chip-resistant formula. Shop now! EverGleam Diamond Shine ..."
+  },
+  {
+    "campaign_id": "camp_05770",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Luminous Finish Foundation - Shade Matching Find your perfect Luminous Finish Foundation match. Our expert shade matching ensures a flawless, natural-looking complexion. Visit us in-store today! Sepho..."
+  },
+  {
+    "campaign_id": "camp_05771",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Argan Oil Hair Mask - Intense Repair Revive dry, damaged hair with our Argan Oil Hair Mask. Deeply nourishes and repairs for soft, shiny, healthy-looking locks. Experience the transformation! Moroccan..."
+  },
+  {
+    "campaign_id": "camp_05774",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Clean & Confident - Men's Face Wash Start your day with Clean & Confident Face Wash. Gently cleanses and removes dirt and oil for a fresh, confident feeling. Formulated for men's skin. Neutrogena men'..."
+  },
+  {
+    "campaign_id": "camp_05782",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Pro Longwear Concealer - All Day Achieve a flawless complexion with Pro Longwear Concealer. Full coverage that lasts all day and night. Camouflages imperfections and brightens the skin. MAC Pro Longwe..."
+  },
+  {
+    "campaign_id": "camp_05784",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hydrating Rose Facial Serum - Glow Unlock a radiant complexion with our Rose Hydration Serum. Lightweight, hydrating, and infused with real rose extract for a natural glow. RoseGlow Botanicals Rose Hy..."
+  },
+  {
+    "campaign_id": "camp_05805",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Olay Retinol 24: Nighttime Renewal Cream Wake up to visibly smoother and brighter skin with Olay Retinol 24 Night Moisturizer.  Reduces fine lines and wrinkles while you sleep. Olay Retinol 24 skincar..."
+  },
+  {
+    "campaign_id": "camp_05809",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "MAC Lipstick: Iconic Color, Endless Looks MAC Lipstick.  The iconic lipstick that made MAC famous.  Bold, classic, and always on trend.  Find your perfect shade. MAC Lipstick makeup creme matte bold c..."
+  },
+  {
+    "campaign_id": "camp_05812",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Silken Shave: Smooth, Irritation-Free Shave Experience the ultimate smooth shave with Silken Shave Cream!  Formulated with aloe vera for sensitive skin.  Say goodbye to razor burn. Silken Touch Silken..."
+  },
+  {
+    "campaign_id": "camp_05819",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Timeless Essence: A Classic Fragrance Experience timeless elegance with Timeless Essence. A sophisticated blend of floral and woody notes for a captivating aura. Aura Scents Timeless Collection fragra..."
+  },
+  {
+    "campaign_id": "camp_05844",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Hydration Hero: Aqua Surge Gel Quench thirsty skin with Aqua Surge Gel. Lightweight hydration that lasts all day, leaving skin feeling refreshed and dewy. Hydraluxe Labs Aqua Surge skincare moisturize..."
+  },
+  {
+    "campaign_id": "camp_05851",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Lash Luxe: Volumizing Mascara Black Get dramatic volume and length with Lash Luxe. Our buildable formula creates full, fluttery lashes without clumping or smudging. Blackest Black. MAC Lash Luxe makeu..."
+  },
+  {
+    "campaign_id": "camp_05856",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Dewy Glow: Radiant Tint SPF 30 Get a natural, dewy glow with SPF 30 protection. Our Radiant Tint evens skin tone and provides lightweight hydration all day. Glow Skin Radiant Collection skincare tinte..."
+  },
+  {
+    "campaign_id": "camp_05871",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Sephora: Fall Fragrance Discovery Set Explore the scents of the season with Sephora's Fall Fragrance Discovery Set. Sample luxurious fragrances to find your perfect match. Sephora Discovery Sets fragr..."
+  },
+  {
+    "campaign_id": "camp_05875",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Perfect Pout: Matte Lipstick Collection Introducing our long-lasting, highly pigmented matte lipsticks. Find your perfect shade and rock a flawless pout all day. MAC Retro Matte makeup lipstick matte ..."
+  },
+  {
+    "campaign_id": "camp_05880",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Clear Skin: Acne Treatment Cleanser Fight breakouts and achieve clearer skin with our powerful acne treatment cleanser. Contains salicylic acid to unclog pores. Neutrogena Oil-Free Acne Wash skincare ..."
+  },
+  {
+    "campaign_id": "camp_05901",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Natural Curl Cream: Define & Enhance Enhance your natural curls with our nourishing Curl Cream. Defines curls, reduces frizz, and adds shine for a perfect finish. Curl Confidence Everyday Curls hairca..."
+  },
+  {
+    "campaign_id": "camp_05907",
+    "targeting_gender": "male",
+    "conflict": "targeting=male but text also contains women's/female",
+    "snippet": "Serene Bloom - Eau de Parfum Embrace tranquility with Serene Bloom. A delicate blend of jasmine and sandalwood, perfect for everyday elegance. Experience the understated luxury. Aura Scents Signature ..."
+  },
+  {
+    "campaign_id": "camp_05909",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Urban Gent - Beard Balm Elixir Tame and nourish your beard with Urban Gent's Beard Balm. Crafted for the modern man, for a polished and healthy beard. Urban Gent Classic Collection men's grooming bear..."
+  },
+  {
+    "campaign_id": "camp_05915",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Groom & Go - 3-in-1 Wash Simplify your routine with Groom & Go 3-in-1 wash. Cleanses hair, face, and body in one step. Perfect for active men. Active Man Essentials men's grooming body wash 3-in-1 was..."
+  },
+  {
+    "campaign_id": "camp_05932",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Gel Strong Pro - Long Lasting Achieve salon-quality nails at home with Gel Strong Pro. Long-lasting, chip-resistant color in minutes. Sally Hansen Miracle Gel nail care gel nail polish long lasting ge..."
+  },
+  {
+    "campaign_id": "camp_05936",
+    "targeting_gender": "female",
+    "conflict": "targeting=female but text implies men's/male",
+    "snippet": "Dove Men+Care: Stronger Hair Starts Here Combat hair fall with Dove Men+Care Strengthening Shampoo. Engineered for men, for noticeably thicker, more resilient hair. Dove Men+Care haircare shampoo anti..."
+  }
+]

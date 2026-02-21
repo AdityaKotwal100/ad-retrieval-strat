@@ -1,0 +1,517 @@
+[
+  {
+    "campaign_id": "camp_00001",
+    "vertical": "gaming",
+    "title": "Ascend Online: Open-World Adventure Awaits",
+    "description": "Explore a vast, dynamic world in Ascend Online. Craft your destiny with endless customization and engaging quests. Play today!",
+    "landing_url": "https://example.com/campaign/1",
+    "creative_format": "text",
+    "taxonomy": {
+      "category": "PC gaming",
+      "subcategory": "MMORPG",
+      "leaf": "Open World"
+    },
+    "brand": {
+      "name": "Epic Games",
+      "product_line": "Ascend Online"
+    },
+    "pricing": {
+      "price": 18.4,
+      "price_bucket": "cheap"
+    },
+    "attributes": {
+      "platform": [
+        "PC"
+      ],
+      "genre": [
+        "RPG"
+      ],
+      "multiplayer": [
+        true
+      ]
+    },
+    "keywords": {
+      "brand_terms": [
+        "Epic Games",
+        "Epic"
+      ],
+      "model_terms": [
+        "Ascend Online"
+      ],
+      "category_terms": [
+        "MMORPG",
+        "PC Game",
+        "Online Game"
+      ],
+      "feature_terms": [
+        "Open World",
+        "Customization",
+        "Quests",
+        "under 30"
+      ],
+      "benefit_terms": [
+        "Adventure",
+        "Community",
+        "budget",
+        "affordable",
+        "cheap"
+      ]
+    },
+    "negative_keywords": [
+      "mobile",
+      "console",
+      "vr",
+      "single player",
+      "strategy"
+    ],
+    "targeting": {
+      "age_min": 13,
+      "age_max": 17,
+      "gender": [
+        "all"
+      ],
+      "geo": {
+        "type": "state",
+        "include": [
+          "US-CA",
+          "US-NY",
+          "US-TX",
+          "US-FL",
+          "US-IL",
+          "US-PA",
+          "US-OH",
+          "US-GA",
+          "US-NC",
+          "US-MI",
+          "US-NJ",
+          "US-VA",
+          "US-WA",
+          "US-AZ",
+          "US-MA",
+          "US-TN",
+          "US-IN",
+          "US-MO",
+          "US-MD",
+          "US-WI"
+        ],
+        "exclude": []
+      },
+      "interests": [
+        "gaming",
+        "mobile games",
+        "consoles"
+      ]
+    },
+    "budget": {
+      "remaining": 92680.56
+    },
+    "embedding_text": "Epic Games Ascend Online PC gaming MMORPG Open World Open World Customization Quests under 30 Adventure Community budget affordable cheap cheap under 30"
+  },
+  {
+    "campaign_id": "camp_00002",
+    "vertical": "gaming",
+    "title": "PlayStation Summer Sale: Huge Savings Now!",
+    "description": "Dive into summer savings on PlayStation Store! Get amazing deals on blockbuster games, indie hits, and must-have DLC. Limited time only!",
+    "landing_url": "https://example.com/campaign/2",
+    "creative_format": "display",
+    "taxonomy": {
+      "category": "consoles",
+      "subcategory": "Games",
+      "leaf": "Digital Downloads"
+    },
+    "brand": {
+      "name": "PlayStation",
+      "product_line": "PlayStation Store"
+    },
+    "pricing": {
+      "price": 6.11,
+      "price_bucket": "cheap"
+    },
+    "attributes": {
+      "platform": [
+        "console"
+      ]
+    },
+    "keywords": {
+      "brand_terms": [
+        "PlayStation",
+        "PS5"
+      ],
+      "model_terms": [
+        "PlayStation Store",
+        "PS4"
+      ],
+      "category_terms": [
+        "console games",
+        "video games"
+      ],
+      "feature_terms": [
+        "digital download",
+        "sale",
+        "deals",
+        "under 30"
+      ],
+      "benefit_terms": [
+        "savings",
+        "entertainment",
+        "budget",
+        "affordable",
+        "cheap"
+      ]
+    },
+    "negative_keywords": [
+      "accessories",
+      "PC",
+      "mobile",
+      "VR",
+      "used games"
+    ],
+    "targeting": {
+      "age_min": 18,
+      "age_max": 24,
+      "gender": [
+        "all"
+      ],
+      "geo": {
+        "type": "state",
+        "include": [
+          "US-CA",
+          "US-NY",
+          "US-TX",
+          "US-FL",
+          "US-IL",
+          "US-PA",
+          "US-OH",
+          "US-GA",
+          "US-NC",
+          "US-MI",
+          "US-NJ",
+          "US-VA",
+          "US-WA",
+          "US-AZ",
+          "US-MA",
+          "US-TN",
+          "US-IN",
+          "US-MO",
+          "US-MD",
+          "US-WI"
+        ],
+        "exclude": []
+      },
+      "interests": [
+        "mobile games",
+        "PC gaming",
+        "gaming accessories",
+        "gaming",
+        "consoles"
+      ]
+    },
+    "budget": {
+      "remaining": 93616.94
+    },
+    "embedding_text": "PlayStation PlayStation Store consoles Games Digital Downloads digital download sale deals under 30 savings entertainment budget affordable cheap cheap under 30"
+  },
+  {
+    "campaign_id": "camp_00003",
+    "vertical": "gaming",
+    "title": "HyperX Cloud III: Comfort Redefined",
+    "description": "Experience unparalleled comfort with the HyperX Cloud III gaming headset. Enhanced audio and durable design for immersive gameplay. Level up your setup!",
+    "landing_url": "https://example.com/campaign/3",
+    "creative_format": "display",
+    "taxonomy": {
+      "category": "gaming accessories",
+      "subcategory": "Headsets",
+      "leaf": "Wired"
+    },
+    "brand": {
+      "name": "HyperX",
+      "product_line": "Cloud III"
+    },
+    "pricing": {
+      "price": 72.55,
+      "price_bucket": "cheap"
+    },
+    "attributes": {
+      "platform": [
+        "PC",
+        "console"
+      ],
+      "wireless": [
+        false
+      ]
+    },
+    "keywords": {
+      "brand_terms": [
+        "HyperX"
+      ],
+      "model_terms": [
+        "Cloud III",
+        "headset"
+      ],
+      "category_terms": [
+        "gaming headset",
+        "gaming headphones"
+      ],
+      "feature_terms": [
+        "comfort",
+        "audio",
+        "durable",
+        "under 100"
+      ],
+      "benefit_terms": [
+        "immersive",
+        "clear audio",
+        "budget",
+        "affordable",
+        "cheap"
+      ]
+    },
+    "negative_keywords": [
+      "wireless",
+      "speakers",
+      "microphone",
+      "mobile",
+      "earbuds"
+    ],
+    "targeting": {
+      "age_min": 26,
+      "age_max": 34,
+      "gender": [
+        "male"
+      ],
+      "geo": {
+        "type": "state",
+        "include": [
+          "US-CA",
+          "US-WI",
+          "US-UT",
+          "US-PA",
+          "US-NC"
+        ],
+        "exclude": []
+      },
+      "interests": [
+        "PC gaming",
+        "consoles",
+        "VR",
+        "gaming",
+        "gaming accessories"
+      ]
+    },
+    "budget": {
+      "remaining": 64533.9
+    },
+    "embedding_text": "HyperX Cloud III gaming accessories Headsets Wired comfort audio durable under 100 immersive clear audio budget affordable cheap cheap under 100"
+  },
+  {
+    "campaign_id": "camp_00004",
+    "vertical": "gaming",
+    "title": "MechWars: Mobile Strategy Domination",
+    "description": "Command powerful mechs in MechWars! Build your base, conquer territories, and crush your opponents in this epic mobile strategy game.",
+    "landing_url": "https://example.com/campaign/4",
+    "creative_format": "native",
+    "taxonomy": {
+      "category": "mobile games",
+      "subcategory": "Strategy",
+      "leaf": "Real-time"
+    },
+    "brand": {
+      "name": "GameForge Mobile",
+      "product_line": "MechWars"
+    },
+    "pricing": {
+      "price": 22.1,
+      "price_bucket": "cheap"
+    },
+    "attributes": {
+      "platform": [
+        "mobile"
+      ],
+      "genre": [
+        "strategy"
+      ],
+      "multiplayer": [
+        true
+      ]
+    },
+    "keywords": {
+      "brand_terms": [
+        "GameForge Mobile"
+      ],
+      "model_terms": [
+        "MechWars"
+      ],
+      "category_terms": [
+        "mobile game",
+        "strategy game"
+      ],
+      "feature_terms": [
+        "mechs",
+        "base building",
+        "territory",
+        "under 30"
+      ],
+      "benefit_terms": [
+        "domination",
+        "epic battles",
+        "budget",
+        "affordable",
+        "cheap"
+      ]
+    },
+    "negative_keywords": [
+      "PC",
+      "console",
+      "VR",
+      "puzzle",
+      "offline"
+    ],
+    "targeting": {
+      "age_min": 18,
+      "age_max": 24,
+      "gender": [
+        "all"
+      ],
+      "geo": {
+        "type": "state",
+        "include": [
+          "US-CA",
+          "US-NY",
+          "US-TX",
+          "US-FL",
+          "US-IL",
+          "US-PA",
+          "US-OH",
+          "US-GA",
+          "US-NC",
+          "US-MI",
+          "US-NJ",
+          "US-VA",
+          "US-WA",
+          "US-AZ",
+          "US-MA",
+          "US-TN",
+          "US-IN",
+          "US-MO",
+          "US-MD",
+          "US-WI"
+        ],
+        "exclude": []
+      },
+      "interests": [
+        "gaming",
+        "game subscriptions",
+        "consoles",
+        "PC gaming"
+      ]
+    },
+    "budget": {
+      "remaining": 4423.52
+    },
+    "embedding_text": "GameForge Mobile MechWars mobile games Strategy Real-time mechs base building territory under 30 domination epic battles budget affordable cheap cheap under 30"
+  },
+  {
+    "campaign_id": "camp_00005",
+    "vertical": "gaming",
+    "title": "Xbox Game Pass Ultimate: Endless Gaming!",
+    "description": "Unlock hundreds of games with Xbox Game Pass Ultimate! Play on console, PC, and cloud. New games added all the time. Join today!",
+    "landing_url": "https://example.com/campaign/5",
+    "creative_format": "carousel",
+    "taxonomy": {
+      "category": "game subscriptions",
+      "subcategory": "Multi-Platform",
+      "leaf": "Cloud Gaming"
+    },
+    "brand": {
+      "name": "Xbox",
+      "product_line": "Game Pass Ultimate"
+    },
+    "pricing": {
+      "price": 326.73,
+      "price_bucket": "mid"
+    },
+    "attributes": {
+      "platform": [
+        "PC",
+        "console"
+      ]
+    },
+    "keywords": {
+      "brand_terms": [
+        "Xbox",
+        "Microsoft"
+      ],
+      "model_terms": [
+        "Game Pass Ultimate",
+        "Game Pass"
+      ],
+      "category_terms": [
+        "game subscription",
+        "gaming subscription"
+      ],
+      "feature_terms": [
+        "cloud gaming",
+        "new games",
+        "multiplatform",
+        "premium pricing"
+      ],
+      "benefit_terms": [
+        "endless gaming",
+        "value",
+        "mid range",
+        "quality",
+        "best seller"
+      ]
+    },
+    "negative_keywords": [
+      "single game",
+      "playstation",
+      "nintendo",
+      "game purchase",
+      "free"
+    ],
+    "targeting": {
+      "age_min": 18,
+      "age_max": 24,
+      "gender": [
+        "male"
+      ],
+      "geo": {
+        "type": "state",
+        "include": [
+          "US-CA",
+          "US-NY",
+          "US-TX",
+          "US-FL",
+          "US-IL",
+          "US-PA",
+          "US-OH",
+          "US-GA",
+          "US-NC",
+          "US-MI",
+          "US-NJ",
+          "US-VA",
+          "US-WA",
+          "US-AZ",
+          "US-MA",
+          "US-TN",
+          "US-IN",
+          "US-MO",
+          "US-MD",
+          "US-WI"
+        ],
+        "exclude": []
+      },
+      "interests": [
+        "consoles",
+        "gaming accessories",
+        "mobile games",
+        "gaming"
+      ]
+    },
+    "budget": {
+      "remaining": 92991.32
+    },
+    "embedding_text": "Xbox Game Pass Ultimate game subscriptions Multi-Platform Cloud Gaming cloud gaming new games multiplatform premium pricing endless gaming value mid range quality best seller mid premium pricing"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "query": "lightweight travel backpack fits carry-on under $100",
+  "context": {
+    "age": 32,
+    "gender": "male",
+    "interests": [
+      "travel",
+      "outdoor activities",
+      "travel gear"
+    ]
+  }
+}

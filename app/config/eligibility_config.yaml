@@ -1,0 +1,89 @@
+schema_version: 1
+
+# Config schema version (int). Bump when key names or semantics change.
+
+# Blocklist policy settings.
+blocklist:
+  # strategy (string enum):
+  # - "all": regex + fuzzy, OR-combined fail-safe policy
+  # - "regex": built-ins plus optional data/blocklist.txt patterns
+  # - "fuzzy": deterministic obfuscation-resistant filter
+  # - "toxic_bert": unitary/toxic-bert classifier
+  # - "none": disables blocklist matching (benchmarking only)
+  strategy: "all"
+
+  # toxic_threshold (float in [0.0, 1.0]):
+  # Used only by strategy="toxic_bert". Query is blocked when probability >= threshold.
+  toxic_threshold: 0.5
+
+# Eligibility gate settings.
+eligibility:
+  # gate (float in [0.0, 1.0]):
+  # Query is treated as gated when ad_eligibility < gate.
+  # Invariant: ad_eligibility is already clamped to [0, 1] by runtime scoring.
+  gate: 0.3
+
+# Scoring constants — tunable weights and thresholds used by EligibilityScorer.
+scoring:
+  # ── Layer 2: Semantic sensitivity ─────────────────────────────────────────
+  # How aggressively to penalise sensitivity signal.
+  # cosine_sim * sensitivity_scale, then clamped to [0, 1].
+  # At 0.7: cosine ~1.0 is needed for near-full penalty.
+  sensitivity_scale: 0.7
+
+  # Noise floor — similarities below this produce zero penalty.
+  # Keeps eligibility high for ambiguous/idiomatic phrasing.
+  sensitivity_min_sim: 0.41
+
+  # ── Layer 2a: Per-cluster semantic hard gates ──────────────────────────────
+  # Queries whose cosine similarity to a cluster centroid exceeds this threshold
+  # are immediately scored 0.0. Thresholds range from strict (low) to lenient (high).
+  cluster_hard_thresholds:
+    self_harm_crisis:   0.60  # Most dangerous — lowest gate
+    abuse_trauma:       0.62
+    medical_emergency:  0.60
+    addiction_recovery: 0.65
+    grief_loss:         0.90
+    financial_hardship: 0.95  # Most commercially adjacent — highest gate
+    weapons_violence:   0.62
+    immediate_danger:   0.55  # Intruder/hiding scenarios — very strict
+
+  # ── Layer 2a: Per-cluster sensitivity scale ────────────────────────────────
+  # Multiplier on cosine similarity for continuous penalty per cluster.
+  # Higher values → heavier penalty for the same similarity.
+  # Clusters not listed fall back to sensitivity_scale.
+  cluster_sensitivity_scale:
+    self_harm_crisis:   1.5
+    medical_emergency:  1.5
+    weapons_violence:   1.5
+    immediate_danger:   1.5
+    abuse_trauma:       1.4
+    addiction_recovery: 1.4
+    grief_loss:         1.3
+    financial_hardship: 1.1
+
+  # ── Layer 2b: Co-activation bonus ─────────────────────────────────────────
+  # A cluster is "active" for co-activation when its sim exceeds this floor.
+  co_activation_floor: 0.40
+
+  # Bonus per extra active cluster beyond the first. Set 0.0 to disable.
+  co_activation_bonus_per: 0.0
+
+  # ── Layer 2c: Linguistic distress amplifier ────────────────────────────────
+  # Maximum amplification on top of 1.0: amplifier = 1.0 + scale * distress_signal.
+  # Set 0.0 to disable distress amplification entirely.
+  distress_amplifier_scale: 0.0
+
+  # Only amplify when base semantic penalty is already meaningful.
+  amplifier_min_penalty: 0.80
+
+  # Minimum number of distinct distress marker types to activate amplification.
+  # Requiring >= 2 reduces false positives from single-word matches.
+  amplifier_min_marker_types: 2
+
+  # ── Layer 3: Commercial affinity boost ────────────────────────────────────
+  # Boost range: score ∈ [commercial_min, commercial_min + commercial_range].
+  # Non-commercial queries get commercial_min; strongly transactional get the full sum.
+  commercial_min:   0.87
+  commercial_range: 0.13
+  commercial_scale: 2.5   # cosine_sim * commercial_scale before clamping to [0, 1]

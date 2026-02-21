@@ -1,0 +1,12 @@
+# Built-in blocklist patterns — always loaded as a safety baseline.
+# These are additive with data/blocklist.txt (deploy-time policy updates).
+# Format: one regex per line. Empty lines and lines starting with # are ignored.
+# Patterns are compiled with re.IGNORECASE.
+
+\b(self[- ]?harm|self[- ]?hurt|hurt myself|kill myself|end my life|suicide|suicidal|want to die)\b
+\b(pipe bomb|make a bomb|how to bomb|how to shoot|mass shooting|school shooting|build a gun illegally)\b
+\bhow to (?:make|build|create|synthesize) (?:a |an )?(?:weapon|bomb|explosive|poison|meth|fentanyl|drug)\b
+\b(child porn(?:ography)?|csam|underage (?:sex|nude|explicit))\b
+\b(ethnic cleansing|genocide|racial extermination)\b
+\b(terrorist?|terrorism) (?:attack|bomb|plot|plan|instructions)\b
+\bhow to (?:murder|kill|assassinate|stab|poison) (?:someone|a person|my)\b

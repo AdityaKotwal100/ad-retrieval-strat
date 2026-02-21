@@ -1,0 +1,9 @@
+{
+  "query": "electric vehicle charging accessories and car mounts",
+  "context": {
+    "age": 37,
+    "gender": "male",
+    "location": "San Jose, CA",
+    "interests": ["electric vehicles", "technology", "cars"]
+  }
+}

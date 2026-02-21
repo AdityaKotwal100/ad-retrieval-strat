@@ -1,0 +1,12 @@
+{
+  "query": "healthy meal prep ideas for weight loss",
+  "context": {
+    "age": 35,
+    "gender": "female",
+    "location": "New York, NY",
+    "interests": [
+      "health",
+      "cooking"
+    ]
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "ad_eligibility": 0.9235,
+  "extracted_categories": [
+    "travel gear"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_01116",
+      "relevance_score": 0.357018,
+      "internal_score": 0.748661,
+      "title": "Celestial Silks: Evening Gowns for Royalty",
+      "advertiser": "Celestial Silks",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1116",
+      "creative_format": "display",
+      "budget_remaining": 57989.9
+    },
+    {
+      "campaign_id": "camp_01390",
+      "relevance_score": 0.355375,
+      "internal_score": 0.745216,
+      "title": "Gucci: Timeless Elegance, Iconic Style",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1390",
+      "creative_format": "native",
+      "budget_remaining": 5654.53
+    },
+    {
+      "campaign_id": "camp_01504",
+      "relevance_score": 0.281172,
+      "internal_score": 0.589613,
+      "title": "AvantGarde: Sculptural Evening Gowns",
+      "advertiser": "AvantGarde",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1504",
+      "creative_format": "carousel",
+      "budget_remaining": 92512.5
+    },
+    {
+      "campaign_id": "camp_02589",
+      "relevance_score": 0.26448,
+      "internal_score": 0.55461,
+      "title": "Hilton Honors: Get Rewarded",
+      "advertiser": "Hilton",
+      "category": "hotels",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2589",
+      "creative_format": "video",
+      "budget_remaining": 80742.5
+    },
+    {
+      "campaign_id": "camp_02692",
+      "relevance_score": 0.231104,
+      "internal_score": 0.484621,
+      "title": "Delta Business Class to Europe",
+      "advertiser": "Delta",
+      "category": "flights",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2692",
+      "creative_format": "native",
+      "budget_remaining": 64225.68
+    },
+    {
+      "campaign_id": "camp_01489",
+      "relevance_score": 0.191072,
+      "internal_score": 0.400673,
+      "title": "Urban Edge: Leather Jackets for Men",
+      "advertiser": "Urban Edge",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1489",
+      "creative_format": "text",
+      "budget_remaining": 52054.09
+    },
+    {
+      "campaign_id": "camp_00034",
+      "relevance_score": 0.178321,
+      "internal_score": 0.373935,
+      "title": "Lululemon Align Leggings: Feel Everything",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/34",
+      "creative_format": "text",
+      "budget_remaining": 21509.37
+    },
+    {
+      "campaign_id": "camp_00379",
+      "relevance_score": 0.174305,
+      "internal_score": 0.365515,
+      "title": "Lululemon Align Pants: Ultimate Comfort",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/379",
+      "creative_format": "native",
+      "budget_remaining": 99893.95
+    },
+    {
+      "campaign_id": "camp_01096",
+      "relevance_score": 0.167291,
+      "internal_score": 0.350807,
+      "title": "Ember & Stone: Artisan Leather Belts",
+      "advertiser": "Ember & Stone",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1096",
+      "creative_format": "display",
+      "budget_remaining": 91872.48
+    },
+    {
+      "campaign_id": "camp_01370",
+      "relevance_score": 0.146255,
+      "internal_score": 0.306693,
+      "title": "Luxe Leathers: Handcrafted Wallets",
+      "advertiser": "Luxe Leathers",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1370",
+      "creative_format": "video",
+      "budget_remaining": 2456.89
+    },
+    {
+      "campaign_id": "camp_01650",
+      "relevance_score": 0.145763,
+      "internal_score": 0.305662,
+      "title": "Spiced Apple Cider: Autumn in a Cup",
+      "advertiser": "Autumn Harvest",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1650",
+      "creative_format": "video",
+      "budget_remaining": 18089.16
+    },
+    {
+      "campaign_id": "camp_01604",
+      "relevance_score": 0.143416,
+      "internal_score": 0.30074,
+      "title": "Ralph Lauren: Classic Polo Shirts",
+      "advertiser": "Ralph Lauren",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1604",
+      "creative_format": "carousel",
+      "budget_remaining": 77568.28
+    },
+    {
+      "campaign_id": "camp_01207",
+      "relevance_score": 0.142539,
+      "internal_score": 0.298901,
+      "title": "Elevate Your Look: Silk Scarves",
+      "advertiser": "Nordstrom",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1207",
+      "creative_format": "native",
+      "budget_remaining": 16332.2
+    },
+    {
+      "campaign_id": "camp_01468",
+      "relevance_score": 0.141623,
+      "internal_score": 0.296981,
+      "title": "Artisan Leather Belts: Crafted for Life",
+      "advertiser": "Oak & Hide",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1468",
+      "creative_format": "text",
+      "budget_remaining": 61983.7
+    },
+    {
+      "campaign_id": "camp_01258",
+      "relevance_score": 0.133806,
+      "internal_score": 0.280589,
+      "title": "Crafted Comfort: The Alpine Sweater",
+      "advertiser": "Hudson & Thorne",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1258",
+      "creative_format": "carousel",
+      "budget_remaining": 76200.09
+    },
+    {
+      "campaign_id": "camp_00004",
+      "relevance_score": 0.129639,
+      "internal_score": 0.271851,
+      "title": "Lululemon Align Leggings - Ultimate Comfort",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/4",
+      "creative_format": "native",
+      "budget_remaining": 33351.55
+    },
+    {
+      "campaign_id": "camp_01308",
+      "relevance_score": 0.122748,
+      "internal_score": 0.257401,
+      "title": "Urban Edge Tees: Statement Streetwear",
+      "advertiser": "Urban Edge",
+      "category": "streetwear",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1308",
+      "creative_format": "text",
+      "budget_remaining": 71949.36
+    },
+    {
+      "campaign_id": "camp_01376",
+      "relevance_score": 0.122185,
+      "internal_score": 0.25622,
+      "title": "Levi's 501: The Original Jean Since 1873",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1376",
+      "creative_format": "carousel",
+      "budget_remaining": 35036.19
+    },
+    {
+      "campaign_id": "camp_01184",
+      "relevance_score": 0.118858,
+      "internal_score": 0.249242,
+      "title": "Ralph Lauren:  Polo Shirts - Iconic Style",
+      "advertiser": "Ralph Lauren",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1184",
+      "creative_format": "display",
+      "budget_remaining": 34695.2
+    },
+    {
+      "campaign_id": "camp_02621",
+      "relevance_score": 0.117664,
+      "internal_score": 0.24674,
+      "title": "BudgetGo: Cheap Domestic Flight Deals",
+      "advertiser": "BudgetGo",
+      "category": "flights",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2621",
+      "creative_format": "carousel",
+      "budget_remaining": 21188.24
+    },
+    {
+      "campaign_id": "camp_01617",
+      "relevance_score": 0.116894,
+      "internal_score": 0.245125,
+      "title": "Ralph Lauren: Iconic Style New Arrivals",
+      "advertiser": "Ralph Lauren",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1617",
+      "creative_format": "text",
+      "budget_remaining": 38091.32
+    },
+    {
+      "campaign_id": "camp_01541",
+      "relevance_score": 0.11385,
+      "internal_score": 0.23874,
+      "title": "Uniqlo: Ultra Light Down Jacket",
+      "advertiser": "Uniqlo",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1541",
+      "creative_format": "text",
+      "budget_remaining": 19814.07
+    },
+    {
+      "campaign_id": "camp_01253",
+      "relevance_score": 0.110594,
+      "internal_score": 0.231913,
+      "title": "Levi's 501: The Original Jean",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1253",
+      "creative_format": "display",
+      "budget_remaining": 23963.31
+    },
+    {
+      "campaign_id": "camp_10724",
+      "relevance_score": 0.09501,
+      "internal_score": 0.199234,
+      "title": "Patagonia Outdoor Clothing: Responsibility",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10724",
+      "creative_format": "display",
+      "budget_remaining": 40016.81
+    },
+    {
+      "campaign_id": "camp_01462",
+      "relevance_score": 0.089891,
+      "internal_score": 0.1885,
+      "title": "Timeless Elegance: The Silk Scarf Collection",
+      "advertiser": "Amara Luxe",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1462",
+      "creative_format": "native",
+      "budget_remaining": 9283.34
+    },
+    {
+      "campaign_id": "camp_01382",
+      "relevance_score": 0.086598,
+      "internal_score": 0.181594,
+      "title": "Ralph Lauren: Classic Polo Shirts",
+      "advertiser": "Ralph Lauren",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1382",
+      "creative_format": "text",
+      "budget_remaining": 85254.64
+    },
+    {
+      "campaign_id": "camp_04832",
+      "relevance_score": 0.083975,
+      "internal_score": 0.176094,
+      "title": "edX: Advance Your Career Online",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4832",
+      "creative_format": "display",
+      "budget_remaining": 15602.7
+    },
+    {
+      "campaign_id": "camp_00235",
+      "relevance_score": 0.08382,
+      "internal_score": 0.175768,
+      "title": "Under Armour HeatGear: Stay Cool",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/235",
+      "creative_format": "carousel",
+      "budget_remaining": 74978.57
+    },
+    {
+      "campaign_id": "camp_01798",
+      "relevance_score": 0.082319,
+      "internal_score": 0.172621,
+      "title": "Starbucks: Pumpkin Spice Is Back!",
+      "advertiser": "Starbucks",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1798",
+      "creative_format": "display",
+      "budget_remaining": 29538.43
+    },
+    {
+      "campaign_id": "camp_01570",
+      "relevance_score": 0.076957,
+      "internal_score": 0.161378,
+      "title": "Uniqlo AIRism: Stay Cool All Day",
+      "advertiser": "Uniqlo",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1570",
+      "creative_format": "native",
+      "budget_remaining": 41763.81
+    },
+    {
+      "campaign_id": "camp_00089",
+      "relevance_score": 0.075838,
+      "internal_score": 0.159032,
+      "title": "Nike Dri-FIT Academy: Train Hard",
+      "advertiser": "Nike",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/89",
+      "creative_format": "carousel",
+      "budget_remaining": 92817.44
+    },
+    {
+      "campaign_id": "camp_02318",
+      "relevance_score": 0.073803,
+      "internal_score": 0.154763,
+      "title": "Airbnb: Unique Stays Worldwide",
+      "advertiser": "Airbnb",
+      "category": "hotels",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2318",
+      "creative_format": "video",
+      "budget_remaining": 5686.18
+    },
+    {
+      "campaign_id": "camp_01666",
+      "relevance_score": 0.073369,
+      "internal_score": 0.153853,
+      "title": "Refresh Naturally with AquaPure Water",
+      "advertiser": "AquaPure Water",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1666",
+      "creative_format": "video",
+      "budget_remaining": 82828.66
+    },
+    {
+      "campaign_id": "camp_00394",
+      "relevance_score": 0.072605,
+      "internal_score": 0.152251,
+      "title": "Under Armour HeatGear: Stay Cool",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/394",
+      "creative_format": "native",
+      "budget_remaining": 74516.39
+    },
+    {
+      "campaign_id": "camp_00102",
+      "relevance_score": 0.071898,
+      "internal_score": 0.150768,
+      "title": "Apex Women's Leggings: Sculpt & Support",
+      "advertiser": "Apex Athletics",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/102",
+      "creative_format": "carousel",
+      "budget_remaining": 14436.16
+    },
+    {
+      "campaign_id": "camp_02101",
+      "relevance_score": 0.071313,
+      "internal_score": 0.149542,
+      "title": "AquaLife: Hydrate Naturally, Feel Great",
+      "advertiser": "AquaLife",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2101",
+      "creative_format": "display",
+      "budget_remaining": 50344.8
+    },
+    {
+      "campaign_id": "camp_01112",
+      "relevance_score": 0.070059,
+      "internal_score": 0.146912,
+      "title": "Evergreen Outfitters: Adventure Awaits. Conquer It.",
+      "advertiser": "Evergreen Outfitters",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1112",
+      "creative_format": "text",
+      "budget_remaining": 16613.77
+    },
+    {
+      "campaign_id": "camp_00335",
+      "relevance_score": 0.069958,
+      "internal_score": 0.146701,
+      "title": "Train Harder in VaporX Performance Apparel",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/335",
+      "creative_format": "text",
+      "budget_remaining": 3163.84
+    },
+    {
+      "campaign_id": "camp_01554",
+      "relevance_score": 0.06485,
+      "internal_score": 0.13599,
+      "title": "Classic Denim: Heritage Reimagined",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1554",
+      "creative_format": "native",
+      "budget_remaining": 40021.37
+    },
+    {
+      "campaign_id": "camp_06251",
+      "relevance_score": 0.062103,
+      "internal_score": 0.130228,
+      "title": "Live Music Is Back! Find Tickets",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6251",
+      "creative_format": "text",
+      "budget_remaining": 98083.87
+    },
+    {
+      "campaign_id": "camp_01730",
+      "relevance_score": 0.061563,
+      "internal_score": 0.129097,
+      "title": "Cool Breeze Iced Coffee: Summer Refresher",
+      "advertiser": "Cool Breeze",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1730",
+      "creative_format": "display",
+      "budget_remaining": 21552.0
+    },
+    {
+      "campaign_id": "camp_01747",
+      "relevance_score": 0.061563,
+      "internal_score": 0.129097,
+      "title": "Wake Up to Perfect Espresso",
+      "advertiser": "Nespresso",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1747",
+      "creative_format": "carousel",
+      "budget_remaining": 47145.4
+    },
+    {
+      "campaign_id": "camp_06032",
+      "relevance_score": 0.060874,
+      "internal_score": 0.127652,
+      "title": "Live Jazz Tonight: The Blue Note",
+      "advertiser": "The Blue Note",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6032",
+      "creative_format": "carousel",
+      "budget_remaining": 91450.76
+    },
+    {
+      "campaign_id": "camp_06302",
+      "relevance_score": 0.060513,
+      "internal_score": 0.126895,
+      "title": "Rock Legends Reunion Tour",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6302",
+      "creative_format": "display",
+      "budget_remaining": 67265.73
+    },
+    {
+      "campaign_id": "camp_02052",
+      "relevance_score": 0.06027,
+      "internal_score": 0.126386,
+      "title": "Nespresso: Elevate Your Coffee Experience",
+      "advertiser": "Nespresso",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2052",
+      "creative_format": "carousel",
+      "budget_remaining": 23392.89
+    },
+    {
+      "campaign_id": "camp_01365",
+      "relevance_score": 0.059908,
+      "internal_score": 0.125625,
+      "title": "Levi's 501: The Original Jean",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1365",
+      "creative_format": "carousel",
+      "budget_remaining": 19357.46
+    },
+    {
+      "campaign_id": "camp_00138",
+      "relevance_score": 0.059514,
+      "internal_score": 0.1248,
+      "title": "Under Armour: Conquer Your Workout",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/138",
+      "creative_format": "video",
+      "budget_remaining": 7628.0
+    },
+    {
+      "campaign_id": "camp_01695",
+      "relevance_score": 0.058048,
+      "internal_score": 0.121726,
+      "title": "Trader Joes: Unique & Delicious Finds",
+      "advertiser": "Trader Joe's",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1695",
+      "creative_format": "carousel",
+      "budget_remaining": 77853.64
+    },
+    {
+      "campaign_id": "camp_01805",
+      "relevance_score": 0.056829,
+      "internal_score": 0.119168,
+      "title": "Cold Brew Coffee All Day Long",
+      "advertiser": "Summit Coffee Roasters",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1805",
+      "creative_format": "display",
+      "budget_remaining": 28822.47
+    },
+    {
+      "campaign_id": "camp_01673",
+      "relevance_score": 0.056459,
+      "internal_score": 0.118393,
+      "title": "KIND Bars: The Perfect On-the-Go Snack",
+      "advertiser": "KIND",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1673",
+      "creative_format": "display",
+      "budget_remaining": 40589.37
+    },
+    {
+      "campaign_id": "camp_02116",
+      "relevance_score": 0.054142,
+      "internal_score": 0.113535,
+      "title": "Flavor Burst Soda: Refreshing Citrus Mix",
+      "advertiser": "Flavor Burst",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2116",
+      "creative_format": "video",
+      "budget_remaining": 23254.86
+    },
+    {
+      "campaign_id": "camp_01508",
+      "relevance_score": 0.053139,
+      "internal_score": 0.111432,
+      "title": "The Ultimate Denim Jacket for Men",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1508",
+      "creative_format": "native",
+      "budget_remaining": 72195.51
+    },
+    {
+      "campaign_id": "camp_01897",
+      "relevance_score": 0.052193,
+      "internal_score": 0.109448,
+      "title": "Morning Buzz: Premium Arabica Coffee",
+      "advertiser": "Morning Buzz Coffee",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1897",
+      "creative_format": "video",
+      "budget_remaining": 99380.92
+    },
+    {
+      "campaign_id": "camp_10444",
+      "relevance_score": 0.050958,
+      "internal_score": 0.106858,
+      "title": "Tentree: Plant 10 Trees",
+      "advertiser": "Tentree",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10444",
+      "creative_format": "native",
+      "budget_remaining": 16627.82
+    },
+    {
+      "campaign_id": "camp_01882",
+      "relevance_score": 0.049441,
+      "internal_score": 0.103677,
+      "title": "Starbucks: Pumpkin Spice Latte is Back!",
+      "advertiser": "Starbucks",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1882",
+      "creative_format": "video",
+      "budget_remaining": 51110.07
+    },
+    {
+      "campaign_id": "camp_01998",
+      "relevance_score": 0.048359,
+      "internal_score": 0.101409,
+      "title": "BerryBoost Smoothie: Energy & Vitamins",
+      "advertiser": "VitaBlend",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1998",
+      "creative_format": "carousel",
+      "budget_remaining": 42952.52
+    },
+    {
+      "campaign_id": "camp_00259",
+      "relevance_score": 0.042513,
+      "internal_score": 0.089149,
+      "title": "Elevate Your Style: ActiveFlex Apparel",
+      "advertiser": "ActiveFlex",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/259",
+      "creative_format": "carousel",
+      "budget_remaining": 28465.47
+    }
+  ],
+  "latency_ms": 8.41,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 57,
+    "filter_drops": {
+      "age_range": 1424,
+      "gender": 139,
+      "category_gender_mismatch": 34,
+      "negative_keyword": 18,
+      "price_hard": 328
+    },
+    "n_results": 57,
+    "gated": false,
+    "timing_ms": {
+      "embed": 1.84,
+      "parallel_stages": 1.15,
+      "parse": 0.5,
+      "filter_and_rerank": 4.52,
+      "total": 8.41
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0343,
+      "commercial_boost": 0.9563,
+      "top_cluster": "financial_hardship",
+      "top_cluster_sim": 0.1365,
+      "commercial_sim": 0.2655,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0343,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 1,
+    "categories": [
+      {
+        "category": "travel gear",
+        "score": 0.7548
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [
+        "on"
+      ],
+      "price_min": null,
+      "price_max": 100.0,
+      "attribute_intents": {
+        "portable": "true"
+      },
+      "negative_terms": [],
+      "user_location": null
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_01116",
+        "base_score": 0.465441,
+        "final_score": 0.748661,
+        "active_params": 5,
+        "coverage_ratio": 0.6,
+        "query_potential_max": 2.096981,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 32 in [28,34]; gender_match"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.11322,
+            "reason": "cat_match=travel gear(conf=0.75)"
+          },
+          {
+            "component": "brand_alignment",
+            "delta": 0.12,
+            "reason": "product_line=ethereal collection"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.008,
+            "reason": "feature_terms: frozenset({'under', '100'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $93.3499984741211 <= $100.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_01390",
+        "base_score": 0.461996,
+        "final_score": 0.745216,
+        "active_params": 5,
+        "coverage_ratio": 0.6,
+        "query_potential_max": 2.096981,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 32 in [25,34]; gender_match"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.11322,
+            "reason": "cat_match=travel gear(conf=0.75)"
+          },
+          {
+            "component": "brand_alignment",
+            "delta": 0.12,
+            "reason": "product_line=gucci dionysus"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.008,
+            "reason": "feature_terms: frozenset({'under', '100'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $84.87999725341797 <= $100.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_01504",
+        "base_score": 0.309393,
+        "final_score": 0.589613,
+        "active_params": 5,
+        "coverage_ratio": 0.6,
+        "query_potential_max": 2.096981,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 32 in [28,34]; gender_match"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.11322,
+            "reason": "cat_match=travel gear(conf=0.75)"
+          },
+          {
+            "component": "brand_alignment",
+            "delta": 0.12,
+            "reason": "product_line=couture collection"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.005,
+            "reason": "feature_terms: frozenset({'under'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $23.079999923706055 <= $100.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_02589",
+        "base_score": 0.40061,
+        "final_score": 0.55461,
+        "active_params": 5,
+        "coverage_ratio": 0.8,
+        "query_potential_max": 2.096981,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 32 in [28,34]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.0125,
+            "reason": "overlap: {'travel'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'hotels', 'points', 'loyalty', 'program'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": -0.05,
+            "reason": "cat_mismatch: query=travel gear(conf=0.75), campaign_tax=['hotels', 'loyalty program', 'points']"
+          },
+          {
+            "component": "brand_alignment",
+            "delta": 0.27,
+            "reason": "brand_name=hilton; product_line=honors"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.008,
+            "reason": "feature_terms: frozenset({'under', '100'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $55.83000183105469 <= $100.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_02692",
+        "base_score": 0.414573,
+        "final_score": 0.484621,
+        "active_params": 5,
+        "coverage_ratio": 0.8,
+        "query_potential_max": 2.096981,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 32 in [28,34]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'travel', 'gear'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'business', 'flights', 'class', 'international'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": -0.05,
+            "reason": "cat_mismatch: query=travel gear(conf=0.75), campaign_tax=['flights', 'international flights', 'business class']"
+          },
+          {
+            "component": "brand_alignment",
+            "delta": 0.12,
+            "reason": "product_line=delta one"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.034048,
+            "reason": "category_terms: frozenset({'travel'}); feature_terms: frozenset({'under', '100'}); benefit_terms: frozenset({'travel'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $65.63999938964844 <= $100.0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "query": "compact home gym equipment for small apartment squat rack",
+  "context": {
+    "age": 30,
+    "gender": "male",
+    "location": "Boston, MA",
+    "interests": ["gym equipment", "fitness", "home improvement"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "query": "meal delivery kits for family of four healthy recipes",
+  "context": {
+    "age": 40,
+    "gender": "female",
+    "location": "Austin, TX",
+    "interests": ["cooking", "healthy eating", "meal delivery"]
+  }
+}

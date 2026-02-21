@@ -1,0 +1,1730 @@
+{
+  "ad_eligibility": 0.9224,
+  "extracted_categories": [
+    "shoes",
+    "running shoes"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_00044",
+      "relevance_score": 0.64919,
+      "internal_score": 1.196296,
+      "title": "Adidas Terrex Speed Ultra: Trailblaze",
+      "advertiser": "Adidas",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/44",
+      "creative_format": "display",
+      "budget_remaining": 27071.32
+    },
+    {
+      "campaign_id": "camp_00376",
+      "relevance_score": 0.64607,
+      "internal_score": 1.190547,
+      "title": "Elevate Your Run: SonicBoost Shoes",
+      "advertiser": "StrideTech",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/376",
+      "creative_format": "video",
+      "budget_remaining": 65832.1
+    },
+    {
+      "campaign_id": "camp_00277",
+      "relevance_score": 0.590851,
+      "internal_score": 1.088792,
+      "title": "ASICS Gel-Kayano 30: Supportive Comfort",
+      "advertiser": "ASICS",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/277",
+      "creative_format": "display",
+      "budget_remaining": 53713.69
+    },
+    {
+      "campaign_id": "camp_00404",
+      "relevance_score": 0.58958,
+      "internal_score": 1.086451,
+      "title": "Adidas Adizero: Speed Redefined",
+      "advertiser": "Adidas",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/404",
+      "creative_format": "text",
+      "budget_remaining": 52227.59
+    },
+    {
+      "campaign_id": "camp_00447",
+      "relevance_score": 0.573658,
+      "internal_score": 1.05711,
+      "title": "Reebok Nano X3: Conquer Your Workout",
+      "advertiser": "Reebok",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/447",
+      "creative_format": "display",
+      "budget_remaining": 35947.25
+    },
+    {
+      "campaign_id": "camp_00463",
+      "relevance_score": 0.554212,
+      "internal_score": 1.021276,
+      "title": "Trailblazer Shoes: Conquer Any Terrain",
+      "advertiser": "Trailblazer",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/463",
+      "creative_format": "native",
+      "budget_remaining": 89035.69
+    },
+    {
+      "campaign_id": "camp_00028",
+      "relevance_score": 0.538396,
+      "internal_score": 0.99213,
+      "title": "SprintWeb Runner: Speed and Agility",
+      "advertiser": "Adidas",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/28",
+      "creative_format": "display",
+      "budget_remaining": 92817.03
+    },
+    {
+      "campaign_id": "camp_00470",
+      "relevance_score": 0.53084,
+      "internal_score": 0.978207,
+      "title": "Reebok Nano X4: Dominate Your Workout",
+      "advertiser": "Reebok",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/470",
+      "creative_format": "text",
+      "budget_remaining": 40422.23
+    },
+    {
+      "campaign_id": "camp_00416",
+      "relevance_score": 0.502872,
+      "internal_score": 0.926668,
+      "title": "Nike Air Zoom Pegasus 40 Women's",
+      "advertiser": "Nike",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/416",
+      "creative_format": "native",
+      "budget_remaining": 3935.85
+    },
+    {
+      "campaign_id": "camp_10415",
+      "relevance_score": 0.442825,
+      "internal_score": 0.816018,
+      "title": "Allbirds Tree Dashers: Run Sustainably",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10415",
+      "creative_format": "video",
+      "budget_remaining": 76856.51
+    },
+    {
+      "campaign_id": "camp_10292",
+      "relevance_score": 0.43788,
+      "internal_score": 0.806904,
+      "title": "Allbirds Tree Dashers: Sustainable Running",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10292",
+      "creative_format": "carousel",
+      "budget_remaining": 91433.53
+    },
+    {
+      "campaign_id": "camp_10468",
+      "relevance_score": 0.430844,
+      "internal_score": 0.793939,
+      "title": "Allbirds Tree Dasher 2: Eco-Friendly Running",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10468",
+      "creative_format": "video",
+      "budget_remaining": 8407.52
+    },
+    {
+      "campaign_id": "camp_10548",
+      "relevance_score": 0.409752,
+      "internal_score": 0.755072,
+      "title": "Allbirds Tree Dashers: Run Sustainably",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10548",
+      "creative_format": "text",
+      "budget_remaining": 99240.95
+    },
+    {
+      "campaign_id": "camp_00039",
+      "relevance_score": 0.402277,
+      "internal_score": 0.741297,
+      "title": "Reebok Nano X4: Train Harder",
+      "advertiser": "Reebok",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/39",
+      "creative_format": "text",
+      "budget_remaining": 27250.32
+    },
+    {
+      "campaign_id": "camp_10694",
+      "relevance_score": 0.368435,
+      "internal_score": 0.678934,
+      "title": "Allbirds Tree Dashers: Sustainable Running",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10694",
+      "creative_format": "display",
+      "budget_remaining": 97134.36
+    },
+    {
+      "campaign_id": "camp_10353",
+      "relevance_score": 0.252363,
+      "internal_score": 0.465042,
+      "title": "Allbirds: Tread Lighter on the Planet",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10353",
+      "creative_format": "native",
+      "budget_remaining": 9278.14
+    },
+    {
+      "campaign_id": "camp_00518",
+      "relevance_score": 0.220069,
+      "internal_score": 0.405533,
+      "title": "Garmin Forerunner: Run Smarter",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/518",
+      "creative_format": "native",
+      "budget_remaining": 83414.36
+    },
+    {
+      "campaign_id": "camp_00342",
+      "relevance_score": 0.209077,
+      "internal_score": 0.385277,
+      "title": "Garmin: Run Smarter with Forerunner 955",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/342",
+      "creative_format": "carousel",
+      "budget_remaining": 3765.64
+    },
+    {
+      "campaign_id": "camp_00089",
+      "relevance_score": 0.18244,
+      "internal_score": 0.336191,
+      "title": "Nike Dri-FIT Academy: Train Hard",
+      "advertiser": "Nike",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/89",
+      "creative_format": "carousel",
+      "budget_remaining": 92817.44
+    },
+    {
+      "campaign_id": "camp_01488",
+      "relevance_score": 0.12145,
+      "internal_score": 0.223801,
+      "title": "Nordstrom Fine Jewelry: Lasting Sparkle",
+      "advertiser": "Nordstrom",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1488",
+      "creative_format": "carousel",
+      "budget_remaining": 53961.57
+    },
+    {
+      "campaign_id": "camp_04789",
+      "relevance_score": 0.100977,
+      "internal_score": 0.186075,
+      "title": "Excel Skills Training for Professionals",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4789",
+      "creative_format": "video",
+      "budget_remaining": 37866.93
+    },
+    {
+      "campaign_id": "camp_01308",
+      "relevance_score": 0.089484,
+      "internal_score": 0.164896,
+      "title": "Urban Edge Tees: Statement Streetwear",
+      "advertiser": "Urban Edge",
+      "category": "streetwear",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1308",
+      "creative_format": "text",
+      "budget_remaining": 71949.36
+    },
+    {
+      "campaign_id": "camp_00428",
+      "relevance_score": 0.069181,
+      "internal_score": 0.127484,
+      "title": "Under Armour: Train Without Limits",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/428",
+      "creative_format": "carousel",
+      "budget_remaining": 67882.0
+    },
+    {
+      "campaign_id": "camp_01207",
+      "relevance_score": 0.057583,
+      "internal_score": 0.106112,
+      "title": "Elevate Your Look: Silk Scarves",
+      "advertiser": "Nordstrom",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1207",
+      "creative_format": "native",
+      "budget_remaining": 16332.2
+    },
+    {
+      "campaign_id": "camp_03095",
+      "relevance_score": 0.056143,
+      "internal_score": 0.103458,
+      "title": "Winter Tires: Safe Roads Ahead",
+      "advertiser": "Snow King Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3095",
+      "creative_format": "video",
+      "budget_remaining": 55151.76
+    },
+    {
+      "campaign_id": "camp_00403",
+      "relevance_score": 0.055623,
+      "internal_score": 0.102499,
+      "title": "Recover Faster with AminoBlend",
+      "advertiser": "Peak Performance",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/403",
+      "creative_format": "text",
+      "budget_remaining": 43819.62
+    },
+    {
+      "campaign_id": "camp_01151",
+      "relevance_score": 0.053506,
+      "internal_score": 0.098598,
+      "title": "Gucci: Timeless Elegance, New Collection",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1151",
+      "creative_format": "video",
+      "budget_remaining": 23754.58
+    },
+    {
+      "campaign_id": "camp_00162",
+      "relevance_score": 0.052577,
+      "internal_score": 0.096887,
+      "title": "Lululemon Wunder Train: All about training",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/162",
+      "creative_format": "text",
+      "budget_remaining": 67217.66
+    },
+    {
+      "campaign_id": "camp_00078",
+      "relevance_score": 0.049611,
+      "internal_score": 0.091421,
+      "title": "Under Armour HeatGear: Stay Cool",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/78",
+      "creative_format": "display",
+      "budget_remaining": 31983.04
+    },
+    {
+      "campaign_id": "camp_01504",
+      "relevance_score": 0.049495,
+      "internal_score": 0.091207,
+      "title": "AvantGarde: Sculptural Evening Gowns",
+      "advertiser": "AvantGarde",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1504",
+      "creative_format": "carousel",
+      "budget_remaining": 92512.5
+    },
+    {
+      "campaign_id": "camp_02862",
+      "relevance_score": 0.046519,
+      "internal_score": 0.085723,
+      "title": "SureGrip: Performance Winter Tires",
+      "advertiser": "SureGrip",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2862",
+      "creative_format": "video",
+      "budget_remaining": 56715.43
+    },
+    {
+      "campaign_id": "camp_01101",
+      "relevance_score": 0.046251,
+      "internal_score": 0.085229,
+      "title": "Zenith Outfitters: Performance Hiking Socks",
+      "advertiser": "Zenith Outfitters",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1101",
+      "creative_format": "text",
+      "budget_remaining": 18547.81
+    },
+    {
+      "campaign_id": "camp_01131",
+      "relevance_score": 0.045698,
+      "internal_score": 0.084211,
+      "title": "Kids' Character Backpacks - Fun Everyday",
+      "advertiser": "HappyKid Gear",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1131",
+      "creative_format": "text",
+      "budget_remaining": 38041.8
+    },
+    {
+      "campaign_id": "camp_03185",
+      "relevance_score": 0.042434,
+      "internal_score": 0.078196,
+      "title": "New Tires, New Adventures: All Season",
+      "advertiser": "Road Warrior Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3185",
+      "creative_format": "native",
+      "budget_remaining": 11114.08
+    },
+    {
+      "campaign_id": "camp_00279",
+      "relevance_score": 0.042091,
+      "internal_score": 0.077563,
+      "title": "Garmin Forerunner 965: Train Smarter",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/279",
+      "creative_format": "carousel",
+      "budget_remaining": 65894.86
+    },
+    {
+      "campaign_id": "camp_00063",
+      "relevance_score": 0.041754,
+      "internal_score": 0.076942,
+      "title": "Fitbit Inspire 3: Track Your Wellness",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/63",
+      "creative_format": "text",
+      "budget_remaining": 12943.11
+    },
+    {
+      "campaign_id": "camp_02945",
+      "relevance_score": 0.041055,
+      "internal_score": 0.075655,
+      "title": "Winter Ready Tires: Drive Safe",
+      "advertiser": "SnowTrack Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2945",
+      "creative_format": "text",
+      "budget_remaining": 6795.74
+    },
+    {
+      "campaign_id": "camp_03139",
+      "relevance_score": 0.041013,
+      "internal_score": 0.075577,
+      "title": "AutoZone: Winter Tire Sale",
+      "advertiser": "AutoZone",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3139",
+      "creative_format": "carousel",
+      "budget_remaining": 24456.22
+    },
+    {
+      "campaign_id": "camp_01253",
+      "relevance_score": 0.040832,
+      "internal_score": 0.075243,
+      "title": "Levi's 501: The Original Jean",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1253",
+      "creative_format": "display",
+      "budget_remaining": 23963.31
+    },
+    {
+      "campaign_id": "camp_00094",
+      "relevance_score": 0.040411,
+      "internal_score": 0.074467,
+      "title": "PowerUp Pre-Workout: Fuel Your Body",
+      "advertiser": "PowerUp Nutrition",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/94",
+      "creative_format": "text",
+      "budget_remaining": 63333.69
+    },
+    {
+      "campaign_id": "camp_01554",
+      "relevance_score": 0.036794,
+      "internal_score": 0.067803,
+      "title": "Classic Denim: Heritage Reimagined",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1554",
+      "creative_format": "native",
+      "budget_remaining": 40021.37
+    },
+    {
+      "campaign_id": "camp_01266",
+      "relevance_score": 0.036553,
+      "internal_score": 0.067358,
+      "title": "Silk Scarves: A Touch of Luxury",
+      "advertiser": "La Soie",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1266",
+      "creative_format": "carousel",
+      "budget_remaining": 34066.99
+    },
+    {
+      "campaign_id": "camp_03161",
+      "relevance_score": 0.036537,
+      "internal_score": 0.067328,
+      "title": "Winter is Coming: Snow Tires On Sale",
+      "advertiser": "SnowTirePro",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3161",
+      "creative_format": "native",
+      "budget_remaining": 65748.73
+    },
+    {
+      "campaign_id": "camp_01578",
+      "relevance_score": 0.035814,
+      "internal_score": 0.065997,
+      "title": "Midnight Bloom: Velvet Evening Gowns",
+      "advertiser": "Midnight Bloom",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1578",
+      "creative_format": "carousel",
+      "budget_remaining": 72373.66
+    },
+    {
+      "campaign_id": "camp_00077",
+      "relevance_score": 0.034706,
+      "internal_score": 0.063955,
+      "title": "Peloton Bike+: Next Level At Home",
+      "advertiser": "Peloton",
+      "category": "gym equipment",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/77",
+      "creative_format": "carousel",
+      "budget_remaining": 80999.65
+    },
+    {
+      "campaign_id": "camp_00191",
+      "relevance_score": 0.034449,
+      "internal_score": 0.063481,
+      "title": "Fitbit Inspire: Track Your Health",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/191",
+      "creative_format": "native",
+      "budget_remaining": 20842.55
+    },
+    {
+      "campaign_id": "camp_01155",
+      "relevance_score": 0.033984,
+      "internal_score": 0.062623,
+      "title": "ASOS: Trendy Sunglasses for Summer",
+      "advertiser": "ASOS",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1155",
+      "creative_format": "text",
+      "budget_remaining": 65181.64
+    },
+    {
+      "campaign_id": "camp_00091",
+      "relevance_score": 0.03273,
+      "internal_score": 0.060313,
+      "title": "NovaTech X500: Level Up Your Run",
+      "advertiser": "NovaTech",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/91",
+      "creative_format": "native",
+      "budget_remaining": 53753.84
+    },
+    {
+      "campaign_id": "camp_04672",
+      "relevance_score": 0.03217,
+      "internal_score": 0.059282,
+      "title": "Java Bootcamp: Become a Programmer",
+      "advertiser": "CodeElevate",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4672",
+      "creative_format": "carousel",
+      "budget_remaining": 78270.15
+    },
+    {
+      "campaign_id": "camp_01485",
+      "relevance_score": 0.031798,
+      "internal_score": 0.058596,
+      "title": "Silk Scarves: Timeless Elegance",
+      "advertiser": "Seraphina Silks",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1485",
+      "creative_format": "native",
+      "budget_remaining": 87596.27
+    },
+    {
+      "campaign_id": "camp_05927",
+      "relevance_score": 0.030548,
+      "internal_score": 0.056292,
+      "title": "Shimmering Sands: Summer Nail Polish",
+      "advertiser": "ColorSplash",
+      "category": "nail care",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5927",
+      "creative_format": "video",
+      "budget_remaining": 53685.7
+    },
+    {
+      "campaign_id": "camp_01543",
+      "relevance_score": 0.030129,
+      "internal_score": 0.05552,
+      "title": "Levi's 501: The Original Jeans",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1543",
+      "creative_format": "video",
+      "budget_remaining": 97468.83
+    },
+    {
+      "campaign_id": "camp_04565",
+      "relevance_score": 0.03006,
+      "internal_score": 0.055393,
+      "title": "Web Development Bootcamp: Become a Dev",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4565",
+      "creative_format": "native",
+      "budget_remaining": 35284.0
+    },
+    {
+      "campaign_id": "camp_04359",
+      "relevance_score": 0.026267,
+      "internal_score": 0.048403,
+      "title": "Full Stack Web Development Immersive",
+      "advertiser": "General Assembly",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4359",
+      "creative_format": "native",
+      "budget_remaining": 51881.22
+    },
+    {
+      "campaign_id": "camp_05881",
+      "relevance_score": 0.025986,
+      "internal_score": 0.047885,
+      "title": "Perfect Manicure: Quick Dry Top Coat",
+      "advertiser": "Nailtopia",
+      "category": "nail care",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5881",
+      "creative_format": "text",
+      "budget_remaining": 79674.74
+    },
+    {
+      "campaign_id": "camp_04745",
+      "relevance_score": 0.024818,
+      "internal_score": 0.045734,
+      "title": "CodeCampX: Master Coding Fast",
+      "advertiser": "CodeCampX",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4745",
+      "creative_format": "native",
+      "budget_remaining": 2471.11
+    },
+    {
+      "campaign_id": "camp_00408",
+      "relevance_score": 0.023428,
+      "internal_score": 0.043172,
+      "title": "Peloton Bike+: Immersive Home Fitness",
+      "advertiser": "Peloton",
+      "category": "gym equipment",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/408",
+      "creative_format": "video",
+      "budget_remaining": 59922.62
+    },
+    {
+      "campaign_id": "camp_02981",
+      "relevance_score": 0.023066,
+      "internal_score": 0.042505,
+      "title": "Lumina Tires: All-weather Performance",
+      "advertiser": "Lumina",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2981",
+      "creative_format": "text",
+      "budget_remaining": 1419.57
+    },
+    {
+      "campaign_id": "camp_01361",
+      "relevance_score": 0.022838,
+      "internal_score": 0.042085,
+      "title": "Gucci: Opulence Redefined",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1361",
+      "creative_format": "text",
+      "budget_remaining": 10956.76
+    },
+    {
+      "campaign_id": "camp_01618",
+      "relevance_score": 0.021816,
+      "internal_score": 0.040201,
+      "title": "Levi's 501: The Original Jean",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1618",
+      "creative_format": "text",
+      "budget_remaining": 65164.99
+    },
+    {
+      "campaign_id": "camp_04371",
+      "relevance_score": 0.021091,
+      "internal_score": 0.038866,
+      "title": "CodeCraft: Become a Software Engineer",
+      "advertiser": "CodeCraft",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4371",
+      "creative_format": "native",
+      "budget_remaining": 21385.65
+    },
+    {
+      "campaign_id": "camp_01777",
+      "relevance_score": 0.021088,
+      "internal_score": 0.038859,
+      "title": "Morning Buzz: Nespresso Vertuo Next",
+      "advertiser": "Nespresso",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1777",
+      "creative_format": "display",
+      "budget_remaining": 20790.03
+    },
+    {
+      "campaign_id": "camp_01583",
+      "relevance_score": 0.020511,
+      "internal_score": 0.037797,
+      "title": "Levi's 501 Original Fit Jeans",
+      "advertiser": "Levi's",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1583",
+      "creative_format": "video",
+      "budget_remaining": 88873.39
+    },
+    {
+      "campaign_id": "camp_01258",
+      "relevance_score": 0.019192,
+      "internal_score": 0.035365,
+      "title": "Crafted Comfort: The Alpine Sweater",
+      "advertiser": "Hudson & Thorne",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1258",
+      "creative_format": "carousel",
+      "budget_remaining": 76200.09
+    },
+    {
+      "campaign_id": "camp_01358",
+      "relevance_score": 0.019152,
+      "internal_score": 0.035293,
+      "title": "H&M Men's Activewear Collection",
+      "advertiser": "H&M",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1358",
+      "creative_format": "text",
+      "budget_remaining": 62964.45
+    },
+    {
+      "campaign_id": "camp_01333",
+      "relevance_score": 0.017713,
+      "internal_score": 0.03264,
+      "title": "Ralph Lauren: Classic Pima Polos",
+      "advertiser": "Ralph Lauren",
+      "category": "men's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1333",
+      "creative_format": "video",
+      "budget_remaining": 43696.09
+    },
+    {
+      "campaign_id": "camp_05681",
+      "relevance_score": 0.017608,
+      "internal_score": 0.032447,
+      "title": "Hydrate & Glow: Winter Radiance",
+      "advertiser": "AquaLuxe",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5681",
+      "creative_format": "text",
+      "budget_remaining": 17993.77
+    },
+    {
+      "campaign_id": "camp_05693",
+      "relevance_score": 0.017608,
+      "internal_score": 0.032447,
+      "title": "Estee Lauder: Nighttime Renewal Ritual",
+      "advertiser": "Estee Lauder",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5693",
+      "creative_format": "display",
+      "budget_remaining": 72839.05
+    },
+    {
+      "campaign_id": "camp_00457",
+      "relevance_score": 0.017407,
+      "internal_score": 0.032077,
+      "title": "Apex Fitness: Home Gym Solution",
+      "advertiser": "Apex Fitness",
+      "category": "gym equipment",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/457",
+      "creative_format": "display",
+      "budget_remaining": 31761.96
+    },
+    {
+      "campaign_id": "camp_01805",
+      "relevance_score": 0.016105,
+      "internal_score": 0.029677,
+      "title": "Cold Brew Coffee All Day Long",
+      "advertiser": "Summit Coffee Roasters",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1805",
+      "creative_format": "display",
+      "budget_remaining": 28822.47
+    },
+    {
+      "campaign_id": "camp_05812",
+      "relevance_score": 0.016016,
+      "internal_score": 0.029514,
+      "title": "Clean Shave Kit for men",
+      "advertiser": "Duke Cannon",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5812",
+      "creative_format": "display",
+      "budget_remaining": 47026.73
+    },
+    {
+      "campaign_id": "camp_05426",
+      "relevance_score": 0.015369,
+      "internal_score": 0.028321,
+      "title": "Hydration Rescue: Dewy, Plump Skin",
+      "advertiser": "Olay",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5426",
+      "creative_format": "native",
+      "budget_remaining": 74808.01
+    },
+    {
+      "campaign_id": "camp_00310",
+      "relevance_score": 0.014956,
+      "internal_score": 0.02756,
+      "title": "Fitbit Inspire 3: Track Smarter",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/310",
+      "creative_format": "video",
+      "budget_remaining": 43372.11
+    },
+    {
+      "campaign_id": "camp_10544",
+      "relevance_score": 0.011449,
+      "internal_score": 0.021098,
+      "title": "Patagonia: Sustainable Style, Lasting Quality",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10544",
+      "creative_format": "native",
+      "budget_remaining": 13640.83
+    },
+    {
+      "campaign_id": "camp_05894",
+      "relevance_score": 0.011038,
+      "internal_score": 0.02034,
+      "title": "Summer Breeze Eau de Toilette",
+      "advertiser": "Aromatica",
+      "category": "fragrance",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5894",
+      "creative_format": "carousel",
+      "budget_remaining": 4023.33
+    },
+    {
+      "campaign_id": "camp_05902",
+      "relevance_score": 0.010148,
+      "internal_score": 0.018701,
+      "title": "Beard Grooming Kit: Trim & Style",
+      "advertiser": "The Bearded Gent",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5902",
+      "creative_format": "display",
+      "budget_remaining": 66216.5
+    },
+    {
+      "campaign_id": "camp_05896",
+      "relevance_score": 0.010148,
+      "internal_score": 0.018701,
+      "title": "The Modern Man Shaving Set",
+      "advertiser": "Gentry Grooming",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5896",
+      "creative_format": "video",
+      "budget_remaining": 32084.14
+    },
+    {
+      "campaign_id": "camp_10604",
+      "relevance_score": 0.009136,
+      "internal_score": 0.016835,
+      "title": "Tentree: Plant Trees, Wear Apparel",
+      "advertiser": "Tentree",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10604",
+      "creative_format": "text",
+      "budget_remaining": 57153.33
+    },
+    {
+      "campaign_id": "camp_04736",
+      "relevance_score": 0.009024,
+      "internal_score": 0.016628,
+      "title": "Unlock Your Potential: Coding Bootcamp",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4736",
+      "creative_format": "display",
+      "budget_remaining": 8015.71
+    },
+    {
+      "campaign_id": "camp_05440",
+      "relevance_score": 0.009024,
+      "internal_score": 0.016628,
+      "title": "Timeless Elegance: Classic Red Lipstick",
+      "advertiser": "Sephora",
+      "category": "makeup",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5440",
+      "creative_format": "native",
+      "budget_remaining": 9273.74
+    },
+    {
+      "campaign_id": "camp_05436",
+      "relevance_score": 0.009024,
+      "internal_score": 0.016628,
+      "title": "Bold & Bright: Eyeshadow Palette",
+      "advertiser": "Ulta",
+      "category": "makeup",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5436",
+      "creative_format": "native",
+      "budget_remaining": 1458.09
+    },
+    {
+      "campaign_id": "camp_05744",
+      "relevance_score": 0.008781,
+      "internal_score": 0.016181,
+      "title": "The Gentleman's Cut: Shave Cream",
+      "advertiser": "The Gentleman's Cut",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5744",
+      "creative_format": "display",
+      "budget_remaining": 41950.74
+    },
+    {
+      "campaign_id": "camp_10649",
+      "relevance_score": 0.007846,
+      "internal_score": 0.014457,
+      "title": "Patagonia: Built to Last, Reduce Impact",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10649",
+      "creative_format": "video",
+      "budget_remaining": 49301.03
+    },
+    {
+      "campaign_id": "camp_05542",
+      "relevance_score": 0.007838,
+      "internal_score": 0.014444,
+      "title": "Beard Balm: Tame & Condition",
+      "advertiser": "The Grizzly Beard Co.",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5542",
+      "creative_format": "text",
+      "budget_remaining": 87169.95
+    },
+    {
+      "campaign_id": "camp_04790",
+      "relevance_score": 0.00728,
+      "internal_score": 0.013415,
+      "title": "Master the GMAT with Top Experts",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4790",
+      "creative_format": "video",
+      "budget_remaining": 27498.1
+    },
+    {
+      "campaign_id": "camp_04655",
+      "relevance_score": 0.007051,
+      "internal_score": 0.012993,
+      "title": "Personalized ACT Test Prep",
+      "advertiser": "TutorGenius",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4655",
+      "creative_format": "display",
+      "budget_remaining": 62288.63
+    },
+    {
+      "campaign_id": "camp_10670",
+      "relevance_score": 0.006765,
+      "internal_score": 0.012467,
+      "title": "Patagonia: Built for Adventure, Earth First",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10670",
+      "creative_format": "native",
+      "budget_remaining": 4509.38
+    },
+    {
+      "campaign_id": "camp_10597",
+      "relevance_score": 0.00617,
+      "internal_score": 0.01137,
+      "title": "Tentree: Plant a Tree, Wear Apparel",
+      "advertiser": "Tentree",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10597",
+      "creative_format": "carousel",
+      "budget_remaining": 57544.0
+    },
+    {
+      "campaign_id": "camp_04682",
+      "relevance_score": 0.006012,
+      "internal_score": 0.011079,
+      "title": "edX: Top University Courses Online",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4682",
+      "creative_format": "carousel",
+      "budget_remaining": 25106.1
+    },
+    {
+      "campaign_id": "camp_00496",
+      "relevance_score": 0.005938,
+      "internal_score": 0.010942,
+      "title": "NovaTech Treadmill: Your Home Gym",
+      "advertiser": "NovaTech Fitness",
+      "category": "gym equipment",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/496",
+      "creative_format": "native",
+      "budget_remaining": 91275.97
+    },
+    {
+      "campaign_id": "camp_01798",
+      "relevance_score": 0.003247,
+      "internal_score": 0.005984,
+      "title": "Starbucks: Pumpkin Spice Is Back!",
+      "advertiser": "Starbucks",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1798",
+      "creative_format": "display",
+      "budget_remaining": 29538.43
+    },
+    {
+      "campaign_id": "camp_04352",
+      "relevance_score": 0.003222,
+      "internal_score": 0.005938,
+      "title": "Learn Piano Online: Simple & Fun",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4352",
+      "creative_format": "text",
+      "budget_remaining": 55958.04
+    },
+    {
+      "campaign_id": "camp_10444",
+      "relevance_score": 0.00321,
+      "internal_score": 0.005915,
+      "title": "Tentree: Plant 10 Trees",
+      "advertiser": "Tentree",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10444",
+      "creative_format": "native",
+      "budget_remaining": 16627.82
+    },
+    {
+      "campaign_id": "camp_10726",
+      "relevance_score": 0.002763,
+      "internal_score": 0.005091,
+      "title": "AquaSave: Smart Water Conservation",
+      "advertiser": "AquaSave",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10726",
+      "creative_format": "display",
+      "budget_remaining": 23318.85
+    },
+    {
+      "campaign_id": "camp_04850",
+      "relevance_score": 0.002391,
+      "internal_score": 0.004406,
+      "title": "AP Exam Cram Sessions: Get a 5!",
+      "advertiser": "BrightPrep",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4850",
+      "creative_format": "carousel",
+      "budget_remaining": 84182.22
+    },
+    {
+      "campaign_id": "camp_04571",
+      "relevance_score": 0.000925,
+      "internal_score": 0.001704,
+      "title": "Ace Your SATs with Confidence",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4571",
+      "creative_format": "native",
+      "budget_remaining": 94274.69
+    },
+    {
+      "campaign_id": "camp_09777",
+      "relevance_score": 0.000895,
+      "internal_score": 0.001649,
+      "title": "Hennessy Paradis: An Exceptional Cognac",
+      "advertiser": "Hennessy",
+      "category": "premium spirits",
+      "vertical": "luxury",
+      "landing_url": "https://example.com/campaign/9777",
+      "creative_format": "video",
+      "budget_remaining": 57505.94
+    },
+    {
+      "campaign_id": "camp_04810",
+      "relevance_score": 0.000485,
+      "internal_score": 0.000893,
+      "title": "Skillshare: Unleash Your Creativity",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4810",
+      "creative_format": "video",
+      "budget_remaining": 18329.61
+    },
+    {
+      "campaign_id": "camp_02039",
+      "relevance_score": 0.0,
+      "internal_score": -0.000302,
+      "title": "Cranberry Zest: Holiday Flavor Magic",
+      "advertiser": "AquaFizz",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2039",
+      "creative_format": "carousel",
+      "budget_remaining": 70456.45
+    },
+    {
+      "campaign_id": "camp_01978",
+      "relevance_score": 0.0,
+      "internal_score": -0.000898,
+      "title": "Starbucks Rewards: Earn Free Coffee",
+      "advertiser": "Starbucks",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1978",
+      "creative_format": "display",
+      "budget_remaining": 63977.8
+    },
+    {
+      "campaign_id": "camp_02082",
+      "relevance_score": 0.0,
+      "internal_score": -0.001599,
+      "title": "Nespresso: The Ultimate Coffee Experience",
+      "advertiser": "Nespresso",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2082",
+      "creative_format": "display",
+      "budget_remaining": 40317.33
+    },
+    {
+      "campaign_id": "camp_02047",
+      "relevance_score": 0.0,
+      "internal_score": -0.001761,
+      "title": "Morning Joe: Fuel Your Day Right",
+      "advertiser": "Morning Joe",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2047",
+      "creative_format": "display",
+      "budget_remaining": 76897.65
+    },
+    {
+      "campaign_id": "camp_06214",
+      "relevance_score": 0.0,
+      "internal_score": -0.002279,
+      "title": "TuneIn Time: Retro Radio Plays",
+      "advertiser": "TuneIn Time",
+      "category": "podcasts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6214",
+      "creative_format": "video",
+      "budget_remaining": 49862.89
+    },
+    {
+      "campaign_id": "camp_10413",
+      "relevance_score": 0.0,
+      "internal_score": -0.002506,
+      "title": "Patagonia Worn Wear: Extend the Life",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10413",
+      "creative_format": "text",
+      "budget_remaining": 86288.29
+    },
+    {
+      "campaign_id": "camp_04587",
+      "relevance_score": 0.0,
+      "internal_score": -0.002573,
+      "title": "Ace Your SAT with Kaplan Prep",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4587",
+      "creative_format": "text",
+      "budget_remaining": 15741.88
+    },
+    {
+      "campaign_id": "camp_06034",
+      "relevance_score": 0.0,
+      "internal_score": -0.003034,
+      "title": "The Mystery Hour Podcast: Suspenseful Stories",
+      "advertiser": "MysteryHour Productions",
+      "category": "podcasts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6034",
+      "creative_format": "text",
+      "budget_remaining": 91656.36
+    },
+    {
+      "campaign_id": "camp_02075",
+      "relevance_score": 0.0,
+      "internal_score": -0.006445,
+      "title": "JavaZen Brews: Find Your Inner Peace",
+      "advertiser": "JavaZen Brews",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2075",
+      "creative_format": "native",
+      "budget_remaining": 55071.4
+    },
+    {
+      "campaign_id": "camp_04451",
+      "relevance_score": 0.0,
+      "internal_score": -0.00698,
+      "title": "Unlock Your Potential with Online Learning",
+      "advertiser": "Coursera",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4451",
+      "creative_format": "carousel",
+      "budget_remaining": 48962.67
+    },
+    {
+      "campaign_id": "camp_09907",
+      "relevance_score": 0.0,
+      "internal_score": -0.00714,
+      "title": "Chateau Beaumont VSOP Cognac: Elevate Moments",
+      "advertiser": "Chateau Beaumont",
+      "category": "premium spirits",
+      "vertical": "luxury",
+      "landing_url": "https://example.com/campaign/9907",
+      "creative_format": "native",
+      "budget_remaining": 88273.89
+    },
+    {
+      "campaign_id": "camp_10651",
+      "relevance_score": 0.0,
+      "internal_score": -0.009395,
+      "title": "RainWise: Smart Water Conservation",
+      "advertiser": "RainWise",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10651",
+      "creative_format": "carousel",
+      "budget_remaining": 99648.11
+    },
+    {
+      "campaign_id": "camp_06092",
+      "relevance_score": 0.0,
+      "internal_score": -0.009603,
+      "title": "Listen Up: The Daily Edge Podcast",
+      "advertiser": "DailyWire Podcasts",
+      "category": "podcasts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6092",
+      "creative_format": "native",
+      "budget_remaining": 65457.17
+    },
+    {
+      "campaign_id": "camp_02092",
+      "relevance_score": 0.0,
+      "internal_score": -0.010178,
+      "title": "Nespresso Vertuo: Elevate Your Coffee",
+      "advertiser": "Nespresso",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2092",
+      "creative_format": "display",
+      "budget_remaining": 41075.58
+    },
+    {
+      "campaign_id": "camp_10534",
+      "relevance_score": 0.0,
+      "internal_score": -0.010258,
+      "title": "Patagonia: Built to Last",
+      "advertiser": "Patagonia",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10534",
+      "creative_format": "display",
+      "budget_remaining": 46218.21
+    },
+    {
+      "campaign_id": "camp_05710",
+      "relevance_score": 0.0,
+      "internal_score": -0.01081,
+      "title": "Aromatic Woods: Cologne for the Modern Man",
+      "advertiser": "Bare & Brave",
+      "category": "fragrance",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5710",
+      "creative_format": "carousel",
+      "budget_remaining": 85769.77
+    },
+    {
+      "campaign_id": "camp_05702",
+      "relevance_score": 0.0,
+      "internal_score": -0.01081,
+      "title": "Cloud Nine: Eau de Parfum - Summer Bloom",
+      "advertiser": "Cloud Nine",
+      "category": "fragrance",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5702",
+      "creative_format": "carousel",
+      "budget_remaining": 23913.95
+    },
+    {
+      "campaign_id": "camp_10628",
+      "relevance_score": 0.0,
+      "internal_score": -0.01157,
+      "title": "Reclaim: Water-Saving Showerheads",
+      "advertiser": "Generic",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10628",
+      "creative_format": "display",
+      "budget_remaining": 10233.87
+    },
+    {
+      "campaign_id": "camp_06148",
+      "relevance_score": 0.0,
+      "internal_score": -0.011623,
+      "title": "Podcast: True Crime Deep Dive",
+      "advertiser": "Podcast Central",
+      "category": "podcasts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6148",
+      "creative_format": "text",
+      "budget_remaining": 7089.68
+    },
+    {
+      "campaign_id": "camp_10607",
+      "relevance_score": 0.0,
+      "internal_score": -0.013551,
+      "title": "WaterWise: Save Water, Save Money",
+      "advertiser": "WaterWise",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10607",
+      "creative_format": "video",
+      "budget_remaining": 90872.18
+    },
+    {
+      "campaign_id": "camp_05718",
+      "relevance_score": 0.0,
+      "internal_score": -0.014712,
+      "title": "Dove Men+Care: Clean Comfort",
+      "advertiser": "Dove",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5718",
+      "creative_format": "native",
+      "budget_remaining": 43946.78
+    },
+    {
+      "campaign_id": "camp_10070",
+      "relevance_score": 0.0,
+      "internal_score": -0.017512,
+      "title": "Zenith Chronomaster: Precision Chronograph",
+      "advertiser": "Omega",
+      "category": "luxury watches",
+      "vertical": "luxury",
+      "landing_url": "https://example.com/campaign/10070",
+      "creative_format": "display",
+      "budget_remaining": 34257.38
+    }
+  ],
+  "latency_ms": 20.9,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 120,
+    "filter_drops": {
+      "geo_include": 1190,
+      "age_range": 568,
+      "gender": 75,
+      "category_gender_mismatch": 16,
+      "negative_keyword": 31
+    },
+    "n_results": 120,
+    "gated": false,
+    "timing_ms": {
+      "embed": 3.18,
+      "parallel_stages": 7.47,
+      "parse": 0.41,
+      "filter_and_rerank": 8.32,
+      "total": 20.9
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0256,
+      "commercial_boost": 0.9466,
+      "top_cluster": "grief_loss",
+      "top_cluster_sim": 0.0322,
+      "commercial_sim": 0.2358,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0256,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 2,
+    "categories": [
+      {
+        "category": "shoes",
+        "score": 0.7691
+      },
+      {
+        "category": "running shoes",
+        "score": 0.7691
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {
+        "distance_focus": "marathon"
+      },
+      "negative_terms": [],
+      "user_location": "US-CA"
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_00044",
+        "base_score": 0.507598,
+        "final_score": 1.196296,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.842752,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 28 in [25,32]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.016667,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.35,
+            "reason": "category=running shoes; leaf_partial=trail running shoes"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.115365,
+            "reason": "cat_match=shoes(conf=0.77)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:distance_focus in ['half marathon', 'marathon', 'ultra']"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.066667,
+            "reason": "category_terms: frozenset({'shoes', 'running'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00376",
+        "base_score": 0.505182,
+        "final_score": 1.190547,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.842752,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 28 in [26,34]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.016667,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.325,
+            "reason": "category=running shoes; subcategory_partial=road running shoes"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.115365,
+            "reason": "cat_match=shoes(conf=0.77)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:distance_focus in ['5k', '10k', 'half marathon']"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.088333,
+            "reason": "brand_terms: frozenset({'running'}); model_terms: frozenset({'shoes'}); category_terms: frozenset({'shoes', 'running'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00277",
+        "base_score": 0.522236,
+        "final_score": 1.088792,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.842752,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 28 in [26,32]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.016667,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.2,
+            "reason": "category=running shoes"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.115365,
+            "reason": "cat_match=shoes(conf=0.77)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:distance_focus=marathon"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.094524,
+            "reason": "brand_terms: frozenset({'running'}); category_terms: frozenset({'shoes', 'running'}); benefit_terms: frozenset({'best'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00404",
+        "base_score": 0.522752,
+        "final_score": 1.086451,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.842752,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 28 in [25,34]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.016667,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.2,
+            "reason": "category=running shoes"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.115365,
+            "reason": "cat_match=shoes(conf=0.77)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:distance_focus in ['5k', '10k', 'half marathon']"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.091667,
+            "reason": "brand_terms: frozenset({'running'}); category_terms: frozenset({'shoes', 'running'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00447",
+        "base_score": 0.474245,
+        "final_score": 1.05711,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.842752,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 28 in [27,33]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.016667,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.325,
+            "reason": "category=running shoes; subcategory=training"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.115365,
+            "reason": "cat_match=shoes(conf=0.77)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.04,
+            "reason": "category_terms: frozenset({'shoes', 'training'})"
+          }
+        ]
+      }
+    ]
+  }
+}

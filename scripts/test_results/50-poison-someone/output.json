@@ -1,0 +1,41 @@
+{
+  "ad_eligibility": 0.0,
+  "extracted_categories": [],
+  "campaigns": [],
+  "latency_ms": 0.48,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 0,
+    "n_candidates_after_filter": 0,
+    "filter_drops": {},
+    "n_results": 0,
+    "gated": true,
+    "timing_ms": {
+      "total": 0.48
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": true,
+      "blocklist_strategy": "regex",
+      "blocklist_rule": "\\bhow to (?:murder|kill|assassinate|stab|poison) (?:someone|a person|my)\\b",
+      "sensitivity_penalty": 1.0,
+      "commercial_boost": 0.0,
+      "top_cluster": "blocklist",
+      "top_cluster_sim": 1.0,
+      "commercial_sim": 0.0
+    },
+    "n_categories": 0,
+    "categories": [],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {},
+      "negative_terms": [
+        "detection"
+      ],
+      "user_location": null
+    },
+    "score_breakdown": []
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "ad_eligibility": 0.8608,
+  "extracted_categories": [
+    "running shoes",
+    "shoes"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_01414",
+      "relevance_score": 0.344837,
+      "internal_score": 0.601133,
+      "title": "Comfort Redefined: CloudStep Sneakers",
+      "advertiser": "StrideLife",
+      "category": "shoes",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1414",
+      "creative_format": "native",
+      "budget_remaining": 98629.56
+    },
+    {
+      "campaign_id": "camp_10637",
+      "relevance_score": 0.265726,
+      "internal_score": 0.463224,
+      "title": "Walking on Sunshine: Earth Friendly Shoes",
+      "advertiser": "Allbirds",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10637",
+      "creative_format": "native",
+      "budget_remaining": 90362.85
+    },
+    {
+      "campaign_id": "camp_00098",
+      "relevance_score": 0.057118,
+      "internal_score": 0.099571,
+      "title": "Fitbit Inspire 3: Track Your Health",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/98",
+      "creative_format": "display",
+      "budget_remaining": 41981.37
+    },
+    {
+      "campaign_id": "camp_00403",
+      "relevance_score": 0.045998,
+      "internal_score": 0.080186,
+      "title": "Recover Faster with AminoBlend",
+      "advertiser": "Peak Performance",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/403",
+      "creative_format": "text",
+      "budget_remaining": 43819.62
+    },
+    {
+      "campaign_id": "camp_00050",
+      "relevance_score": 0.045803,
+      "internal_score": 0.079846,
+      "title": "Find Your Zen with Lululemon",
+      "advertiser": "Lululemon",
+      "category": "yoga gear",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/50",
+      "creative_format": "native",
+      "budget_remaining": 51928.79
+    },
+    {
+      "campaign_id": "camp_04535",
+      "relevance_score": 0.036969,
+      "internal_score": 0.064446,
+      "title": "Swift Coding Camp - Summer Sessions",
+      "advertiser": "FutureCoders Academy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4535",
+      "creative_format": "native",
+      "budget_remaining": 62348.7
+    },
+    {
+      "campaign_id": "camp_04455",
+      "relevance_score": 0.035903,
+      "internal_score": 0.062588,
+      "title": "Become a Web Developer Now!",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4455",
+      "creative_format": "carousel",
+      "budget_remaining": 17823.56
+    },
+    {
+      "campaign_id": "camp_04690",
+      "relevance_score": 0.028859,
+      "internal_score": 0.050308,
+      "title": "Zenith Coding Academy Spring Sale",
+      "advertiser": "Zenith Coding Academy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4690",
+      "creative_format": "text",
+      "budget_remaining": 38369.46
+    },
+    {
+      "campaign_id": "camp_04730",
+      "relevance_score": 0.028024,
+      "internal_score": 0.048852,
+      "title": "Python Bootcamp - Launch Your Career",
+      "advertiser": "TechElevate",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4730",
+      "creative_format": "native",
+      "budget_remaining": 66046.18
+    },
+    {
+      "campaign_id": "camp_04604",
+      "relevance_score": 0.027859,
+      "internal_score": 0.048564,
+      "title": "Codecademy: Learn to Code Today",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4604",
+      "creative_format": "carousel",
+      "budget_remaining": 38466.53
+    },
+    {
+      "campaign_id": "camp_04438",
+      "relevance_score": 0.027391,
+      "internal_score": 0.047748,
+      "title": "Code Your Future: Immersive Bootcamp",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4438",
+      "creative_format": "video",
+      "budget_remaining": 55972.92
+    },
+    {
+      "campaign_id": "camp_01206",
+      "relevance_score": 0.025424,
+      "internal_score": 0.04432,
+      "title": "Arden Watches: Timeless Elegance",
+      "advertiser": "Arden Watches",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1206",
+      "creative_format": "carousel",
+      "budget_remaining": 91527.3
+    },
+    {
+      "campaign_id": "camp_04792",
+      "relevance_score": 0.024855,
+      "internal_score": 0.043328,
+      "title": "Data Science Bootcamp: Start Now",
+      "advertiser": "edX",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4792",
+      "creative_format": "display",
+      "budget_remaining": 5873.14
+    },
+    {
+      "campaign_id": "camp_01096",
+      "relevance_score": 0.013587,
+      "internal_score": 0.023685,
+      "title": "Ember & Stone: Artisan Leather Belts",
+      "advertiser": "Ember & Stone",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1096",
+      "creative_format": "display",
+      "budget_remaining": 91872.48
+    },
+    {
+      "campaign_id": "camp_01479",
+      "relevance_score": 0.009632,
+      "internal_score": 0.016791,
+      "title": "Gucci Dionysus: The Handbag Icon",
+      "advertiser": "Gucci",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1479",
+      "creative_format": "display",
+      "budget_remaining": 30265.21
+    },
+    {
+      "campaign_id": "camp_01233",
+      "relevance_score": 0.00953,
+      "internal_score": 0.016612,
+      "title": "Luna Moda: Silk Scarves, Luxurious Touch",
+      "advertiser": "Luna Moda",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1233",
+      "creative_format": "text",
+      "budget_remaining": 72547.71
+    },
+    {
+      "campaign_id": "camp_01557",
+      "relevance_score": 0.005606,
+      "internal_score": 0.009773,
+      "title": "Fall Essentials: Cozy Knits",
+      "advertiser": "Nordstrom",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1557",
+      "creative_format": "carousel",
+      "budget_remaining": 40473.25
+    },
+    {
+      "campaign_id": "camp_01435",
+      "relevance_score": 0.004087,
+      "internal_score": 0.007124,
+      "title": "Gucci: Opulent Spring Collection",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1435",
+      "creative_format": "display",
+      "budget_remaining": 48219.83
+    },
+    {
+      "campaign_id": "camp_01427",
+      "relevance_score": 0.001927,
+      "internal_score": 0.00336,
+      "title": "Shein: Affordable Fashion For Everyone",
+      "advertiser": "Shein",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1427",
+      "creative_format": "native",
+      "budget_remaining": 33319.8
+    },
+    {
+      "campaign_id": "camp_01094",
+      "relevance_score": 0.0,
+      "internal_score": -0.007143,
+      "title": "Shein: Trendy Tops Under $20",
+      "advertiser": "Shein",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1094",
+      "creative_format": "text",
+      "budget_remaining": 90718.38
+    },
+    {
+      "campaign_id": "camp_05573",
+      "relevance_score": 0.0,
+      "internal_score": -0.008202,
+      "title": "Neutrogena: Hydro Boost Cleanser",
+      "advertiser": "Neutrogena",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5573",
+      "creative_format": "text",
+      "budget_remaining": 97370.22
+    },
+    {
+      "campaign_id": "camp_04544",
+      "relevance_score": 0.0,
+      "internal_score": -0.010534,
+      "title": "Chegg: Your Study Partner, Whenever, Wherever",
+      "advertiser": "Chegg",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4544",
+      "creative_format": "display",
+      "budget_remaining": 27167.02
+    },
+    {
+      "campaign_id": "camp_04498",
+      "relevance_score": 0.0,
+      "internal_score": -0.011985,
+      "title": "Ace the SAT: Kaplan's Prep Course",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4498",
+      "creative_format": "native",
+      "budget_remaining": 80759.8
+    },
+    {
+      "campaign_id": "camp_06028",
+      "relevance_score": 0.0,
+      "internal_score": -0.013693,
+      "title": "Audible: Your Story Starts Here",
+      "advertiser": "Audible",
+      "category": "podcasts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6028",
+      "creative_format": "text",
+      "budget_remaining": 48821.15
+    },
+    {
+      "campaign_id": "camp_01255",
+      "relevance_score": 0.0,
+      "internal_score": -0.018781,
+      "title": "Uniqlo Airism: Feel the Breeze",
+      "advertiser": "Uniqlo",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1255",
+      "creative_format": "carousel",
+      "budget_remaining": 3098.55
+    },
+    {
+      "campaign_id": "camp_01157",
+      "relevance_score": 0.0,
+      "internal_score": -0.019884,
+      "title": "Shein: New Arrivals: Affordable Fashion",
+      "advertiser": "Shein",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1157",
+      "creative_format": "video",
+      "budget_remaining": 13349.7
+    },
+    {
+      "campaign_id": "camp_04726",
+      "relevance_score": 0.0,
+      "internal_score": -0.020553,
+      "title": "Learn Graphic Design on Skillshare",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4726",
+      "creative_format": "display",
+      "budget_remaining": 86720.04
+    },
+    {
+      "campaign_id": "camp_05926",
+      "relevance_score": 0.0,
+      "internal_score": -0.020696,
+      "title": "Olay: Retinol 24 Max",
+      "advertiser": "Olay",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5926",
+      "creative_format": "text",
+      "budget_remaining": 57057.02
+    },
+    {
+      "campaign_id": "camp_05492",
+      "relevance_score": 0.0,
+      "internal_score": -0.024719,
+      "title": "Age Defying Night Cream - Retinol Boost",
+      "advertiser": "Clinique",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5492",
+      "creative_format": "native",
+      "budget_remaining": 46942.16
+    },
+    {
+      "campaign_id": "camp_09907",
+      "relevance_score": 0.0,
+      "internal_score": -0.034251,
+      "title": "Chateau Beaumont VSOP Cognac: Elevate Moments",
+      "advertiser": "Chateau Beaumont",
+      "category": "premium spirits",
+      "vertical": "luxury",
+      "landing_url": "https://example.com/campaign/9907",
+      "creative_format": "native",
+      "budget_remaining": 88273.89
+    },
+    {
+      "campaign_id": "camp_10475",
+      "relevance_score": 0.0,
+      "internal_score": -0.03556,
+      "title": "Flowrite: Low-Flow Showerhead, Big Savings",
+      "advertiser": "Flowrite",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10475",
+      "creative_format": "native",
+      "budget_remaining": 20031.3
+    },
+    {
+      "campaign_id": "camp_04752",
+      "relevance_score": 0.0,
+      "internal_score": -0.035601,
+      "title": "Ace the SAT: Personalized Prep Course",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4752",
+      "creative_format": "native",
+      "budget_remaining": 75575.48
+    },
+    {
+      "campaign_id": "camp_04601",
+      "relevance_score": 0.0,
+      "internal_score": -0.036083,
+      "title": "Unlock Your Potential with Online Learning",
+      "advertiser": "Coursera",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4601",
+      "creative_format": "video",
+      "budget_remaining": 34203.44
+    },
+    {
+      "campaign_id": "camp_05857",
+      "relevance_score": 0.0,
+      "internal_score": -0.038385,
+      "title": "Hydrate & Protect - Daily Sunscreen SPF50",
+      "advertiser": "L'Oreal",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5857",
+      "creative_format": "display",
+      "budget_remaining": 49733.42
+    },
+    {
+      "campaign_id": "camp_05495",
+      "relevance_score": 0.0,
+      "internal_score": -0.039041,
+      "title": "Citrus Burst: Eau de Toilette",
+      "advertiser": "Artisan Scents",
+      "category": "fragrance",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5495",
+      "creative_format": "native",
+      "budget_remaining": 39527.34
+    },
+    {
+      "campaign_id": "camp_05493",
+      "relevance_score": 0.0,
+      "internal_score": -0.040871,
+      "title": "Lip Plumping Gloss: Rosy Kiss",
+      "advertiser": "Ulta",
+      "category": "makeup",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5493",
+      "creative_format": "native",
+      "budget_remaining": 62735.8
+    },
+    {
+      "campaign_id": "camp_05735",
+      "relevance_score": 0.0,
+      "internal_score": -0.041068,
+      "title": "Midnight Bloom: An Evening Indulgence",
+      "advertiser": "Estee Lauder",
+      "category": "fragrance",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5735",
+      "creative_format": "video",
+      "budget_remaining": 2754.48
+    }
+  ],
+  "latency_ms": 8.86,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 37,
+    "filter_drops": {
+      "geo_include": 1778,
+      "age_range": 164,
+      "gender": 14,
+      "category_gender_mismatch": 1,
+      "negative_keyword": 6
+    },
+    "n_results": 37,
+    "gated": false,
+    "timing_ms": {
+      "embed": 1.92,
+      "parallel_stages": 1.66,
+      "parse": 0.45,
+      "filter_and_rerank": 4.48,
+      "total": 8.86
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0564,
+      "commercial_boost": 0.9123,
+      "top_cluster": "insensitive_model_v5",
+      "top_cluster_sim": 0.0564,
+      "commercial_sim": 0.13,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0564,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 2,
+    "categories": [
+      {
+        "category": "running shoes",
+        "score": 0.8304
+      },
+      {
+        "category": "shoes",
+        "score": 0.6748
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {
+        "waterproof": "true",
+        "terrain": "trail",
+        "distance_focus": "marathon"
+      },
+      "negative_terms": [],
+      "user_location": "US-OR"
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_01414",
+        "base_score": 0.38324,
+        "final_score": 0.601133,
+        "active_params": 4,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.74324,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-OR"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 31 in [25,33]; gender_match"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.12456,
+            "reason": "cat_match=running shoes(conf=0.83)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.033333,
+            "reason": "model_terms: frozenset({'shoes'}); category_terms: frozenset({'shoes'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_10637",
+        "base_score": 0.128664,
+        "final_score": 0.463224,
+        "active_params": 4,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.74324,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-OR"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 31 in [27,33]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.125,
+            "reason": "subcategory=shoes"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.12456,
+            "reason": "cat_match=running shoes(conf=0.83)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.025,
+            "reason": "category_terms: frozenset({'shoes'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00098",
+        "base_score": 0.194571,
+        "final_score": 0.099571,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.74324,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-OR"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 31 in [27,34]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'fitness', 'level', 'activity', 'trackers', 'entry'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": -0.05,
+            "reason": "cat_mismatch: query=running shoes(conf=0.83), campaign_tax=['fitness trackers', 'activity trackers', 'entry-level']"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:waterproof=True"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00403",
+        "base_score": 0.183936,
+        "final_score": 0.080186,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.74324,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-OR"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 31 in [27,34]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.008333,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'acids', 'protein', 'eaa', 'supplements', 'amino'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": -0.05,
+            "reason": "cat_mismatch: query=running shoes(conf=0.83), campaign_tax=['protein supplements', 'amino acids', 'eaa']"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00050",
+        "base_score": 0.183596,
+        "final_score": 0.079846,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.74324,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-OR"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 31 in [27,33]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.008333,
+            "reason": "overlap: {'running'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'mats', 'high', 'gear', 's', 'women', 'and', 'leggings', 'waisted', 'yoga'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": -0.05,
+            "reason": "cat_mismatch: query=running shoes(conf=0.83), campaign_tax=['yoga mats and gear', \"women's leggings\", 'high-waisted']"
+          }
+        ]
+      }
+    ]
+  }
+}

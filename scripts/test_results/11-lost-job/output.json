@@ -1,0 +1,48 @@
+{
+  "ad_eligibility": 0.0,
+  "extracted_categories": [],
+  "campaigns": [],
+  "latency_ms": 4.6,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 1000,
+    "n_candidates_after_filter": 0,
+    "filter_drops": {},
+    "n_results": 0,
+    "gated": true,
+    "timing_ms": {
+      "embed": 2.27,
+      "parallel_stages": 1.57,
+      "parse": 0.51,
+      "filter_and_rerank": 0.0,
+      "total": 4.6
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": "insensitive_model_v5",
+      "sensitivity_penalty": 1.0,
+      "commercial_boost": 0.0,
+      "top_cluster": "insensitive_model_v5",
+      "top_cluster_sim": 0.9409,
+      "commercial_sim": 0.0,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.9409,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.5625
+    },
+    "n_categories": 0,
+    "categories": [],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {},
+      "negative_terms": [],
+      "user_location": null
+    },
+    "score_breakdown": []
+  }
+}

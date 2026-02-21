@@ -1,0 +1,44 @@
+{
+  "_comment": "Discovered keyword gaps. Maps category names to additional keywords for context boosting. Add entries here as you test — they get merged into the extractor at startup.",
+
+  "running shoes": ["fitness", "exercise", "cardio", "jogging", "5k", "10k", "half marathon", "track"],
+  "trail running shoes": ["fitness", "hiking", "off-road", "outdoor activities", "nature"],
+  "gym equipment": ["fitness", "exercise", "strength", "home workout", "bodybuilding"],
+  "fitness trackers": ["fitness", "exercise", "health", "steps", "wearable"],
+  "workout apparel": ["fitness", "exercise", "gym clothes", "activewear"],
+  "yoga mats and gear": ["fitness", "flexibility", "meditation", "wellness"],
+  "protein supplements": ["fitness", "gym", "bodybuilding", "muscle", "post workout"],
+  "sports nutrition": ["fitness", "endurance", "hydration", "electrolytes"],
+  "exercise bikes": ["fitness", "indoor cycling", "spin class", "cardio"],
+  "treadmills": ["fitness", "cardio", "home gym", "indoor running"],
+
+  "laptops": ["school", "college", "university", "remote work", "productivity"],
+  "gaming laptops": ["esports", "streaming", "high performance"],
+  "smartphones": ["mobile", "cell phone", "android", "iphone"],
+
+  "meal delivery kits": ["cooking", "dinner", "recipes", "weeknight meals"],
+  "healthy snacks": ["diet", "low calorie", "weight loss", "nutrition"],
+  "meal replacement shakes": ["diet", "weight loss", "nutrition", "protein"],
+  "organic food": ["clean eating", "natural", "non-gmo", "whole foods"],
+  "plant-based food": ["vegan", "vegetarian", "meatless", "dairy free"],
+
+  "dog food": ["canine", "puppy", "kibble", "pet nutrition"],
+  "cat food": ["feline", "kitten", "pet nutrition"],
+  "pet grooming": ["pet care", "bathing", "shedding", "flea", "itching", "scratching"],
+  "pet insurance": ["vet bills", "veterinary", "pet health"],
+
+  "flights": ["airfare", "plane tickets", "airline", "travel deals"],
+  "hotels": ["accommodation", "lodging", "stay", "booking"],
+  "luggage": ["suitcase", "travel bags", "carry on", "packing"],
+
+  "skincare": ["beauty routine", "face care", "complexion", "glow"],
+  "body lotion": ["moisturizer", "dry skin", "hydration", "body care"],
+  "sunscreen": ["sun protection", "UV", "SPF", "beach"],
+
+  "CRM software": ["sales pipeline", "customer management", "leads", "enterprise"],
+  "project management tools": ["team collaboration", "task tracking", "agile", "scrum"],
+
+  "credit cards": ["rewards points", "cashback", "travel rewards", "APR"],
+  "savings accounts": ["investing", "money", "interest rate", "deposit"],
+  "cryptocurrency": ["bitcoin", "crypto trading", "blockchain", "defi"]
+}

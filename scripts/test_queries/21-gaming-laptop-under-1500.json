@@ -1,0 +1,8 @@
+{
+  "query": "gaming laptop under $1500 for AAA games",
+  "context": {
+    "age": 22,
+    "gender": "male",
+    "interests": ["gaming", "technology"]
+  }
+}

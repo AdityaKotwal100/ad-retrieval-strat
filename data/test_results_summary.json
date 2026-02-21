@@ -1,0 +1,1996 @@
+[
+  {
+    "test_id": "01-running-shoes-marathon",
+    "query": "best running shoes for marathon training",
+    "context": {
+      "gender": "male",
+      "age": 28,
+      "location": "San Francisco, CA",
+      "interests": [
+        "fitness",
+        "outdoor activities"
+      ]
+    },
+    "ad_eligibility": 0.9664,
+    "gated": false,
+    "n_results": 136,
+    "top3": [
+      {
+        "title": "Elevate Your Run: SonicBoost Shoes",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.079
+      },
+      {
+        "title": "Adidas Adizero: Speed Redefined",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.074
+      },
+      {
+        "title": "Adidas Terrex Speed Ultra: Trailblaze",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.031
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0078,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1176,
+      "age_range": 583,
+      "gender": 67,
+      "category_gender_mismatch": 15,
+      "negative_keyword": 23
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 136
+  },
+  {
+    "test_id": "02-laptop-college",
+    "query": "lightweight laptop for college students",
+    "context": {
+      "age": 20,
+      "gender": "female",
+      "location": "Austin, TX",
+      "interests": [
+        "technology",
+        "education"
+      ]
+    },
+    "ad_eligibility": 0.9724,
+    "gated": false,
+    "n_results": 128,
+    "top3": [
+      {
+        "title": "Dell XPS 13: Powerfully Portable",
+        "category": "laptops",
+        "vertical": "technology",
+        "score": 0.741
+      },
+      {
+        "title": "Visionary Laptop: See the Future",
+        "category": "laptops",
+        "vertical": "technology",
+        "score": 0.726
+      },
+      {
+        "title": "SwiftWrite Pro: Ultimate Productivity Laptop",
+        "category": "laptops",
+        "vertical": "technology",
+        "score": 0.663
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0651,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1170,
+      "age_range": 634,
+      "gender": 44,
+      "negative_keyword": 22,
+      "category_gender_mismatch": 2
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 128
+  },
+  {
+    "test_id": "03-meal-prep-weight-loss",
+    "query": "healthy meal prep ideas for weight loss",
+    "context": {
+      "age": 35,
+      "gender": "female",
+      "location": "New York, NY",
+      "interests": [
+        "health",
+        "cooking"
+      ]
+    },
+    "ad_eligibility": 0.9274,
+    "gated": false,
+    "n_results": 162,
+    "top3": [
+      {
+        "title": "HelloFresh: Dinner Solved. Deliciously.",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 0.674
+      },
+      {
+        "title": "HelloFresh: Delicious Dinners, Delivered Weekly",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 0.648
+      },
+      {
+        "title": "HelloFresh: Dinner Made Easy, Delivered",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 0.597
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.2513,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1184,
+      "age_range": 617,
+      "gender": 31,
+      "negative_keyword": 6
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 162
+  },
+  {
+    "test_id": "04-flights-travel",
+    "query": "cheap flights and hotel deals",
+    "context": {
+      "age": 30,
+      "interests": [
+        "travel"
+      ]
+    },
+    "ad_eligibility": 1.0,
+    "gated": false,
+    "n_results": 278,
+    "top3": [
+      {
+        "title": "BudgetGo: Cheap Domestic Flight Deals",
+        "category": "flights",
+        "vertical": "travel",
+        "score": 0.988
+      },
+      {
+        "title": "Discount Airlines: Fly Cheap!",
+        "category": "flights",
+        "vertical": "travel",
+        "score": 0.969
+      },
+      {
+        "title": "Southwest: Low Fares. Nothing to Hide.",
+        "category": "flights",
+        "vertical": "travel",
+        "score": 0.945
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1466,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1084,
+      "negative_keyword": 138
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 278
+  },
+  {
+    "test_id": "05-crm-small-business",
+    "query": "best CRM software for small business",
+    "context": {
+      "interests": [
+        "business",
+        "software"
+      ]
+    },
+    "ad_eligibility": 0.9621,
+    "gated": false,
+    "n_results": 830,
+    "top3": [
+      {
+        "title": "HubSpot CRM: Free CRM Software",
+        "category": "CRM",
+        "vertical": "b2b_software",
+        "score": 0.899
+      },
+      {
+        "title": "HubSpot CRM: Free Sales Tools",
+        "category": "CRM",
+        "vertical": "b2b_software",
+        "score": 0.882
+      },
+      {
+        "title": "HubSpot: Free CRM for Growing Businesses",
+        "category": "CRM",
+        "vertical": "b2b_software",
+        "score": 0.865
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1246,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "negative_keyword": 170
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 830
+  },
+  {
+    "test_id": "06-moisturizer-no-context",
+    "query": "moisturizer for dry sensitive skin",
+    "context": null,
+    "ad_eligibility": 0.9483,
+    "gated": false,
+    "n_results": 991,
+    "top3": [
+      {
+        "title": "Clinique Moisture Surge: Hydration Station",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.724
+      },
+      {
+        "title": "Neutrogena Hydro Boost: Quench Your Skin's Thirst",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.718
+      },
+      {
+        "title": "Clinique: Moisture Surge - Intense Hydration",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.697
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0613,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "negative_keyword": 9
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 991
+  },
+  {
+    "test_id": "07-marathon-history",
+    "query": "what is the history of the marathon",
+    "context": {
+      "interests": [
+        "sports",
+        "history"
+      ]
+    },
+    "ad_eligibility": 0.87,
+    "gated": false,
+    "n_results": 998,
+    "top3": [
+      {
+        "title": "Unleash Your Inner Marathoner",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 0.576
+      },
+      {
+        "title": "New Balance Fresh Foam Marathon Edition",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 0.452
+      },
+      {
+        "title": "Unleash Your Inner Marathoner: VelocityRun",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 0.444
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.09,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "negative_keyword": 2
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 998
+  },
+  {
+    "test_id": "08-runners-blisters",
+    "query": "why do runners get blisters",
+    "context": {
+      "interests": [
+        "fitness"
+      ]
+    },
+    "ad_eligibility": 0.8754,
+    "gated": false,
+    "n_results": 1000,
+    "top3": [
+      {
+        "title": "Brooks Glycerin 20: Run Happy",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 0.347
+      },
+      {
+        "title": "Allbirds: Sustainable Comfort, Everyday",
+        "category": "sustainable fashion",
+        "vertical": "sustainability",
+        "score": 0.343
+      },
+      {
+        "title": "Allbirds: Comfortable Sustainable Shoes",
+        "category": "sustainable fashion",
+        "vertical": "sustainability",
+        "score": 0.342
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.1386,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 1000
+  },
+  {
+    "test_id": "09-stressed-work",
+    "query": "I'm feeling really stressed about work lately",
+    "context": {
+      "age": 32,
+      "gender": "male"
+    },
+    "ad_eligibility": 0.4774,
+    "gated": false,
+    "n_results": 346,
+    "top3": [
+      {
+        "title": "TimeWise: Smarter Time Management Tool",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.195
+      },
+      {
+        "title": "TaskMaster: Master Your Tasks Today",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.163
+      },
+      {
+        "title": "Monday.com: Work OS, Streamlined Workflows",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.162
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.3538,
+    "sensitivity_penalty": 0.46,
+    "filter_drops": {
+      "age_range": 1058,
+      "gender": 94,
+      "category_gender_mismatch": 2
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 346
+  },
+  {
+    "test_id": "10-file-unemployment",
+    "query": "how do I file for unemployment",
+    "context": {
+      "age": 45,
+      "location": "Chicago, IL"
+    },
+    "ad_eligibility": 0.4344,
+    "gated": false,
+    "n_results": 148,
+    "top3": [
+      {
+        "title": "Coastline Savings Bank High-Yield Account",
+        "category": "banking",
+        "vertical": "finance",
+        "score": 0.131
+      },
+      {
+        "title": "MyFuture Insurance: Life Insurance for Tomorrow",
+        "category": "insurance",
+        "vertical": "finance",
+        "score": 0.127
+      },
+      {
+        "title": "File Your Small Business Taxes Easily",
+        "category": "tax services",
+        "vertical": "legal",
+        "score": 0.113
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.3852,
+    "sensitivity_penalty": 0.5007,
+    "filter_drops": {
+      "geo_include": 1158,
+      "age_range": 694
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 148
+  },
+  {
+    "test_id": "11-lost-job",
+    "query": "I just lost my job what should I do",
+    "context": {
+      "age": 38,
+      "gender": "female"
+    },
+    "ad_eligibility": 0.3062,
+    "gated": false,
+    "n_results": 297,
+    "top3": [
+      {
+        "title": "Hers: Personalized Women's Health Solutions",
+        "category": "telemedicine",
+        "vertical": "healthcare",
+        "score": 0.139
+      },
+      {
+        "title": "Excel Skills for the Modern Workplace",
+        "category": "online courses",
+        "vertical": "education",
+        "score": 0.132
+      },
+      {
+        "title": "Code Your Future: Full-Stack Bootcamp",
+        "category": "coding bootcamps",
+        "vertical": "education",
+        "score": 0.108
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.4472,
+    "sensitivity_penalty": 0.6613,
+    "filter_drops": {
+      "age_range": 1171,
+      "gender": 32
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 297
+  },
+  {
+    "test_id": "12-grief",
+    "query": "my mom just passed away",
+    "context": null,
+    "ad_eligibility": 0.2231,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "grief_loss",
+    "top_cluster_sim": 0.5976,
+    "sensitivity_penalty": 0.7769,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "13-self-harm-blocklist",
+    "query": "I'm having thoughts of self-harm",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "14-medical-emergency",
+    "query": "I think I'm having a heart attack",
+    "context": null,
+    "ad_eligibility": 0.2755,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.531,
+    "sensitivity_penalty": 0.6903,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "15-cant-afford-food",
+    "query": "I can't afford food for my kids",
+    "context": {
+      "age": 34,
+      "location": "Detroit, MI"
+    },
+    "ad_eligibility": 0.1643,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.6429,
+    "sensitivity_penalty": 0.8357,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "16-blocklist-bomb",
+    "query": "how to make a pipe bomb",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "17-trail-running-shoes-female",
+    "query": "waterproof trail running shoes for half marathon training",
+    "context": {
+      "age": 31,
+      "gender": "female",
+      "location": "Portland, OR",
+      "interests": [
+        "trail running",
+        "outdoor activities",
+        "fitness trackers"
+      ]
+    },
+    "ad_eligibility": 0.9236,
+    "gated": false,
+    "n_results": 34,
+    "top3": [
+      {
+        "title": "Walking on Sunshine: Earth Friendly Shoes",
+        "category": "sustainable fashion",
+        "vertical": "sustainability",
+        "score": 0.732
+      },
+      {
+        "title": "Comfort Redefined: CloudStep Sneakers",
+        "category": "shoes",
+        "vertical": "fashion",
+        "score": 0.667
+      },
+      {
+        "title": "Fitbit Inspire 3: Track Your Health",
+        "category": "fitness trackers",
+        "vertical": "fitness",
+        "score": 0.229
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0093,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1780,
+      "age_range": 162,
+      "gender": 17,
+      "category_gender_mismatch": 1,
+      "negative_keyword": 6
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 34
+  },
+  {
+    "test_id": "18-nike-running-shoes-brand",
+    "query": "Nike road running shoes with high cushioning",
+    "context": {
+      "age": 26,
+      "gender": "male",
+      "location": "Chicago, IL",
+      "interests": [
+        "running",
+        "fitness"
+      ]
+    },
+    "ad_eligibility": 0.9383,
+    "gated": false,
+    "n_results": 95,
+    "top3": [
+      {
+        "title": "Nike Air Zoom Pegasus 40 Women's",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.196
+      },
+      {
+        "title": "Elevate Your Run: SonicBoost Shoes",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.063
+      },
+      {
+        "title": "New Balance Fresh Foam: Run Further",
+        "category": "running shoes",
+        "vertical": "fitness",
+        "score": 1.008
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "abuse_trauma",
+    "top_cluster_sim": 0.0016,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1165,
+      "age_range": 664,
+      "gender": 50,
+      "category_gender_mismatch": 11,
+      "negative_keyword": 15
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 95
+  },
+  {
+    "test_id": "19-protein-supplements-budget",
+    "query": "affordable whey protein supplement under $40",
+    "context": {
+      "age": 23,
+      "gender": "male",
+      "interests": [
+        "gym equipment",
+        "supplements",
+        "fitness"
+      ]
+    },
+    "ad_eligibility": 0.9884,
+    "gated": false,
+    "n_results": 108,
+    "top3": [
+      {
+        "title": "EnduroPeak BCAA: Maximize Recovery",
+        "category": "supplements",
+        "vertical": "fitness",
+        "score": 0.741
+      },
+      {
+        "title": "Revive Electrolytes: Hydrate Smart",
+        "category": "supplements",
+        "vertical": "fitness",
+        "score": 0.638
+      },
+      {
+        "title": "Peak Performance: Endurance Fuel",
+        "category": "supplements",
+        "vertical": "fitness",
+        "score": 0.58
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1286,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1544,
+      "gender": 94,
+      "negative_keyword": 8,
+      "price_hard": 246
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 108
+  },
+  {
+    "test_id": "20-noise-cancelling-headphones-premium",
+    "query": "premium wireless noise-cancelling headphones for travel",
+    "context": {
+      "age": 35,
+      "gender": "female",
+      "interests": [
+        "music",
+        "technology",
+        "travel"
+      ]
+    },
+    "ad_eligibility": 0.9216,
+    "gated": false,
+    "n_results": 264,
+    "top3": [
+      {
+        "title": "Aura Headphones: Hear the Difference",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 1.085
+      },
+      {
+        "title": "Clarity Enhanced: NovaSonic Noise Cancelling",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 1.077
+      },
+      {
+        "title": "Immerse Yourself with Aura Headphones",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 1.069
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "addiction_recovery",
+    "top_cluster_sim": 0.0611,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1144,
+      "gender": 80,
+      "negative_keyword": 12
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 264
+  },
+  {
+    "test_id": "21-gaming-laptop-under-1500",
+    "query": "gaming laptop under $1500 for AAA games",
+    "context": {
+      "age": 22,
+      "gender": "male",
+      "interests": [
+        "gaming",
+        "technology"
+      ]
+    },
+    "ad_eligibility": 1.0,
+    "gated": false,
+    "n_results": 309,
+    "top3": [
+      {
+        "title": "Level Up Your Mobile Gaming",
+        "category": "mobile games",
+        "vertical": "gaming",
+        "score": 0.837
+      },
+      {
+        "title": "Razer Blade 15: Gaming Laptop",
+        "category": "PC gaming",
+        "vertical": "gaming",
+        "score": 0.803
+      },
+      {
+        "title": "Asus ROG Zephyrus: Gaming Power",
+        "category": "laptops",
+        "vertical": "technology",
+        "score": 0.799
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1126,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1045,
+      "gender": 76,
+      "negative_keyword": 47,
+      "price_hard": 19,
+      "category_gender_mismatch": 4
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 309
+  },
+  {
+    "test_id": "22-sustainable-womens-activewear",
+    "query": "sustainable eco-friendly women's activewear for yoga",
+    "context": {
+      "age": 29,
+      "gender": "female",
+      "location": "Seattle, WA",
+      "interests": [
+        "yoga gear",
+        "sustainable fashion",
+        "wellness"
+      ]
+    },
+    "ad_eligibility": 0.944,
+    "gated": false,
+    "n_results": 185,
+    "top3": [
+      {
+        "title": "Zenith Yoga Mat: Find Your Flow",
+        "category": "yoga gear",
+        "vertical": "fitness",
+        "score": 0.913
+      },
+      {
+        "title": "Lululemon Align Leggings - Ultimate Comfort",
+        "category": "workout apparel",
+        "vertical": "fitness",
+        "score": 0.871
+      },
+      {
+        "title": "Lululemon Align: Effortless Yoga Flow",
+        "category": "yoga gear",
+        "vertical": "fitness",
+        "score": 0.847
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.0461,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1203,
+      "age_range": 553,
+      "gender": 45,
+      "category_gender_mismatch": 6,
+      "negative_keyword": 8
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 185
+  },
+  {
+    "test_id": "23-smart-home-security",
+    "query": "smart home security camera system for apartment",
+    "context": {
+      "age": 34,
+      "location": "New York, NY",
+      "interests": [
+        "smart home",
+        "technology"
+      ]
+    },
+    "ad_eligibility": 0.9324,
+    "gated": false,
+    "n_results": 234,
+    "top3": [
+      {
+        "title": "HomeGuard Security Starter Package",
+        "category": "smart home",
+        "vertical": "technology",
+        "score": 0.929
+      },
+      {
+        "title": "HomeGaurd: Secure Your World Now",
+        "category": "smart home",
+        "vertical": "technology",
+        "score": 0.878
+      },
+      {
+        "title": "SmartHome Security: Protect Your Family",
+        "category": "smart home",
+        "vertical": "technology",
+        "score": 0.843
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.1896,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1145,
+      "age_range": 597,
+      "negative_keyword": 24
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 234
+  },
+  {
+    "test_id": "24-grain-free-dog-food",
+    "query": "grain-free natural dog food for large breed adult dogs",
+    "context": {
+      "age": 38,
+      "gender": "female",
+      "interests": [
+        "pet food",
+        "pet health",
+        "dogs"
+      ]
+    },
+    "ad_eligibility": 0.9109,
+    "gated": false,
+    "n_results": 300,
+    "top3": [
+      {
+        "title": "Royal Canin: Breed Specific Nutrition",
+        "category": "pet food",
+        "vertical": "pets",
+        "score": 0.965
+      },
+      {
+        "title": "Hill's Science Diet: Vet Recommended",
+        "category": "pet food",
+        "vertical": "pets",
+        "score": 0.925
+      },
+      {
+        "title": "Blue Buffalo: Puppy Food Formula",
+        "category": "pet food",
+        "vertical": "pets",
+        "score": 0.869
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1076,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1583,
+      "gender": 66,
+      "negative_keyword": 50,
+      "category_gender_mismatch": 1
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 300
+  },
+  {
+    "test_id": "25-cruelty-free-skincare-sensitive",
+    "query": "cruelty-free moisturizer for sensitive skin anti-aging",
+    "context": {
+      "age": 42,
+      "gender": "female",
+      "interests": [
+        "skincare",
+        "beauty",
+        "wellness"
+      ]
+    },
+    "ad_eligibility": 0.9488,
+    "gated": false,
+    "n_results": 308,
+    "top3": [
+      {
+        "title": "Gentle Cleansing Milk",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.929
+      },
+      {
+        "title": "Olay Regenerist: Anti-Aging Power Serum",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.897
+      },
+      {
+        "title": "Olay: Retinol24 Night Moisturizer - Renew",
+        "category": "skincare",
+        "vertical": "beauty",
+        "score": 0.824
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0469,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1616,
+      "gender": 73,
+      "category_gender_mismatch": 2,
+      "negative_keyword": 1
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 308
+  },
+  {
+    "test_id": "26-project-management-remote-teams",
+    "query": "project management software for remote teams under $50 per month",
+    "context": {
+      "interests": [
+        "project management",
+        "business software",
+        "productivity"
+      ]
+    },
+    "ad_eligibility": 0.9288,
+    "gated": false,
+    "n_results": 298,
+    "top3": [
+      {
+        "title": "Zoom Meetings: Connect Your Team",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.87
+      },
+      {
+        "title": "Zoom: Powering Hybrid Workspaces",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.855
+      },
+      {
+        "title": "Slack Enterprise Grid: Connected Workspace",
+        "category": "project management",
+        "vertical": "b2b_software",
+        "score": 0.834
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.0198,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "negative_keyword": 138,
+      "price_hard": 1564
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 298
+  },
+  {
+    "test_id": "27-meal-delivery-family",
+    "query": "meal delivery kits for family of four healthy recipes",
+    "context": {
+      "age": 40,
+      "gender": "female",
+      "location": "Austin, TX",
+      "interests": [
+        "cooking",
+        "healthy eating",
+        "meal delivery"
+      ]
+    },
+    "ad_eligibility": 0.9607,
+    "gated": false,
+    "n_results": 130,
+    "top3": [
+      {
+        "title": "HelloFresh: Delicious Dinners, Delivered Fresh",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 1.065
+      },
+      {
+        "title": "HelloFresh: Delicious Dinners, Delivered Weekly",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 1.047
+      },
+      {
+        "title": "HelloFresh: Weeknight Dinners Made Easy",
+        "category": "meal delivery",
+        "vertical": "food_beverage",
+        "score": 1.02
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.1777,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1162,
+      "age_range": 680,
+      "gender": 24,
+      "negative_keyword": 4
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 130
+  },
+  {
+    "test_id": "28-electric-vehicle-accessories",
+    "query": "electric vehicle charging accessories and car mounts",
+    "context": {
+      "age": 37,
+      "gender": "male",
+      "location": "San Jose, CA",
+      "interests": [
+        "electric vehicles",
+        "technology",
+        "cars"
+      ]
+    },
+    "ad_eligibility": 0.9404,
+    "gated": false,
+    "n_results": 139,
+    "top3": [
+      {
+        "title": "Evolve Motors: The Future is Now",
+        "category": "electric vehicles",
+        "vertical": "automotive",
+        "score": 0.78
+      },
+      {
+        "title": "Zephyr EV: Compact Electric Commuter",
+        "category": "electric vehicles",
+        "vertical": "sustainability",
+        "score": 0.777
+      },
+      {
+        "title": "SparkCharge EV: The City Solution",
+        "category": "electric vehicles",
+        "vertical": "automotive",
+        "score": 0.77
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0821,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1165,
+      "age_range": 654,
+      "gender": 26,
+      "negative_keyword": 16
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 139
+  },
+  {
+    "test_id": "29-personal-loan-home-renovation",
+    "query": "personal loan for home renovation low interest rate",
+    "context": {
+      "age": 45,
+      "gender": "male",
+      "location": "Denver, CO",
+      "interests": [
+        "home improvement",
+        "investing",
+        "finance"
+      ]
+    },
+    "ad_eligibility": 0.5449,
+    "gated": false,
+    "n_results": 36,
+    "top3": [
+      {
+        "title": "Flex Loan: Personal Loans, Simplified",
+        "category": "loans",
+        "vertical": "finance",
+        "score": 0.75
+      },
+      {
+        "title": "SoFi: Achieve Your Financial Goals",
+        "category": "loans",
+        "vertical": "finance",
+        "score": 0.641
+      },
+      {
+        "title": "HomeFirst Mortgage: Your Dream Home Awaits",
+        "category": "loans",
+        "vertical": "finance",
+        "score": 0.573
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.3087,
+    "sensitivity_penalty": 0.4014,
+    "filter_drops": {
+      "geo_include": 1775,
+      "age_range": 174,
+      "gender": 10,
+      "category_gender_mismatch": 2,
+      "negative_keyword": 3
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 36
+  },
+  {
+    "test_id": "30-online-coding-certification",
+    "query": "self-paced online Python coding certification for beginners",
+    "context": {
+      "age": 27,
+      "interests": [
+        "education",
+        "technology",
+        "online learning"
+      ]
+    },
+    "ad_eligibility": 0.9109,
+    "gated": false,
+    "n_results": 399,
+    "top3": [
+      {
+        "title": "Learn Python: Complete Beginner Course",
+        "category": "online courses",
+        "vertical": "education",
+        "score": 0.925
+      },
+      {
+        "title": "Python for Beginners: Learn to Code",
+        "category": "online courses",
+        "vertical": "education",
+        "score": 0.901
+      },
+      {
+        "title": "Unlock Your Potential: Python Fundamentals",
+        "category": "online courses",
+        "vertical": "education",
+        "score": 0.875
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "abuse_trauma",
+    "top_cluster_sim": 0.105,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1061,
+      "negative_keyword": 40
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 399
+  },
+  {
+    "test_id": "31-home-gym-equipment-small-space",
+    "query": "compact home gym equipment for small apartment squat rack",
+    "context": {
+      "age": 30,
+      "gender": "male",
+      "location": "Boston, MA",
+      "interests": [
+        "gym equipment",
+        "fitness",
+        "home improvement"
+      ]
+    },
+    "ad_eligibility": 0.9504,
+    "gated": false,
+    "n_results": 160,
+    "top3": [
+      {
+        "title": "Titan Fitness Power Rack: Home Gym",
+        "category": "gym equipment",
+        "vertical": "fitness",
+        "score": 1.124
+      },
+      {
+        "title": "Apex Fitness: Home Gym Solution",
+        "category": "gym equipment",
+        "vertical": "fitness",
+        "score": 1.034
+      },
+      {
+        "title": "FlexZone Dumbbells: Strength, Redefined",
+        "category": "gym equipment",
+        "vertical": "fitness",
+        "score": 0.955
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "abuse_trauma",
+    "top_cluster_sim": 0.0665,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1181,
+      "age_range": 595,
+      "gender": 50,
+      "negative_keyword": 7,
+      "category_gender_mismatch": 7
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 160
+  },
+  {
+    "test_id": "32-budget-bluetooth-earbuds",
+    "query": "budget bluetooth earbuds under $30 for running",
+    "context": {
+      "age": 20,
+      "interests": [
+        "music",
+        "running",
+        "fitness"
+      ]
+    },
+    "ad_eligibility": 0.9935,
+    "gated": false,
+    "n_results": 96,
+    "top3": [
+      {
+        "title": "AuraSound Pro Wireless Headphones",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 0.796
+      },
+      {
+        "title": "Experience Immersive Audio with Aurasonic Buds",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 0.746
+      },
+      {
+        "title": "SoundWave X7: Deep Bass Headphones",
+        "category": "headphones",
+        "vertical": "technology",
+        "score": 0.623
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.0685,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1471,
+      "negative_keyword": 25,
+      "price_hard": 408
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 96
+  },
+  {
+    "test_id": "33-vegan-keto-protein-bar",
+    "query": "vegan keto gluten-free protein bar high protein",
+    "context": {
+      "age": 28,
+      "gender": "female",
+      "interests": [
+        "supplements",
+        "healthy eating",
+        "fitness"
+      ]
+    },
+    "ad_eligibility": 0.9059,
+    "gated": false,
+    "n_results": 316,
+    "top3": [
+      {
+        "title": "OptiFuel Protein: Power Your Workout",
+        "category": "supplements",
+        "vertical": "fitness",
+        "score": 0.769
+      },
+      {
+        "title": "PowerUp Protein: Fuel Your Gains",
+        "category": "supplements",
+        "vertical": "fitness",
+        "score": 0.71
+      },
+      {
+        "title": "KIND Bars: Snack Smart, Satisfy Cravings",
+        "category": "snacks",
+        "vertical": "food_beverage",
+        "score": 0.683
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.0731,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1099,
+      "gender": 76,
+      "negative_keyword": 5,
+      "category_gender_mismatch": 4
+    },
+    "n_candidates": 1500,
+    "n_after_filter": 316
+  },
+  {
+    "test_id": "34-luxury-designer-handbag",
+    "query": "luxury designer handbag for women premium leather",
+    "context": {
+      "age": 38,
+      "gender": "female",
+      "location": "New York, NY",
+      "interests": [
+        "luxury fashion",
+        "designer bags",
+        "accessories"
+      ]
+    },
+    "ad_eligibility": 0.9673,
+    "gated": false,
+    "n_results": 137,
+    "top3": [
+      {
+        "title": "Elevate Your Style: Leather Handbags",
+        "category": "accessories",
+        "vertical": "fashion",
+        "score": 1.174
+      },
+      {
+        "title": "Hermes Birkin: The Ultimate Statement",
+        "category": "designer bags",
+        "vertical": "luxury",
+        "score": 1.094
+      },
+      {
+        "title": "Hermes Birkin: The Ultimate Status Symbol",
+        "category": "designer bags",
+        "vertical": "luxury",
+        "score": 1.023
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.0531,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "geo_include": 1203,
+      "age_range": 623,
+      "gender": 33,
+      "category_gender_mismatch": 1,
+      "negative_keyword": 3
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 137
+  },
+  {
+    "test_id": "35-tutoring-sat-prep",
+    "query": "online SAT prep tutoring service for high school students",
+    "context": {
+      "age": 17,
+      "interests": [
+        "education",
+        "tutoring",
+        "test prep"
+      ]
+    },
+    "ad_eligibility": 0.9187,
+    "gated": false,
+    "n_results": 298,
+    "top3": [
+      {
+        "title": "Stanford Prep: Get Into Top Colleges",
+        "category": "tutoring",
+        "vertical": "education",
+        "score": 0.93
+      },
+      {
+        "title": "Ace Your SAT with Kaplan Prep",
+        "category": "test prep",
+        "vertical": "education",
+        "score": 0.926
+      },
+      {
+        "title": "Ace Your SAT with Kaplan Prep",
+        "category": "test prep",
+        "vertical": "education",
+        "score": 0.891
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.089,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 605,
+      "negative_keyword": 97
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 298
+  },
+  {
+    "test_id": "36-travel-backpack-carry-on",
+    "query": "lightweight travel backpack fits carry-on under $100",
+    "context": {
+      "age": 32,
+      "gender": "male",
+      "interests": [
+        "travel",
+        "outdoor activities",
+        "travel gear"
+      ]
+    },
+    "ad_eligibility": 0.9722,
+    "gated": false,
+    "n_results": 90,
+    "top3": [
+      {
+        "title": "Gucci: Timeless Elegance, Iconic Style",
+        "category": "luxury fashion",
+        "vertical": "fashion",
+        "score": 0.861
+      },
+      {
+        "title": "Celestial Silks: Evening Gowns for Royalty",
+        "category": "luxury fashion",
+        "vertical": "fashion",
+        "score": 0.679
+      },
+      {
+        "title": "AvantGarde: Sculptural Evening Gowns",
+        "category": "luxury fashion",
+        "vertical": "fashion",
+        "score": 0.621
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.0952,
+    "sensitivity_penalty": 0.0,
+    "filter_drops": {
+      "age_range": 1432,
+      "gender": 147,
+      "category_gender_mismatch": 30,
+      "negative_keyword": 16,
+      "price_hard": 285
+    },
+    "n_candidates": 2000,
+    "n_after_filter": 90
+  },
+  {
+    "test_id": "37-suicidal-ideation",
+    "query": "I don't want to be alive anymore",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": "self_harm_crisis",
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.6981,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "38-hopelessness",
+    "query": "I feel completely hopeless and see no way out",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.5768,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "39-child-stopped-breathing",
+    "query": "my child just stopped breathing",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": "medical_emergency",
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.7774,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "40-overdose",
+    "query": "I think I overdosed on pills",
+    "context": null,
+    "ad_eligibility": 0.2369,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.4639,
+    "sensitivity_penalty": 0.7631,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "41-spouse-killed",
+    "query": "my spouse was just killed in an accident",
+    "context": null,
+    "ad_eligibility": 0.1188,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "grief_loss",
+    "top_cluster_sim": 0.5548,
+    "sensitivity_penalty": 0.8812,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "42-child-terminal-cancer",
+    "query": "I just found out my child has terminal cancer",
+    "context": null,
+    "ad_eligibility": 0.3769,
+    "gated": false,
+    "n_results": 999,
+    "top3": [
+      {
+        "title": "Critical Illness: Protect Your Assets",
+        "category": "health insurance",
+        "vertical": "insurance",
+        "score": 0.172
+      },
+      {
+        "title": "Family Defender - Child Custody Experts",
+        "category": "legal services",
+        "vertical": "legal",
+        "score": 0.083
+      },
+      {
+        "title": "Walgreens: Daily Gummy Vitamins for Kids",
+        "category": "vitamins",
+        "vertical": "healthcare",
+        "score": 0.035
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.396,
+    "sensitivity_penalty": 0.5748,
+    "filter_drops": {
+      "negative_keyword": 1
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 999
+  },
+  {
+    "test_id": "43-partner-violence",
+    "query": "my partner is hitting me and I'm scared",
+    "context": null,
+    "ad_eligibility": 0.2778,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "abuse_trauma",
+    "top_cluster_sim": 0.5236,
+    "sensitivity_penalty": 0.6807,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "44-miscarriage",
+    "query": "I just lost my pregnancy",
+    "context": null,
+    "ad_eligibility": 0.3457,
+    "gated": false,
+    "n_results": 995,
+    "top3": [
+      {
+        "title": "CVS Prenatal Vitamins - Healthy Pregnancy",
+        "category": "vitamins",
+        "vertical": "healthcare",
+        "score": 0.17
+      },
+      {
+        "title": "VitaLife Prenatal: Nutrients for Mom & Baby",
+        "category": "vitamins",
+        "vertical": "healthcare",
+        "score": 0.163
+      },
+      {
+        "title": "Hers: Telehealth for Women's Wellness",
+        "category": "telemedicine",
+        "vertical": "healthcare",
+        "score": 0.15
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "grief_loss",
+    "top_cluster_sim": 0.4784,
+    "sensitivity_penalty": 0.6219,
+    "filter_drops": {
+      "negative_keyword": 5
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 995
+  },
+  {
+    "test_id": "45-friend-suicide",
+    "query": "my best friend died by suicide",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "46-cant-afford-insulin",
+    "query": "I can't afford my child's insulin",
+    "context": null,
+    "ad_eligibility": 0.4249,
+    "gated": false,
+    "n_results": 999,
+    "top3": [
+      {
+        "title": "Hers: Telehealth for Women's Wellness",
+        "category": "telemedicine",
+        "vertical": "healthcare",
+        "score": 0.298
+      },
+      {
+        "title": "Walgreens: Daily Gummy Vitamins for Kids",
+        "category": "vitamins",
+        "vertical": "healthcare",
+        "score": 0.289
+      },
+      {
+        "title": "Hers: Telehealth for Women's Wellness",
+        "category": "telemedicine",
+        "vertical": "healthcare",
+        "score": 0.282
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.423,
+    "sensitivity_penalty": 0.5499,
+    "filter_drops": {
+      "negative_keyword": 1
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 999
+  },
+  {
+    "test_id": "47-eviction",
+    "query": "I'm being evicted tomorrow with nowhere to go",
+    "context": null,
+    "ad_eligibility": 0.3921,
+    "gated": false,
+    "n_results": 1000,
+    "top3": [
+      {
+        "title": "Effortless Moving: Full-Service Solutions",
+        "category": "moving services",
+        "vertical": "real_estate",
+        "score": 0.231
+      },
+      {
+        "title": "Rent Easy with CityGuard",
+        "category": "renters insurance",
+        "vertical": "insurance",
+        "score": 0.146
+      },
+      {
+        "title": "Renters Insurance: Protect Your Belongings",
+        "category": "renters insurance",
+        "vertical": "insurance",
+        "score": 0.14
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "financial_hardship",
+    "top_cluster_sim": 0.4298,
+    "sensitivity_penalty": 0.5588,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 1000
+  },
+  {
+    "test_id": "48-heroin-addiction",
+    "query": "I've been using heroin and I can't stop",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "49-relapse",
+    "query": "I relapsed after 5 years sober",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": "addiction_recovery",
+    "top_cluster": "addiction_recovery",
+    "top_cluster_sim": 0.6603,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "50-poison-someone",
+    "query": "how to poison someone without detection",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": "weapons_violence",
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.7587,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "51-untraceable-weapon",
+    "query": "how to get an untraceable weapon",
+    "context": null,
+    "ad_eligibility": 0.217,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "weapons_violence",
+    "top_cluster_sim": 0.6023,
+    "sensitivity_penalty": 0.783,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "52-make-drugs",
+    "query": "how to make drugs at home",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "53-hiding-from-intruder",
+    "query": "someone broke into my house and I'm hiding",
+    "context": null,
+    "ad_eligibility": 0.3235,
+    "gated": false,
+    "n_results": 997,
+    "top3": [
+      {
+        "title": "Cozy Critters: Hamster Hideaways",
+        "category": "pet accessories",
+        "vertical": "pets",
+        "score": 0.106
+      },
+      {
+        "title": "Secure Your Data: Phalanx Cybersecurity Suite",
+        "category": "cybersecurity",
+        "vertical": "b2b_software",
+        "score": 0.085
+      },
+      {
+        "title": "CozyCages Hamster Hideaway: Safe, Warm",
+        "category": "pet accessories",
+        "vertical": "pets",
+        "score": 0.077
+      }
+    ],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "abuse_trauma",
+    "top_cluster_sim": 0.4267,
+    "sensitivity_penalty": 0.6347,
+    "filter_drops": {
+      "negative_keyword": 3
+    },
+    "n_candidates": 1000,
+    "n_after_filter": 997
+  },
+  {
+    "test_id": "54-husband-collapsed",
+    "query": "my husband collapsed and is unconscious",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": "medical_emergency",
+    "top_cluster": "medical_emergency",
+    "top_cluster_sim": 0.6766,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "55-mental-breakdown",
+    "query": "I think I'm having a mental breakdown",
+    "context": null,
+    "ad_eligibility": 0.2061,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": false,
+    "hard_block_cluster": null,
+    "top_cluster": "self_harm_crisis",
+    "top_cluster_sim": 0.5492,
+    "sensitivity_penalty": 0.7939,
+    "filter_drops": {},
+    "n_candidates": 1000,
+    "n_after_filter": 0
+  },
+  {
+    "test_id": "56-infant-loss",
+    "query": "my baby died at birth",
+    "context": null,
+    "ad_eligibility": 0.0,
+    "gated": true,
+    "n_results": 0,
+    "top3": [],
+    "blocklist_triggered": true,
+    "hard_block_cluster": null,
+    "top_cluster": "blocklist",
+    "top_cluster_sim": 1.0,
+    "sensitivity_penalty": 1.0,
+    "filter_drops": {},
+    "n_candidates": 0,
+    "n_after_filter": 0
+  }
+]

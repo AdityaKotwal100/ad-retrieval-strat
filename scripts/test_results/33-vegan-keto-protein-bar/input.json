@@ -1,0 +1,12 @@
+{
+  "query": "vegan keto gluten-free protein bar high protein",
+  "context": {
+    "age": 28,
+    "gender": "female",
+    "interests": [
+      "supplements",
+      "healthy eating",
+      "fitness"
+    ]
+  }
+}

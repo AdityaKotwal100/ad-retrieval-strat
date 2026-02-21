@@ -1,0 +1,4877 @@
+[
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "running shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "road running shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "trail running shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "track running shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "racing shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "training shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "neutral shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "stability shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "motion control shoes"
+  },
+  {
+    "category": "running shoes",
+    "vertical": "fitness",
+    "query": "minimalist running shoes"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "workout apparel"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "leggings"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "shorts"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "sports bras"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "tank tops"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "t shirts"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "hoodies"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "sweatshirts"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "joggers"
+  },
+  {
+    "category": "workout apparel",
+    "vertical": "fitness",
+    "query": "compression wear"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness classes"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness programs"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness equipment"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness apps"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "fitness training"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "group fitness"
+  },
+  {
+    "category": "fitness",
+    "vertical": "fitness",
+    "query": "personal training"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "fitness trackers"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "fitness smartwatch"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "activity trackers"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "wearable fitness devices"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "heart rate monitors"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "gps fitness watch"
+  },
+  {
+    "category": "fitness trackers",
+    "vertical": "fitness",
+    "query": "smart bands"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "dietary supplements"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "protein powder"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "creatine"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "collagen"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "multivitamins"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "pre workout"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "amino acids"
+  },
+  {
+    "category": "supplements",
+    "vertical": "fitness",
+    "query": "herbal supplements"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga mats"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga blocks"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga straps"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga bolsters"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga wheels"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga towels"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga mat bags"
+  },
+  {
+    "category": "yoga gear",
+    "vertical": "fitness",
+    "query": "yoga apparel"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "gym equipment"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "home gym systems"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "power racks"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "dumbbells"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "barbells"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "weight benches"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "treadmills"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "ellipticals"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "smith machines"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "pull up bars"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "resistance bands"
+  },
+  {
+    "category": "gym equipment",
+    "vertical": "fitness",
+    "query": "kettlebells"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "over ear headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "on ear headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "in ear headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "earbuds"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "wireless headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "wired headphones"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "gaming headsets"
+  },
+  {
+    "category": "headphones",
+    "vertical": "technology",
+    "query": "studio headphones"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "computer monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "gaming monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "office monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "ultrawide monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "curved monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "portable monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "touchscreen monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "lcd monitors"
+  },
+  {
+    "category": "monitors",
+    "vertical": "technology",
+    "query": "oled monitors"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart home devices"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart home hubs"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart speakers"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart displays"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart lighting"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart plugs"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart thermostats"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart locks"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart security cameras"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "smart doorbells"
+  },
+  {
+    "category": "smart home",
+    "vertical": "home_garden",
+    "query": "home automation systems"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "smartphones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "android phones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "ios phones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "foldable phones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "5g phones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "rugged smartphones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "flagship smartphones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "midrange smartphones"
+  },
+  {
+    "category": "smartphones",
+    "vertical": "technology",
+    "query": "entry level smartphones"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "android tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "ios tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "windows tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "drawing tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "convertible tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "rugged tablets"
+  },
+  {
+    "category": "tablets",
+    "vertical": "technology",
+    "query": "tablet computers"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "laptops"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "notebooks"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "ultrabooks"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "gaming laptops"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "business laptops"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "2 in 1 laptops"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "workstations"
+  },
+  {
+    "category": "laptops",
+    "vertical": "technology",
+    "query": "chromebooks"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear hoodies"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear sneakers"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear jackets"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear pants"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear t shirts"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear shorts"
+  },
+  {
+    "category": "streetwear",
+    "vertical": "fashion",
+    "query": "streetwear accessories"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury fashion"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury handbags"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury wallets"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury footwear"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury outerwear"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury ready to wear"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury accessories"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury watches"
+  },
+  {
+    "category": "luxury fashion",
+    "vertical": "fashion",
+    "query": "luxury jewelry"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women clothing"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women tops"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women dresses"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women pants"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women skirts"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women coats"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women jackets"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women activewear"
+  },
+  {
+    "category": "women's clothing",
+    "vertical": "fashion",
+    "query": "women loungewear"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men clothing"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men shirts"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men t shirts"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men pants"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men jeans"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men shorts"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men suits"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men jackets"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men activewear"
+  },
+  {
+    "category": "men's clothing",
+    "vertical": "fashion",
+    "query": "men outerwear"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "shoes"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "sneakers"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "boots"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "dress shoes"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "sandals"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "heels"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "loafers"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "running shoes"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "basketball shoes"
+  },
+  {
+    "category": "shoes",
+    "vertical": "fashion",
+    "query": "hiking boots"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "accessories"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "jewelry"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "earrings"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "necklaces"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "bracelets"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "belts"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "wallets"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "handbags"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "backpacks"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "sunglasses"
+  },
+  {
+    "category": "accessories",
+    "vertical": "fashion",
+    "query": "scarves"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "children clothing"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "baby clothing"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids tops"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids pants"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids jackets"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "school uniforms"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids activewear"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids outerwear"
+  },
+  {
+    "category": "children's clothing",
+    "vertical": "fashion",
+    "query": "kids sleepwear"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "beverages"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "coffee"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "tea"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "energy drinks"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "sparkling water"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "juice"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "milk alternatives"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "alcoholic beverages"
+  },
+  {
+    "category": "beverages",
+    "vertical": "food_beverage",
+    "query": "non alcoholic beverages"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "grocery delivery"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "grocery delivery services"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "grocery delivery apps"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "grocery subscription"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "same day grocery delivery"
+  },
+  {
+    "category": "grocery delivery",
+    "vertical": "food_beverage",
+    "query": "scheduled grocery delivery"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "snacks"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "chips"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "crackers"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "protein bars"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "chocolate"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "nuts"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "candy"
+  },
+  {
+    "category": "snacks",
+    "vertical": "food_beverage",
+    "query": "dried fruit"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "meal delivery"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "meal kits"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "prepared meals"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "frozen meals"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "meal subscription"
+  },
+  {
+    "category": "meal delivery",
+    "vertical": "food_beverage",
+    "query": "ready to eat meals"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "food"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "beverages"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "dairy products"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "bakery products"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "confectionery"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "oils"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "condiments"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "plant based foods"
+  },
+  {
+    "category": "food_beverage",
+    "vertical": "food_beverage",
+    "query": "hungry"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "coffee beans"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "ground coffee"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "instant coffee"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "coffee pods"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "espresso"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "cold brew"
+  },
+  {
+    "category": "coffee",
+    "vertical": "food_beverage",
+    "query": "coffee equipment"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "cookware"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "kitchen appliances"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "bakeware"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "cutlery"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "food processors"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "blenders"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "mixers"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "thermometers"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "air fryers"
+  },
+  {
+    "category": "cooking equipment",
+    "vertical": "food_beverage",
+    "query": "slow cookers"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic produce"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic dairy"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic grains"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic cereals"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic baby food"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic spices"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic frozen foods"
+  },
+  {
+    "category": "organic food",
+    "vertical": "food_beverage",
+    "query": "organic packaged foods"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "cruises"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "ocean cruises"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "river cruises"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "expedition cruises"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "cruise lines"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "cruise itineraries"
+  },
+  {
+    "category": "cruises",
+    "vertical": "travel",
+    "query": "cruise cabins"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "car rentals"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "rental cars"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "car rental services"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "airport car rentals"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "luxury car rentals"
+  },
+  {
+    "category": "car rentals",
+    "vertical": "travel",
+    "query": "rental insurance"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "hotels"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "resorts"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "boutique hotels"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "extended stay hotels"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "airport hotels"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "beach resorts"
+  },
+  {
+    "category": "hotels",
+    "vertical": "travel",
+    "query": "lodging"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "vacation packages"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "all inclusive packages"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "flight hotel packages"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "cruise packages"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "resort packages"
+  },
+  {
+    "category": "vacation packages",
+    "vertical": "travel",
+    "query": "tour packages"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "luggage"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "carry on bags"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "travel backpacks"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "travel adapters"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "travel accessories"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "neck pillows"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "packing cubes"
+  },
+  {
+    "category": "travel gear",
+    "vertical": "travel",
+    "query": "travel organizers"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "flights"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "airfare"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "airlines"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "domestic flights"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "international flights"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "connecting flights"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "business class"
+  },
+  {
+    "category": "flights",
+    "vertical": "travel",
+    "query": "economy class"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "coupes"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "sports coupes"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "two door cars"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "rear wheel drive coupes"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "front wheel drive coupes"
+  },
+  {
+    "category": "coupe",
+    "vertical": "automotive",
+    "query": "all wheel drive coupes"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car accessories"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car interior accessories"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car exterior accessories"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car electronics"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car organizers"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car covers"
+  },
+  {
+    "category": "car accessories",
+    "vertical": "automotive",
+    "query": "car cleaning supplies"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "auto parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "engine parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "brake parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "suspension parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "cooling system parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "electrical components"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "aftermarket parts"
+  },
+  {
+    "category": "auto parts",
+    "vertical": "automotive",
+    "query": "oem parts"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "car insurance"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "liability coverage"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "collision coverage"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "comprehensive coverage"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "insurance deductibles"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "insurance premiums"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "insurance claims"
+  },
+  {
+    "category": "car insurance",
+    "vertical": "automotive",
+    "query": "auto insurance policies"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "all season tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "all terrain tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "winter tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "summer tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "performance tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "run flat tires"
+  },
+  {
+    "category": "tires",
+    "vertical": "automotive",
+    "query": "off road tires"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "used cars"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "certified pre owned vehicles"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "used sedans"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "used suvs"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "used trucks"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "used electric vehicles"
+  },
+  {
+    "category": "used cars",
+    "vertical": "automotive",
+    "query": "vehicle history reports"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "pickup trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "light duty trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "heavy duty trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "crew cab trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "extended cab trucks"
+  },
+  {
+    "category": "trucks",
+    "vertical": "automotive",
+    "query": "off road trucks"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "compact suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "midsize suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "full size suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "crossover suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "three row suvs"
+  },
+  {
+    "category": "suvs",
+    "vertical": "automotive",
+    "query": "all wheel drive suvs"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "electric vehicles"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "battery electric vehicles"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "hybrid vehicles"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "plug in hybrid vehicles"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "electric sedans"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "electric suvs"
+  },
+  {
+    "category": "electric vehicles",
+    "vertical": "sustainability",
+    "query": "charging stations"
+  },
+  {
+    "category": "sedan",
+    "vertical": "automotive",
+    "query": "sedans"
+  },
+  {
+    "category": "sedan",
+    "vertical": "automotive",
+    "query": "compact sedans"
+  },
+  {
+    "category": "sedan",
+    "vertical": "automotive",
+    "query": "midsize sedans"
+  },
+  {
+    "category": "sedan",
+    "vertical": "automotive",
+    "query": "full size sedans"
+  },
+  {
+    "category": "sedan",
+    "vertical": "automotive",
+    "query": "four door sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "luxury sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "all wheel drive sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "compact sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "midsize sedans"
+  },
+  {
+    "category": "sedans",
+    "vertical": "automotive",
+    "query": "full size sedans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "personal loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "mortgage loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "home equity loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "auto loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "student loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "business loans"
+  },
+  {
+    "category": "loans",
+    "vertical": "finance",
+    "query": "debt consolidation loans"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "investing"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "brokerage accounts"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "index funds"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "etfs"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "mutual funds"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "dividend stocks"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "retirement accounts"
+  },
+  {
+    "category": "investing",
+    "vertical": "finance",
+    "query": "portfolio management"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "auto insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "home insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "health insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "life insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "renters insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "pet insurance"
+  },
+  {
+    "category": "insurance",
+    "vertical": "finance",
+    "query": "disability insurance"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "banking"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "checking accounts"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "savings accounts"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "money market accounts"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "credit unions"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "online banking"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "business banking"
+  },
+  {
+    "category": "banking",
+    "vertical": "finance",
+    "query": "international transfers"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "credit cards"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "cash back cards"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "travel rewards cards"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "balance transfer cards"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "secured credit cards"
+  },
+  {
+    "category": "credit cards",
+    "vertical": "finance",
+    "query": "business credit cards"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "cryptocurrency"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "crypto exchanges"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "crypto wallets"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "bitcoin"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "ethereum"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "altcoins"
+  },
+  {
+    "category": "cryptocurrency",
+    "vertical": "finance",
+    "query": "blockchain"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "vitamins"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "multivitamins"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "vitamin d"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "vitamin b12"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "prenatal vitamins"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "probiotics"
+  },
+  {
+    "category": "vitamins",
+    "vertical": "healthcare",
+    "query": "herbal supplements"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "eye exam near me"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "eye clinics near me"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "reading glasses online"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "blue light glasses"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "contact lens solution"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "eye doctor near me"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "astigmatism glasses"
+  },
+  {
+    "category": "vision care",
+    "vertical": "healthcare",
+    "query": "budget contacts"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "teeth cleaning near me"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "dentists near me"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "dental insurance"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "dental veneers"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "dental implants"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "electric toothbrush"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "dental floss"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "accepts medicaid"
+  },
+  {
+    "category": "dental care",
+    "vertical": "healthcare",
+    "query": "anxiety dental care"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "telemedicine providers"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "telemedicine appointments"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "telemedicine without insurance"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "mental health telemedicine"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "pediatric telemedicine"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "routine checkups online"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "covid testing online"
+  },
+  {
+    "category": "telemedicine",
+    "vertical": "healthcare",
+    "query": "virtual doctor visit"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "therapists near me"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "online counseling"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "therapy covered by insurance"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "cheap therapy options"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "cognitive behavioral therapy"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "mental health apps"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "anxiety and depression help"
+  },
+  {
+    "category": "mental health",
+    "vertical": "healthcare",
+    "query": "self help books"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "blood pressure monitor"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "blood glucose meter"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "medical alert system"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "portable oxygen concentrator"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "cpap cleaning machine"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "hearing aids"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "tens unit"
+  },
+  {
+    "category": "medical devices",
+    "vertical": "healthcare",
+    "query": "adjustable bed"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "sat prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "act prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "gre prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "gmat prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "lsat prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "mcat prep"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "toefl practice tests"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "ged classes"
+  },
+  {
+    "category": "test prep",
+    "vertical": "education",
+    "query": "ap calculus bc"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "affordable online courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "free online courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "coding courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "python courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "data science courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "digital marketing courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "language learning platforms"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "online mba courses"
+  },
+  {
+    "category": "online courses",
+    "vertical": "education",
+    "query": "photography courses"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "sat tutoring"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "act tutoring"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "online math tutors"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "spanish tutoring"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "chemistry tutors near me"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "english tutors"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "test prep tutoring"
+  },
+  {
+    "category": "tutoring",
+    "vertical": "education",
+    "query": "tutoring services"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "used textbooks online"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "cheap textbooks"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "textbook rental"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "college textbooks"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "organic chemistry textbook"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "linear algebra textbook"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "computer science textbooks"
+  },
+  {
+    "category": "textbooks",
+    "vertical": "education",
+    "query": "nursing textbooks"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "coding bootcamps near me"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "online coding bootcamps"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "part time bootcamps"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "javascript bootcamps"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "computer science bootcamp"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "affordable coding bootcamps"
+  },
+  {
+    "category": "coding bootcamps",
+    "vertical": "education",
+    "query": "bootcamp reviews"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning apps"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning websites"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning podcasts"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning tutor"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning resources"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "language learning courses"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "learn english"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "learn italian"
+  },
+  {
+    "category": "language learning",
+    "vertical": "education",
+    "query": "study methods"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "living room furniture"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "furniture sets"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "furniture stores near me"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "sectional sofas"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "mid century modern furniture"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "outdoor patio furniture"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "ergonomic office chairs"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "bedroom furniture ideas"
+  },
+  {
+    "category": "furniture",
+    "vertical": "home_garden",
+    "query": "affordable furniture"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "washing machines"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "appliance sale near me"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "energy efficient appliances"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "stainless steel appliances"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "appliance repair services"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "refrigerator brands"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "vacuum cleaner"
+  },
+  {
+    "category": "appliances",
+    "vertical": "home_garden",
+    "query": "stand mixer"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "home decor"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "wall art"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "framed art"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "decorative pillows"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "curtains"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "lighting fixtures"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "decor accessories"
+  },
+  {
+    "category": "home decor",
+    "vertical": "home_garden",
+    "query": "decorative objects"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "gardening tools"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "garden hoses"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "pruning tools"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "leaf blowers"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "garden rakes"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "garden trowels"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "tillers"
+  },
+  {
+    "category": "gardening tools",
+    "vertical": "home_garden",
+    "query": "gardening gloves"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "cleaning supplies"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "all purpose cleaners"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "glass cleaners"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "mold removers"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "steam mops"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "carpet cleaners"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "toilet cleaners"
+  },
+  {
+    "category": "cleaning",
+    "vertical": "home_garden",
+    "query": "surface cleaners"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "beauty products"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "makeup"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "makeup brushes"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "eyeshadow palettes"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "lipstick"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "foundation"
+  },
+  {
+    "category": "beauty",
+    "vertical": "beauty",
+    "query": "concealer"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "skincare"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "cleansers"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "serums"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "moisturizers"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "eye creams"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "face masks"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "exfoliants"
+  },
+  {
+    "category": "skincare",
+    "vertical": "beauty",
+    "query": "sunscreen"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "mens grooming"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "facial cleansers"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "moisturizers"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "beard care"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "hair styling products"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "electric shavers"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "trimmers"
+  },
+  {
+    "category": "men's grooming",
+    "vertical": "beauty",
+    "query": "cologne"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "makeup"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "foundation"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "blush"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "highlighter"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "mascara"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "setting spray"
+  },
+  {
+    "category": "makeup",
+    "vertical": "beauty",
+    "query": "makeup remover"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "fragrance"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "perfume"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "eau de parfum"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "eau de toilette"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "cologne"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "unisex fragrance"
+  },
+  {
+    "category": "fragrance",
+    "vertical": "beauty",
+    "query": "fragrance oils"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "haircare"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "shampoo"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "conditioner"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "hair oil"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "hair serum"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "hair dryers"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "hair straighteners"
+  },
+  {
+    "category": "haircare",
+    "vertical": "beauty",
+    "query": "hair brushes"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "nail care"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "nail polish"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "nail polish remover"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "cuticle oil"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "gel nail kits"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "nail files"
+  },
+  {
+    "category": "nail care",
+    "vertical": "beauty",
+    "query": "top coat"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "fiction books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "nonfiction books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "mystery books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "fantasy books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "history books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "finance books"
+  },
+  {
+    "category": "books",
+    "vertical": "entertainment",
+    "query": "self help books"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "movies"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "action films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "comedy films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "romance films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "horror films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "animated films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "science fiction films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "drama films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "thriller films"
+  },
+  {
+    "category": "movies",
+    "vertical": "entertainment",
+    "query": "documentary films"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "streaming services"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "video streaming platforms"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "live tv streaming"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "on demand streaming"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "anime streaming"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "music streaming services"
+  },
+  {
+    "category": "streaming services",
+    "vertical": "entertainment",
+    "query": "subscription streaming"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "true crime podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "comedy podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "news podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "history podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "education podcasts"
+  },
+  {
+    "category": "podcasts",
+    "vertical": "entertainment",
+    "query": "business podcasts"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "fiction audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "nonfiction audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "science fiction audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "thriller audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "history audiobooks"
+  },
+  {
+    "category": "audiobooks",
+    "vertical": "entertainment",
+    "query": "audiobook subscriptions"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music streaming"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music albums"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music artists"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music genres"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "live music"
+  },
+  {
+    "category": "music",
+    "vertical": "entertainment",
+    "query": "music podcasts"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "concerts"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "live concerts"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "music festivals"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "concert tickets"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "tour dates"
+  },
+  {
+    "category": "concerts",
+    "vertical": "entertainment",
+    "query": "live performances"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "mobile games"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "rpg mobile games"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "strategy mobile games"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "puzzle mobile games"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "action mobile games"
+  },
+  {
+    "category": "mobile games",
+    "vertical": "gaming",
+    "query": "multiplayer mobile games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "pc games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "rpg pc games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "strategy pc games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "open world games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "multiplayer pc games"
+  },
+  {
+    "category": "pc gaming",
+    "vertical": "gaming",
+    "query": "gaming peripherals"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "gaming consoles"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "home consoles"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "handheld consoles"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "console accessories"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "console storage"
+  },
+  {
+    "category": "consoles",
+    "vertical": "gaming",
+    "query": "console repair"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "virtual reality"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "vr headsets"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "vr controllers"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "vr games"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "vr accessories"
+  },
+  {
+    "category": "vr",
+    "vertical": "gaming",
+    "query": "vr systems"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming accessories"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming mouse"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming keyboard"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming headset"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming controller"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming chair"
+  },
+  {
+    "category": "gaming accessories",
+    "vertical": "gaming",
+    "query": "gaming microphone"
+  },
+  {
+    "category": "game subscriptions",
+    "vertical": "gaming",
+    "query": "game subscriptions"
+  },
+  {
+    "category": "game subscriptions",
+    "vertical": "gaming",
+    "query": "cloud gaming services"
+  },
+  {
+    "category": "game subscriptions",
+    "vertical": "gaming",
+    "query": "game pass services"
+  },
+  {
+    "category": "game subscriptions",
+    "vertical": "gaming",
+    "query": "console subscriptions"
+  },
+  {
+    "category": "game subscriptions",
+    "vertical": "gaming",
+    "query": "digital game libraries"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "pet health"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "flea prevention"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "tick prevention"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "pet first aid"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "pet supplements"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "pet dental care"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "pet medications"
+  },
+  {
+    "category": "pet health",
+    "vertical": "pets",
+    "query": "veterinary services"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "pet insurance"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "pet insurance policies"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "pet insurance coverage"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "accident coverage"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "illness coverage"
+  },
+  {
+    "category": "pet insurance",
+    "vertical": "insurance",
+    "query": "veterinary reimbursement"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "pet food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "dog food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "cat food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "puppy food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "senior pet food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "dry pet food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "wet pet food"
+  },
+  {
+    "category": "pet food",
+    "vertical": "pets",
+    "query": "raw pet food"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet services"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "dog walking"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet boarding"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet grooming"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "veterinary clinics"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet transportation"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet sitting"
+  },
+  {
+    "category": "pet service",
+    "vertical": "pets",
+    "query": "pet cremation"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "pet supplies"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "litter boxes"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "pet feeders"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "scratching posts"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "pet beds"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "pet harnesses"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "pet crates"
+  },
+  {
+    "category": "pet supplies",
+    "vertical": "pets",
+    "query": "water fountains"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "pet care"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "pet wellness plans"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "flea treatments"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "tick treatments"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "pet dental chews"
+  },
+  {
+    "category": "pet care",
+    "vertical": "pets",
+    "query": "pet supplements"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "pet grooming"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "grooming clippers"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "grooming shears"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "grooming shampoo"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "deshedding tools"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "grooming dryers"
+  },
+  {
+    "category": "pet grooming",
+    "vertical": "pets",
+    "query": "grooming brushes"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "pet accessories"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "pet carriers"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "pet trees"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "pet leashes"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "pet bowls"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "aquarium filters"
+  },
+  {
+    "category": "pet accessories",
+    "vertical": "pets",
+    "query": "aquarium pumps"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "pet services"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "pet adoption"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "pet vaccination"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "dog grooming"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "dog walking"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "pet dental services"
+  },
+  {
+    "category": "pet services",
+    "vertical": "pets",
+    "query": "pet training"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "pet toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "dog toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "cat toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "chew toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "puzzle toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "interactive toys"
+  },
+  {
+    "category": "pet toys",
+    "vertical": "pets",
+    "query": "scratching posts"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "mortgages"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "fixed rate mortgages"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "adjustable rate mortgages"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "refinance mortgages"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "fha loans"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "va loans"
+  },
+  {
+    "category": "mortgages",
+    "vertical": "real_estate",
+    "query": "mortgage pre approval"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "property management"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "property management companies"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "property management services"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "property management software"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "rental management"
+  },
+  {
+    "category": "property management",
+    "vertical": "real_estate",
+    "query": "hoa management"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "moving services"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "local movers"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "long distance movers"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "interstate movers"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "moving companies"
+  },
+  {
+    "category": "moving services",
+    "vertical": "real_estate",
+    "query": "moving containers"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "home buying"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "real estate agents"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "home inspections"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "home warranties"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "new construction homes"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "resale homes"
+  },
+  {
+    "category": "home buying",
+    "vertical": "real_estate",
+    "query": "down payment assistance"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "rentals"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "apartments"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "rental houses"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "short term rentals"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "furnished rentals"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "lease agreements"
+  },
+  {
+    "category": "rentals",
+    "vertical": "real_estate",
+    "query": "property listings"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "home improvement"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "home renovation"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "home repair"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "home improvement tools"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "windows"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "countertops"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "decking"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "landscaping"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "plumbing services"
+  },
+  {
+    "category": "home improvement",
+    "vertical": "real_estate",
+    "query": "home automation"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "business software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "erp software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "project management software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "email marketing software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "customer support software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "cloud storage"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "video conferencing software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "accounting software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "data analytics software"
+  },
+  {
+    "category": "b2b_software",
+    "vertical": "b2b_software",
+    "query": "cybersecurity software"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "cloud hosting"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "dedicated hosting"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "virtual private servers"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "shared hosting"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "managed hosting"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "e commerce hosting"
+  },
+  {
+    "category": "cloud hosting",
+    "vertical": "b2b_software",
+    "query": "server infrastructure"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "cybersecurity"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "network security"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "endpoint security"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "security consulting"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "security training"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "security audits"
+  },
+  {
+    "category": "cybersecurity",
+    "vertical": "b2b_software",
+    "query": "cyber insurance"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "customer relationship management"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "crm software"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "sales automation"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "marketing automation"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "lead management"
+  },
+  {
+    "category": "crm",
+    "vertical": "b2b_software",
+    "query": "customer service crm"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "project management"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "project management software"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "task management"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "collaboration software"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "project methodologies"
+  },
+  {
+    "category": "project management",
+    "vertical": "b2b_software",
+    "query": "project certification"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "human resources software"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "payroll software"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "applicant tracking systems"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "employee self service"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "benefits administration"
+  },
+  {
+    "category": "hr software",
+    "vertical": "b2b_software",
+    "query": "performance management"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "analytics"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "web analytics"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "marketing analytics"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "business intelligence"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "data visualization"
+  },
+  {
+    "category": "analytics",
+    "vertical": "b2b_software",
+    "query": "conversion optimization"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "business formation"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "llc formation"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "corporation formation"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "ein registration"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "business registration services"
+  },
+  {
+    "category": "business formation",
+    "vertical": "legal",
+    "query": "business compliance"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "immigration services"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "immigration law"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "immigration attorneys"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "visa applications"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "green card applications"
+  },
+  {
+    "category": "immigration",
+    "vertical": "legal",
+    "query": "citizenship services"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "tax services"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "tax preparation"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "tax advisory"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "tax filing"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "corporate tax"
+  },
+  {
+    "category": "tax services",
+    "vertical": "legal",
+    "query": "personal tax"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "estate planning"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "estate planning attorneys"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "wills"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "trusts"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "probate services"
+  },
+  {
+    "category": "estate planning",
+    "vertical": "legal",
+    "query": "estate planning software"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "legal services"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "attorneys"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "criminal defense"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "family law"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "employment law"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "personal injury law"
+  },
+  {
+    "category": "legal services",
+    "vertical": "legal",
+    "query": "landlord tenant law"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "intellectual property"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "trademarks"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "patents"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "copyrights"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "ip attorneys"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "trademark registration"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "patent filing"
+  },
+  {
+    "category": "ip protection",
+    "vertical": "legal",
+    "query": "ip litigation"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "life insurance"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "term life insurance"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "whole life insurance"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "universal life insurance"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "life insurance policies"
+  },
+  {
+    "category": "life insurance",
+    "vertical": "insurance",
+    "query": "life insurance providers"
+  },
+  {
+    "category": "home insurance",
+    "vertical": "insurance",
+    "query": "home insurance"
+  },
+  {
+    "category": "home insurance",
+    "vertical": "insurance",
+    "query": "homeowners insurance"
+  },
+  {
+    "category": "home insurance",
+    "vertical": "insurance",
+    "query": "property insurance"
+  },
+  {
+    "category": "home insurance",
+    "vertical": "insurance",
+    "query": "dwelling coverage"
+  },
+  {
+    "category": "home insurance",
+    "vertical": "insurance",
+    "query": "home insurance policies"
+  },
+  {
+    "category": "renters insurance",
+    "vertical": "insurance",
+    "query": "renters insurance"
+  },
+  {
+    "category": "renters insurance",
+    "vertical": "insurance",
+    "query": "tenant insurance"
+  },
+  {
+    "category": "renters insurance",
+    "vertical": "insurance",
+    "query": "personal property coverage"
+  },
+  {
+    "category": "renters insurance",
+    "vertical": "insurance",
+    "query": "liability coverage"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "health insurance"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "health insurance plans"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "hmo plans"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "ppo plans"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "high deductible plans"
+  },
+  {
+    "category": "health insurance",
+    "vertical": "insurance",
+    "query": "medical coverage"
+  },
+  {
+    "category": "auto insurance",
+    "vertical": "insurance",
+    "query": "auto insurance"
+  },
+  {
+    "category": "auto insurance",
+    "vertical": "insurance",
+    "query": "liability coverage"
+  },
+  {
+    "category": "auto insurance",
+    "vertical": "insurance",
+    "query": "collision coverage"
+  },
+  {
+    "category": "auto insurance",
+    "vertical": "insurance",
+    "query": "comprehensive coverage"
+  },
+  {
+    "category": "auto insurance",
+    "vertical": "insurance",
+    "query": "auto insurance policies"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "luxury travel"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "luxury tours"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "luxury resorts"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "private tours"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "all inclusive resorts"
+  },
+  {
+    "category": "luxury travel",
+    "vertical": "luxury",
+    "query": "travel concierge services"
+  },
+  {
+    "category": "luxury cars",
+    "vertical": "luxury",
+    "query": "luxury cars"
+  },
+  {
+    "category": "luxury cars",
+    "vertical": "luxury",
+    "query": "luxury sedans"
+  },
+  {
+    "category": "luxury cars",
+    "vertical": "luxury",
+    "query": "luxury suvs"
+  },
+  {
+    "category": "luxury cars",
+    "vertical": "luxury",
+    "query": "luxury electric vehicles"
+  },
+  {
+    "category": "luxury cars",
+    "vertical": "luxury",
+    "query": "sports cars"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "fine jewelry"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "diamond jewelry"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "gold jewelry"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "platinum jewelry"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "jewelry designers"
+  },
+  {
+    "category": "fine jewelry",
+    "vertical": "luxury",
+    "query": "jewelry appraisal"
+  },
+  {
+    "category": "designer bags",
+    "vertical": "luxury",
+    "query": "designer bags"
+  },
+  {
+    "category": "designer bags",
+    "vertical": "luxury",
+    "query": "luxury handbags"
+  },
+  {
+    "category": "designer bags",
+    "vertical": "luxury",
+    "query": "tote bags"
+  },
+  {
+    "category": "designer bags",
+    "vertical": "luxury",
+    "query": "crossbody bags"
+  },
+  {
+    "category": "designer bags",
+    "vertical": "luxury",
+    "query": "clutch bags"
+  },
+  {
+    "category": "luxury watches",
+    "vertical": "luxury",
+    "query": "luxury watches"
+  },
+  {
+    "category": "luxury watches",
+    "vertical": "luxury",
+    "query": "mechanical watches"
+  },
+  {
+    "category": "luxury watches",
+    "vertical": "luxury",
+    "query": "automatic watches"
+  },
+  {
+    "category": "luxury watches",
+    "vertical": "luxury",
+    "query": "chronograph watches"
+  },
+  {
+    "category": "luxury watches",
+    "vertical": "luxury",
+    "query": "dive watches"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "spirits"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "whiskey"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "bourbon"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "scotch"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "rum"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "gin"
+  },
+  {
+    "category": "premium spirits",
+    "vertical": "luxury",
+    "query": "cognac"
+  },
+  {
+    "category": "composting",
+    "vertical": "sustainability",
+    "query": "composting"
+  },
+  {
+    "category": "composting",
+    "vertical": "sustainability",
+    "query": "compost bins"
+  },
+  {
+    "category": "composting",
+    "vertical": "sustainability",
+    "query": "compost tumblers"
+  },
+  {
+    "category": "composting",
+    "vertical": "sustainability",
+    "query": "composting systems"
+  },
+  {
+    "category": "composting",
+    "vertical": "sustainability",
+    "query": "organic waste composting"
+  },
+  {
+    "category": "water conservation",
+    "vertical": "sustainability",
+    "query": "water conservation"
+  },
+  {
+    "category": "water conservation",
+    "vertical": "sustainability",
+    "query": "water efficient fixtures"
+  },
+  {
+    "category": "water conservation",
+    "vertical": "sustainability",
+    "query": "low flow fixtures"
+  },
+  {
+    "category": "water conservation",
+    "vertical": "sustainability",
+    "query": "rainwater harvesting"
+  },
+  {
+    "category": "water conservation",
+    "vertical": "sustainability",
+    "query": "drought resistant landscaping"
+  },
+  {
+    "category": "sustainable fashion",
+    "vertical": "sustainability",
+    "query": "sustainable fashion"
+  },
+  {
+    "category": "sustainable fashion",
+    "vertical": "sustainability",
+    "query": "ethical fashion"
+  },
+  {
+    "category": "sustainable fashion",
+    "vertical": "sustainability",
+    "query": "organic clothing"
+  },
+  {
+    "category": "sustainable fashion",
+    "vertical": "sustainability",
+    "query": "recycled fabrics"
+  },
+  {
+    "category": "sustainable fashion",
+    "vertical": "sustainability",
+    "query": "eco apparel"
+  },
+  {
+    "category": "solar panels",
+    "vertical": "sustainability",
+    "query": "solar panels"
+  },
+  {
+    "category": "solar panels",
+    "vertical": "sustainability",
+    "query": "solar panel systems"
+  },
+  {
+    "category": "solar panels",
+    "vertical": "sustainability",
+    "query": "solar inverters"
+  },
+  {
+    "category": "solar panels",
+    "vertical": "sustainability",
+    "query": "solar batteries"
+  },
+  {
+    "category": "solar panels",
+    "vertical": "sustainability",
+    "query": "solar installation"
+  },
+  {
+    "category": "eco-friendly products",
+    "vertical": "sustainability",
+    "query": "eco friendly products"
+  },
+  {
+    "category": "eco-friendly products",
+    "vertical": "sustainability",
+    "query": "reusable products"
+  },
+  {
+    "category": "eco-friendly products",
+    "vertical": "sustainability",
+    "query": "plastic free products"
+  },
+  {
+    "category": "eco-friendly products",
+    "vertical": "sustainability",
+    "query": "sustainable household products"
+  },
+  {
+    "category": "eco-friendly products",
+    "vertical": "sustainability",
+    "query": "biodegradable products"
+  }
+]

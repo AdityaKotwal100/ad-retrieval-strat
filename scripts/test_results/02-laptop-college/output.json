@@ -1,0 +1,1686 @@
+{
+  "ad_eligibility": 0.9089,
+  "extracted_categories": [
+    "laptops"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_00776",
+      "relevance_score": 0.331052,
+      "internal_score": 0.583586,
+      "title": "Visionary Laptop: See the Future",
+      "advertiser": "VisioTech",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/776",
+      "creative_format": "video",
+      "budget_remaining": 51853.33
+    },
+    {
+      "campaign_id": "camp_01075",
+      "relevance_score": 0.301632,
+      "internal_score": 0.531723,
+      "title": "Microsoft Surface Laptop: Work From Anywhere",
+      "advertiser": "Microsoft",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1075",
+      "creative_format": "text",
+      "budget_remaining": 16426.8
+    },
+    {
+      "campaign_id": "camp_00608",
+      "relevance_score": 0.301389,
+      "internal_score": 0.531295,
+      "title": "SwiftWrite Pro: Ultimate Productivity Laptop",
+      "advertiser": "SwiftWrite",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/608",
+      "creative_format": "display",
+      "budget_remaining": 95059.86
+    },
+    {
+      "campaign_id": "camp_00730",
+      "relevance_score": 0.297189,
+      "internal_score": 0.523891,
+      "title": "Nexus PrimeBook: Ultimate Performance Laptop",
+      "advertiser": "Nexus",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/730",
+      "creative_format": "carousel",
+      "budget_remaining": 46149.8
+    },
+    {
+      "campaign_id": "camp_00587",
+      "relevance_score": 0.28567,
+      "internal_score": 0.503584,
+      "title": "Dell XPS 13: Powerfully Portable",
+      "advertiser": "Dell",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/587",
+      "creative_format": "carousel",
+      "budget_remaining": 72969.82
+    },
+    {
+      "campaign_id": "camp_04336",
+      "relevance_score": 0.272043,
+      "internal_score": 0.479563,
+      "title": "Unlock Knowledge with Pearson Textbooks",
+      "advertiser": "Pearson",
+      "category": "textbooks",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4336",
+      "creative_format": "display",
+      "budget_remaining": 49778.21
+    },
+    {
+      "campaign_id": "camp_04425",
+      "relevance_score": 0.270709,
+      "internal_score": 0.477212,
+      "title": "Pearson: Your Trusted Learning Partner",
+      "advertiser": "Pearson",
+      "category": "textbooks",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4425",
+      "creative_format": "video",
+      "budget_remaining": 82237.14
+    },
+    {
+      "campaign_id": "camp_00614",
+      "relevance_score": 0.253406,
+      "internal_score": 0.44671,
+      "title": "ThinkPad Extreme: Work Anywhere, Anytime",
+      "advertiser": "Lenovo",
+      "category": "laptops",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/614",
+      "creative_format": "video",
+      "budget_remaining": 21728.88
+    },
+    {
+      "campaign_id": "camp_04508",
+      "relevance_score": 0.221625,
+      "internal_score": 0.390685,
+      "title": "Affordable College Textbooks: Save Today",
+      "advertiser": "CampusBooks",
+      "category": "textbooks",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4508",
+      "creative_format": "display",
+      "budget_remaining": 3070.6
+    },
+    {
+      "campaign_id": "camp_00972",
+      "relevance_score": 0.164396,
+      "internal_score": 0.289801,
+      "title": "Amplify Studio Monitors: Hear Truth",
+      "advertiser": "Amplify Audio",
+      "category": "monitors",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/972",
+      "creative_format": "native",
+      "budget_remaining": 89595.43
+    },
+    {
+      "campaign_id": "camp_04519",
+      "relevance_score": 0.154951,
+      "internal_score": 0.27315,
+      "title": "Khan Academy: Learn for Free, Forever",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4519",
+      "creative_format": "native",
+      "budget_remaining": 14590.4
+    },
+    {
+      "campaign_id": "camp_04501",
+      "relevance_score": 0.154695,
+      "internal_score": 0.2727,
+      "title": "Learn Python: Beginner-Friendly Online Course",
+      "advertiser": "Udemy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4501",
+      "creative_format": "text",
+      "budget_remaining": 15322.78
+    },
+    {
+      "campaign_id": "camp_04360",
+      "relevance_score": 0.137343,
+      "internal_score": 0.242111,
+      "title": "Learn to Code: Free Introductory Course",
+      "advertiser": "Codecademy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4360",
+      "creative_format": "carousel",
+      "budget_remaining": 73439.64
+    },
+    {
+      "campaign_id": "camp_04505",
+      "relevance_score": 0.136397,
+      "internal_score": 0.240444,
+      "title": "CodeCamp: Learn Coding This Summer",
+      "advertiser": "CodeCamp",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4505",
+      "creative_format": "text",
+      "budget_remaining": 84539.67
+    },
+    {
+      "campaign_id": "camp_04396",
+      "relevance_score": 0.134079,
+      "internal_score": 0.236357,
+      "title": "Skillshare: Unleash Your Creative Potential",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4396",
+      "creative_format": "display",
+      "budget_remaining": 80132.33
+    },
+    {
+      "campaign_id": "camp_04442",
+      "relevance_score": 0.130884,
+      "internal_score": 0.230725,
+      "title": "Creative Skills: Spark Your Passion",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4442",
+      "creative_format": "native",
+      "budget_remaining": 40298.8
+    },
+    {
+      "campaign_id": "camp_04429",
+      "relevance_score": 0.129093,
+      "internal_score": 0.227568,
+      "title": "SkillShare: Unleash Your Creative Potential",
+      "advertiser": "Skillshare",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4429",
+      "creative_format": "carousel",
+      "budget_remaining": 35750.06
+    },
+    {
+      "campaign_id": "camp_04488",
+      "relevance_score": 0.128417,
+      "internal_score": 0.226377,
+      "title": "Code Faster with ByteCamp's Intensive Program",
+      "advertiser": "ByteCamp",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4488",
+      "creative_format": "display",
+      "budget_remaining": 10876.73
+    },
+    {
+      "campaign_id": "camp_01020",
+      "relevance_score": 0.128325,
+      "internal_score": 0.226214,
+      "title": "AudioBloom Active: Your Music, Uninterrupted",
+      "advertiser": "AudioBloom",
+      "category": "headphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1020",
+      "creative_format": "text",
+      "budget_remaining": 71549.49
+    },
+    {
+      "campaign_id": "camp_04333",
+      "relevance_score": 0.127708,
+      "internal_score": 0.225126,
+      "title": "Code Your Future: Codecademy Pro",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4333",
+      "creative_format": "text",
+      "budget_remaining": 5564.84
+    },
+    {
+      "campaign_id": "camp_00748",
+      "relevance_score": 0.126958,
+      "internal_score": 0.223804,
+      "title": "SoundWave X7: Deep Bass Headphones",
+      "advertiser": "SoundWave",
+      "category": "headphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/748",
+      "creative_format": "carousel",
+      "budget_remaining": 3250.91
+    },
+    {
+      "campaign_id": "camp_04650",
+      "relevance_score": 0.125697,
+      "internal_score": 0.221581,
+      "title": "Intro to Computer Science Course",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4650",
+      "creative_format": "display",
+      "budget_remaining": 53935.67
+    },
+    {
+      "campaign_id": "camp_04653",
+      "relevance_score": 0.125122,
+      "internal_score": 0.220567,
+      "title": "Learn Web Development with Udemy",
+      "advertiser": "Udemy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4653",
+      "creative_format": "video",
+      "budget_remaining": 69690.18
+    },
+    {
+      "campaign_id": "camp_01047",
+      "relevance_score": 0.124957,
+      "internal_score": 0.220276,
+      "title": "AI Powered Aurora SmartPhone",
+      "advertiser": "NovaTech",
+      "category": "smartphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1047",
+      "creative_format": "text",
+      "budget_remaining": 90836.12
+    },
+    {
+      "campaign_id": "camp_06867",
+      "relevance_score": 0.120815,
+      "internal_score": 0.212975,
+      "title": "HyperX Cloud Stinger Core Wireless",
+      "advertiser": "HyperX",
+      "category": "gaming accessories",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6867",
+      "creative_format": "text",
+      "budget_remaining": 80953.48
+    },
+    {
+      "campaign_id": "camp_04825",
+      "relevance_score": 0.120166,
+      "internal_score": 0.211831,
+      "title": "Pearson: Trusted Learning Materials Always",
+      "advertiser": "Pearson",
+      "category": "textbooks",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4825",
+      "creative_format": "video",
+      "budget_remaining": 33186.79
+    },
+    {
+      "campaign_id": "camp_00644",
+      "relevance_score": 0.118122,
+      "internal_score": 0.208228,
+      "title": "Apple iPad Pro: Unleash Your Creativity",
+      "advertiser": "Apple",
+      "category": "tablets",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/644",
+      "creative_format": "carousel",
+      "budget_remaining": 57136.13
+    },
+    {
+      "campaign_id": "camp_04391",
+      "relevance_score": 0.117281,
+      "internal_score": 0.206745,
+      "title": "Ace that SAT: Kaplan's Online Advantage",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4391",
+      "creative_format": "native",
+      "budget_remaining": 27245.72
+    },
+    {
+      "campaign_id": "camp_04534",
+      "relevance_score": 0.117123,
+      "internal_score": 0.206466,
+      "title": "Unlock Data Science with EdX",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4534",
+      "creative_format": "display",
+      "budget_remaining": 14950.32
+    },
+    {
+      "campaign_id": "camp_04700",
+      "relevance_score": 0.115348,
+      "internal_score": 0.203338,
+      "title": "Khan Academy: Free Education for Everyone",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4700",
+      "creative_format": "video",
+      "budget_remaining": 1702.71
+    },
+    {
+      "campaign_id": "camp_04427",
+      "relevance_score": 0.113587,
+      "internal_score": 0.200233,
+      "title": "Khan Academy: Free Education for All",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4427",
+      "creative_format": "text",
+      "budget_remaining": 47833.87
+    },
+    {
+      "campaign_id": "camp_04549",
+      "relevance_score": 0.112918,
+      "internal_score": 0.199055,
+      "title": "Udemy: Learn Anything, Anytime, Anywhere",
+      "advertiser": "Udemy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4549",
+      "creative_format": "display",
+      "budget_remaining": 39581.23
+    },
+    {
+      "campaign_id": "camp_01040",
+      "relevance_score": 0.111452,
+      "internal_score": 0.19647,
+      "title": "iPad Pro: Unleash Your Creativity",
+      "advertiser": "Apple",
+      "category": "tablets",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1040",
+      "creative_format": "text",
+      "budget_remaining": 6667.03
+    },
+    {
+      "campaign_id": "camp_00545",
+      "relevance_score": 0.111316,
+      "internal_score": 0.19623,
+      "title": "Capture Every Moment: PixelSnap Phone",
+      "advertiser": "Google",
+      "category": "smartphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/545",
+      "creative_format": "display",
+      "budget_remaining": 92137.91
+    },
+    {
+      "campaign_id": "camp_04606",
+      "relevance_score": 0.111229,
+      "internal_score": 0.196076,
+      "title": "Learn to Code: Full-Stack Bootcamp",
+      "advertiser": "Lambda School",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4606",
+      "creative_format": "carousel",
+      "budget_remaining": 55179.97
+    },
+    {
+      "campaign_id": "camp_04784",
+      "relevance_score": 0.110857,
+      "internal_score": 0.195422,
+      "title": "Unlock Your Potential with Online Tutoring",
+      "advertiser": "Chegg",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4784",
+      "creative_format": "text",
+      "budget_remaining": 38683.29
+    },
+    {
+      "campaign_id": "camp_04685",
+      "relevance_score": 0.109823,
+      "internal_score": 0.193597,
+      "title": "Codecademy: Learn to Code Online",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4685",
+      "creative_format": "text",
+      "budget_remaining": 88916.7
+    },
+    {
+      "campaign_id": "camp_04338",
+      "relevance_score": 0.107566,
+      "internal_score": 0.18962,
+      "title": "EdX: Access Top University Courses",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4338",
+      "creative_format": "text",
+      "budget_remaining": 5358.8
+    },
+    {
+      "campaign_id": "camp_01018",
+      "relevance_score": 0.107235,
+      "internal_score": 0.189036,
+      "title": "VisionPad Pro: Creativity Unleashed",
+      "advertiser": "VisionTek",
+      "category": "tablets",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1018",
+      "creative_format": "native",
+      "budget_remaining": 40201.69
+    },
+    {
+      "campaign_id": "camp_04419",
+      "relevance_score": 0.102503,
+      "internal_score": 0.180694,
+      "title": "EdX: Earn a Degree Online",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4419",
+      "creative_format": "carousel",
+      "budget_remaining": 29363.87
+    },
+    {
+      "campaign_id": "camp_04489",
+      "relevance_score": 0.102306,
+      "internal_score": 0.180346,
+      "title": "Khan Academy: Free Learning For Everyone",
+      "advertiser": "Khan Academy",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4489",
+      "creative_format": "carousel",
+      "budget_remaining": 73357.43
+    },
+    {
+      "campaign_id": "camp_00743",
+      "relevance_score": 0.101412,
+      "internal_score": 0.178772,
+      "title": "Bose QuietComfort: Silent Soundscapes",
+      "advertiser": "Bose",
+      "category": "headphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/743",
+      "creative_format": "carousel",
+      "budget_remaining": 15965.06
+    },
+    {
+      "campaign_id": "camp_00747",
+      "relevance_score": 0.099486,
+      "internal_score": 0.175375,
+      "title": "SafeGuard Smart Home: Secure Your Future",
+      "advertiser": "SafeGuard",
+      "category": "smart home",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/747",
+      "creative_format": "carousel",
+      "budget_remaining": 14376.43
+    },
+    {
+      "campaign_id": "camp_01007",
+      "relevance_score": 0.099219,
+      "internal_score": 0.174905,
+      "title": "Galaxy Z Fold4: Unfold Your World",
+      "advertiser": "Samsung",
+      "category": "smartphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1007",
+      "creative_format": "display",
+      "budget_remaining": 48046.9
+    },
+    {
+      "campaign_id": "camp_04553",
+      "relevance_score": 0.098566,
+      "internal_score": 0.173755,
+      "title": "edX: Access University Courses Online",
+      "advertiser": "edX",
+      "category": "online courses",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4553",
+      "creative_format": "carousel",
+      "budget_remaining": 89048.67
+    },
+    {
+      "campaign_id": "camp_04395",
+      "relevance_score": 0.097818,
+      "internal_score": 0.172436,
+      "title": "Personalized Tutoring: Math & Science Experts",
+      "advertiser": "TutorMe",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4395",
+      "creative_format": "text",
+      "budget_remaining": 31635.81
+    },
+    {
+      "campaign_id": "camp_04627",
+      "relevance_score": 0.095912,
+      "internal_score": 0.169076,
+      "title": "French for Beginners: Learn with Linguee",
+      "advertiser": "Linguee",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4627",
+      "creative_format": "carousel",
+      "budget_remaining": 62692.23
+    },
+    {
+      "campaign_id": "camp_04364",
+      "relevance_score": 0.094478,
+      "internal_score": 0.166548,
+      "title": "Code Your Future: Web Development Bootcamp",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4364",
+      "creative_format": "display",
+      "budget_remaining": 62268.98
+    },
+    {
+      "campaign_id": "camp_01021",
+      "relevance_score": 0.094289,
+      "internal_score": 0.166214,
+      "title": "Immerse Yourself: The Aura Headphones",
+      "advertiser": "Sony",
+      "category": "headphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/1021",
+      "creative_format": "display",
+      "budget_remaining": 55297.57
+    },
+    {
+      "campaign_id": "camp_04725",
+      "relevance_score": 0.09427,
+      "internal_score": 0.166182,
+      "title": "Get Textbook Answers Instantly",
+      "advertiser": "Chegg",
+      "category": "textbooks",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4725",
+      "creative_format": "native",
+      "budget_remaining": 42398.42
+    },
+    {
+      "campaign_id": "camp_04844",
+      "relevance_score": 0.094076,
+      "internal_score": 0.165839,
+      "title": "Affordable Math Help When You Need It",
+      "advertiser": "Chegg",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4844",
+      "creative_format": "text",
+      "budget_remaining": 16513.12
+    },
+    {
+      "campaign_id": "camp_04561",
+      "relevance_score": 0.093389,
+      "internal_score": 0.164628,
+      "title": "Personalized Math Tutoring: Get Ahead",
+      "advertiser": "Khan Academy",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4561",
+      "creative_format": "native",
+      "budget_remaining": 58050.59
+    },
+    {
+      "campaign_id": "camp_04645",
+      "relevance_score": 0.091956,
+      "internal_score": 0.162102,
+      "title": "Speak Confidently with LinguaFluent Pro",
+      "advertiser": "LinguaFluent Pro",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4645",
+      "creative_format": "display",
+      "budget_remaining": 61066.42
+    },
+    {
+      "campaign_id": "camp_01100",
+      "relevance_score": 0.089552,
+      "internal_score": 0.157864,
+      "title": "Midnight Bloom: Velvet Evening Gowns",
+      "advertiser": "Midnight Bloom",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1100",
+      "creative_format": "native",
+      "budget_remaining": 64435.04
+    },
+    {
+      "campaign_id": "camp_01602",
+      "relevance_score": 0.087545,
+      "internal_score": 0.154327,
+      "title": "Gucci: Opulent Leather Handbags",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1602",
+      "creative_format": "carousel",
+      "budget_remaining": 58306.94
+    },
+    {
+      "campaign_id": "camp_04779",
+      "relevance_score": 0.08649,
+      "internal_score": 0.152467,
+      "title": "Ace the MCAT with Personalized Prep Courses",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4779",
+      "creative_format": "text",
+      "budget_remaining": 22923.38
+    },
+    {
+      "campaign_id": "camp_04618",
+      "relevance_score": 0.085301,
+      "internal_score": 0.15037,
+      "title": "Speak Spanish Confidently: Start Today!",
+      "advertiser": "Duolingo",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4618",
+      "creative_format": "native",
+      "budget_remaining": 95013.83
+    },
+    {
+      "campaign_id": "camp_04708",
+      "relevance_score": 0.083738,
+      "internal_score": 0.147615,
+      "title": "Learn Spanish: Conversational Fluency Fast",
+      "advertiser": "Duolingo",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4708",
+      "creative_format": "text",
+      "budget_remaining": 7262.47
+    },
+    {
+      "campaign_id": "camp_04613",
+      "relevance_score": 0.083058,
+      "internal_score": 0.146416,
+      "title": "Law School Admission Test Prep Course",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4613",
+      "creative_format": "display",
+      "budget_remaining": 92830.07
+    },
+    {
+      "campaign_id": "camp_04353",
+      "relevance_score": 0.08103,
+      "internal_score": 0.142842,
+      "title": "Get Ready for the GRE Exam",
+      "advertiser": "Kaplan",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4353",
+      "creative_format": "carousel",
+      "budget_remaining": 76918.13
+    },
+    {
+      "campaign_id": "camp_04512",
+      "relevance_score": 0.080261,
+      "internal_score": 0.141485,
+      "title": "Learn Spanish with Duolingo Max",
+      "advertiser": "Duolingo",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4512",
+      "creative_format": "video",
+      "budget_remaining": 91441.05
+    },
+    {
+      "campaign_id": "camp_03721",
+      "relevance_score": 0.078482,
+      "internal_score": 0.138349,
+      "title": "American Express: Rewards Beyond Expectations",
+      "advertiser": "American Express",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3721",
+      "creative_format": "display",
+      "budget_remaining": 63010.27
+    },
+    {
+      "campaign_id": "camp_03590",
+      "relevance_score": 0.078482,
+      "internal_score": 0.138349,
+      "title": "Capital One: Venture X Premium Rewards",
+      "advertiser": "Capital One",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3590",
+      "creative_format": "video",
+      "budget_remaining": 17177.96
+    },
+    {
+      "campaign_id": "camp_03714",
+      "relevance_score": 0.078482,
+      "internal_score": 0.138349,
+      "title": "American Express: The Business Gold Card",
+      "advertiser": "American Express",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3714",
+      "creative_format": "display",
+      "budget_remaining": 15784.64
+    },
+    {
+      "campaign_id": "camp_04646",
+      "relevance_score": 0.075187,
+      "internal_score": 0.132541,
+      "title": "Unlock Your Future: Learn Python Today",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4646",
+      "creative_format": "native",
+      "budget_remaining": 55320.75
+    },
+    {
+      "campaign_id": "camp_04545",
+      "relevance_score": 0.0725,
+      "internal_score": 0.127804,
+      "title": "Code Your Future with Codecademy Pro",
+      "advertiser": "Codecademy",
+      "category": "coding bootcamps",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4545",
+      "creative_format": "video",
+      "budget_remaining": 33703.21
+    },
+    {
+      "campaign_id": "camp_04822",
+      "relevance_score": 0.071854,
+      "internal_score": 0.126666,
+      "title": "Get Ahead With ExamExperts Test Prep",
+      "advertiser": "ExamExperts",
+      "category": "test prep",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4822",
+      "creative_format": "carousel",
+      "budget_remaining": 24114.98
+    },
+    {
+      "campaign_id": "camp_04376",
+      "relevance_score": 0.071139,
+      "internal_score": 0.125406,
+      "title": "Unlock Spanish Fluency with Duolingo Max",
+      "advertiser": "Duolingo",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4376",
+      "creative_format": "display",
+      "budget_remaining": 60268.0
+    },
+    {
+      "campaign_id": "camp_01132",
+      "relevance_score": 0.069172,
+      "internal_score": 0.121937,
+      "title": "Elevate Your Everyday: Silk Scarves",
+      "advertiser": "Nordstrom",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1132",
+      "creative_format": "carousel",
+      "budget_remaining": 26732.63
+    },
+    {
+      "campaign_id": "camp_01338",
+      "relevance_score": 0.068137,
+      "internal_score": 0.120113,
+      "title": "The Essential Leather Belt",
+      "advertiser": "Oak & Hyde",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1338",
+      "creative_format": "display",
+      "budget_remaining": 14952.46
+    },
+    {
+      "campaign_id": "camp_04494",
+      "relevance_score": 0.067931,
+      "internal_score": 0.119751,
+      "title": "Master Calculus Faster with MathPro",
+      "advertiser": "MathPro",
+      "category": "tutoring",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4494",
+      "creative_format": "text",
+      "budget_remaining": 54636.32
+    },
+    {
+      "campaign_id": "camp_02629",
+      "relevance_score": 0.067477,
+      "internal_score": 0.11895,
+      "title": "Samsonite: Travel Strong. Travel Smart.",
+      "advertiser": "Samsonite",
+      "category": "travel gear",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2629",
+      "creative_format": "text",
+      "budget_remaining": 29756.57
+    },
+    {
+      "campaign_id": "camp_06197",
+      "relevance_score": 0.066315,
+      "internal_score": 0.116901,
+      "title": "New Sci-Fi Audiobooks Released",
+      "advertiser": "Audible",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6197",
+      "creative_format": "carousel",
+      "budget_remaining": 93273.08
+    },
+    {
+      "campaign_id": "camp_03771",
+      "relevance_score": 0.065415,
+      "internal_score": 0.115315,
+      "title": "Capital One Venture X: Travel Further",
+      "advertiser": "Capital One",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3771",
+      "creative_format": "native",
+      "budget_remaining": 97430.77
+    },
+    {
+      "campaign_id": "camp_06429",
+      "relevance_score": 0.063857,
+      "internal_score": 0.112568,
+      "title": "Unleash Your Inner Storyteller",
+      "advertiser": "Quill & Ink",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6429",
+      "creative_format": "display",
+      "budget_remaining": 39896.1
+    },
+    {
+      "campaign_id": "camp_06037",
+      "relevance_score": 0.063604,
+      "internal_score": 0.112122,
+      "title": "Page Turners: New Novels by Women",
+      "advertiser": "Literati Ebooks",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6037",
+      "creative_format": "carousel",
+      "budget_remaining": 97711.55
+    },
+    {
+      "campaign_id": "camp_06086",
+      "relevance_score": 0.063604,
+      "internal_score": 0.112122,
+      "title": "Kindle Oasis: Dive Into Your Story",
+      "advertiser": "Kindle",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6086",
+      "creative_format": "video",
+      "budget_remaining": 18301.08
+    },
+    {
+      "campaign_id": "camp_06082",
+      "relevance_score": 0.063604,
+      "internal_score": 0.112122,
+      "title": "Wordsmith: Unleash Your Inner Author",
+      "advertiser": "Wordsmith",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6082",
+      "creative_format": "text",
+      "budget_remaining": 89605.05
+    },
+    {
+      "campaign_id": "camp_06027",
+      "relevance_score": 0.062285,
+      "internal_score": 0.109796,
+      "title": "Kindle Spring Reading: New Releases!",
+      "advertiser": "Kindle",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6027",
+      "creative_format": "carousel",
+      "budget_remaining": 33018.64
+    },
+    {
+      "campaign_id": "camp_06095",
+      "relevance_score": 0.060988,
+      "internal_score": 0.10751,
+      "title": "PageTurner: New Steamy Romance",
+      "advertiser": "PageTurner",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6095",
+      "creative_format": "display",
+      "budget_remaining": 36667.66
+    },
+    {
+      "campaign_id": "camp_03312",
+      "relevance_score": 0.060411,
+      "internal_score": 0.106494,
+      "title": "Cryptify: Secure Crypto Wallet for Beginners",
+      "advertiser": "Cryptify",
+      "category": "cryptocurrency",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3312",
+      "creative_format": "display",
+      "budget_remaining": 50487.18
+    },
+    {
+      "campaign_id": "camp_04372",
+      "relevance_score": 0.059834,
+      "internal_score": 0.105477,
+      "title": "GlobalLingua: Master a New Language",
+      "advertiser": "GlobalLingua",
+      "category": "language learning",
+      "vertical": "education",
+      "landing_url": "https://example.com/campaign/4372",
+      "creative_format": "carousel",
+      "budget_remaining": 48263.96
+    },
+    {
+      "campaign_id": "camp_03648",
+      "relevance_score": 0.059759,
+      "internal_score": 0.105344,
+      "title": "Invest Smarter with Schwab Intelligent Portfolios",
+      "advertiser": "Schwab",
+      "category": "investing",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3648",
+      "creative_format": "carousel",
+      "budget_remaining": 93026.92
+    },
+    {
+      "campaign_id": "camp_00144",
+      "relevance_score": 0.059515,
+      "internal_score": 0.104915,
+      "title": "Fitbit Charge: Track Your Day",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/144",
+      "creative_format": "native",
+      "budget_remaining": 72397.17
+    },
+    {
+      "campaign_id": "camp_00047",
+      "relevance_score": 0.058317,
+      "internal_score": 0.102802,
+      "title": "Peloton: Ride into a Fitter You",
+      "advertiser": "Peloton",
+      "category": "gym equipment",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/47",
+      "creative_format": "video",
+      "budget_remaining": 89772.72
+    },
+    {
+      "campaign_id": "camp_01475",
+      "relevance_score": 0.058208,
+      "internal_score": 0.102609,
+      "title": "Durable Canvas Backpacks: Adventure Ready",
+      "advertiser": "Trailblazer Gear",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1475",
+      "creative_format": "carousel",
+      "budget_remaining": 61018.4
+    },
+    {
+      "campaign_id": "camp_06005",
+      "relevance_score": 0.057888,
+      "internal_score": 0.102046,
+      "title": "Comedians Unleashed: Live Comedy Night",
+      "advertiser": "LaughFest",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6005",
+      "creative_format": "display",
+      "budget_remaining": 17872.86
+    },
+    {
+      "campaign_id": "camp_03651",
+      "relevance_score": 0.057698,
+      "internal_score": 0.101712,
+      "title": "Capital One: Simple Checking Account",
+      "advertiser": "Capital One",
+      "category": "banking",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3651",
+      "creative_format": "native",
+      "budget_remaining": 6335.48
+    },
+    {
+      "campaign_id": "camp_01271",
+      "relevance_score": 0.057376,
+      "internal_score": 0.101143,
+      "title": "Gucci: Timeless Elegance, Modern Vision",
+      "advertiser": "Gucci",
+      "category": "luxury fashion",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1271",
+      "creative_format": "text",
+      "budget_remaining": 99069.5
+    },
+    {
+      "campaign_id": "camp_06372",
+      "relevance_score": 0.057195,
+      "internal_score": 0.100824,
+      "title": "Kindle: Your Next Great Read Awaits",
+      "advertiser": "Kindle",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6372",
+      "creative_format": "text",
+      "budget_remaining": 38416.28
+    },
+    {
+      "campaign_id": "camp_02541",
+      "relevance_score": 0.055712,
+      "internal_score": 0.098211,
+      "title": "Southwest: Bags Fly Free, Adventure Awaits",
+      "advertiser": "Southwest",
+      "category": "flights",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2541",
+      "creative_format": "native",
+      "budget_remaining": 18958.46
+    },
+    {
+      "campaign_id": "camp_06386",
+      "relevance_score": 0.055083,
+      "internal_score": 0.097102,
+      "title": "Live Music Is Back! Get Your Tickets",
+      "advertiser": "Ticketmaster",
+      "category": "concerts",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6386",
+      "creative_format": "video",
+      "budget_remaining": 92524.75
+    },
+    {
+      "campaign_id": "camp_06213",
+      "relevance_score": 0.055002,
+      "internal_score": 0.096958,
+      "title": "Apple TV+: Original Stories. Now Streaming.",
+      "advertiser": "Apple TV+",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6213",
+      "creative_format": "carousel",
+      "budget_remaining": 56963.08
+    },
+    {
+      "campaign_id": "camp_06162",
+      "relevance_score": 0.054926,
+      "internal_score": 0.096824,
+      "title": "Unplug and Listen: Audible Originals",
+      "advertiser": "Audible",
+      "category": "books",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6162",
+      "creative_format": "text",
+      "budget_remaining": 72480.04
+    },
+    {
+      "campaign_id": "camp_06381",
+      "relevance_score": 0.054591,
+      "internal_score": 0.096234,
+      "title": "YouTube Premium: Ad-Free Video Bliss",
+      "advertiser": "YouTube Premium",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6381",
+      "creative_format": "display",
+      "budget_remaining": 75201.26
+    },
+    {
+      "campaign_id": "camp_01551",
+      "relevance_score": 0.054194,
+      "internal_score": 0.095534,
+      "title": "EcoThreads: Sustainable Bamboo T-Shirts",
+      "advertiser": "EcoThreads",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1551",
+      "creative_format": "carousel",
+      "budget_remaining": 27525.06
+    },
+    {
+      "campaign_id": "camp_06584",
+      "relevance_score": 0.053366,
+      "internal_score": 0.094074,
+      "title": "Steam Summer Sale Is Here!",
+      "advertiser": "Steam",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6584",
+      "creative_format": "native",
+      "budget_remaining": 18112.36
+    },
+    {
+      "campaign_id": "camp_01421",
+      "relevance_score": 0.052665,
+      "internal_score": 0.092839,
+      "title": "Cozy Fall Sweaters for Women",
+      "advertiser": "Nordstrom",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1421",
+      "creative_format": "video",
+      "budget_remaining": 33200.22
+    },
+    {
+      "campaign_id": "camp_01519",
+      "relevance_score": 0.052665,
+      "internal_score": 0.092839,
+      "title": "H&M Conscious Collection: Sustainable Style",
+      "advertiser": "H&M",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1519",
+      "creative_format": "display",
+      "budget_remaining": 55616.78
+    },
+    {
+      "campaign_id": "camp_08519",
+      "relevance_score": 0.051103,
+      "internal_score": 0.090086,
+      "title": "Monday.com: Work OS Platform",
+      "advertiser": "Monday.com",
+      "category": "project management",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8519",
+      "creative_format": "video",
+      "budget_remaining": 91745.92
+    },
+    {
+      "campaign_id": "camp_06305",
+      "relevance_score": 0.05084,
+      "internal_score": 0.089622,
+      "title": "Indie Music Revolution: Discover Now",
+      "advertiser": "SoundWave",
+      "category": "music",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6305",
+      "creative_format": "native",
+      "budget_remaining": 79180.36
+    },
+    {
+      "campaign_id": "camp_00438",
+      "relevance_score": 0.050665,
+      "internal_score": 0.089313,
+      "title": "Track Your Progress with Fitbit Inspire",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/438",
+      "creative_format": "video",
+      "budget_remaining": 66479.35
+    },
+    {
+      "campaign_id": "camp_01348",
+      "relevance_score": 0.050254,
+      "internal_score": 0.088589,
+      "title": "ASOS Design: Your Style, Your Way",
+      "advertiser": "ASOS",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1348",
+      "creative_format": "video",
+      "budget_remaining": 22274.56
+    },
+    {
+      "campaign_id": "camp_01091",
+      "relevance_score": 0.04947,
+      "internal_score": 0.087207,
+      "title": "Uniqlo: AIRism Comfort Redefined",
+      "advertiser": "Uniqlo",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1091",
+      "creative_format": "native",
+      "budget_remaining": 78956.94
+    },
+    {
+      "campaign_id": "camp_00064",
+      "relevance_score": 0.048977,
+      "internal_score": 0.086338,
+      "title": "Lululemon Align Leggings: Feel the Freedom",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/64",
+      "creative_format": "video",
+      "budget_remaining": 10171.16
+    },
+    {
+      "campaign_id": "camp_06861",
+      "relevance_score": 0.048253,
+      "internal_score": 0.085061,
+      "title": "Corsair iCUE Software: Your Gaming Hub",
+      "advertiser": "Corsair",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6861",
+      "creative_format": "native",
+      "budget_remaining": 83063.25
+    },
+    {
+      "campaign_id": "camp_06905",
+      "relevance_score": 0.048253,
+      "internal_score": 0.085061,
+      "title": "Steam Summer Sale: Hottest Deals",
+      "advertiser": "Steam",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6905",
+      "creative_format": "display",
+      "budget_remaining": 55590.16
+    },
+    {
+      "campaign_id": "camp_01631",
+      "relevance_score": 0.047775,
+      "internal_score": 0.084218,
+      "title": "Cook Like A Pro With ChefReady",
+      "advertiser": "ChefReady",
+      "category": "cooking equipment",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1631",
+      "creative_format": "carousel",
+      "budget_remaining": 21659.53
+    },
+    {
+      "campaign_id": "camp_01289",
+      "relevance_score": 0.047206,
+      "internal_score": 0.083216,
+      "title": "Stellar Threads: Sustainable Style",
+      "advertiser": "Stellar Threads",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1289",
+      "creative_format": "display",
+      "budget_remaining": 82670.15
+    },
+    {
+      "campaign_id": "camp_06680",
+      "relevance_score": 0.046326,
+      "internal_score": 0.081664,
+      "title": "EA Sports FC 24: The World's Game",
+      "advertiser": "EA",
+      "category": "PC gaming",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6680",
+      "creative_format": "native",
+      "budget_remaining": 35711.27
+    },
+    {
+      "campaign_id": "camp_01113",
+      "relevance_score": 0.046294,
+      "internal_score": 0.081608,
+      "title": "Stella & Co: The City Sandals.",
+      "advertiser": "Stella & Co",
+      "category": "shoes",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1113",
+      "creative_format": "display",
+      "budget_remaining": 97837.91
+    },
+    {
+      "campaign_id": "camp_03370",
+      "relevance_score": 0.046008,
+      "internal_score": 0.081103,
+      "title": "Capital One Venture X: Premium Travel",
+      "advertiser": "Capital One",
+      "category": "credit cards",
+      "vertical": "finance",
+      "landing_url": "https://example.com/campaign/3370",
+      "creative_format": "display",
+      "budget_remaining": 42938.6
+    },
+    {
+      "campaign_id": "camp_01410",
+      "relevance_score": 0.045864,
+      "internal_score": 0.080851,
+      "title": "Shein: Trendsetting Women's Dresses",
+      "advertiser": "Shein",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1410",
+      "creative_format": "video",
+      "budget_remaining": 37460.35
+    },
+    {
+      "campaign_id": "camp_01294",
+      "relevance_score": 0.045864,
+      "internal_score": 0.080851,
+      "title": "Shein: Trendsetting Styles",
+      "advertiser": "Shein",
+      "category": "women's clothing",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1294",
+      "creative_format": "video",
+      "budget_remaining": 98456.97
+    },
+    {
+      "campaign_id": "camp_06050",
+      "relevance_score": 0.045572,
+      "internal_score": 0.080335,
+      "title": "Indie Film Fest: See It First!",
+      "advertiser": "FilmFestival.io",
+      "category": "movies",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6050",
+      "creative_format": "carousel",
+      "budget_remaining": 31122.38
+    },
+    {
+      "campaign_id": "camp_06143",
+      "relevance_score": 0.045237,
+      "internal_score": 0.079745,
+      "title": "Stream the Summer Blockbusters - Free!",
+      "advertiser": "StreamVerse",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6143",
+      "creative_format": "text",
+      "budget_remaining": 28548.83
+    },
+    {
+      "campaign_id": "camp_00205",
+      "relevance_score": 0.0452,
+      "internal_score": 0.07968,
+      "title": "Garmin Forerunner 265: Personalized Training",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/205",
+      "creative_format": "native",
+      "budget_remaining": 28127.41
+    },
+    {
+      "campaign_id": "camp_00084",
+      "relevance_score": 0.045158,
+      "internal_score": 0.079606,
+      "title": "Garmin Forerunner 965: Train Smarter",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/84",
+      "creative_format": "video",
+      "budget_remaining": 2171.41
+    }
+  ],
+  "latency_ms": 14.28,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 118,
+    "filter_drops": {
+      "geo_include": 1185,
+      "age_range": 639,
+      "gender": 32,
+      "category_gender_mismatch": 3,
+      "negative_keyword": 23
+    },
+    "n_results": 118,
+    "gated": false,
+    "timing_ms": {
+      "embed": 2.43,
+      "parallel_stages": 2.77,
+      "parse": 0.63,
+      "filter_and_rerank": 7.94,
+      "total": 14.28
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0452,
+      "commercial_boost": 0.952,
+      "top_cluster": "financial_hardship",
+      "top_cluster_sim": 0.0859,
+      "commercial_sim": 0.2523,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0452,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 1,
+    "categories": [
+      {
+        "category": "laptops",
+        "score": 0.5565
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {
+        "portable": "true"
+      },
+      "negative_terms": [],
+      "user_location": "US-TX"
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_00776",
+        "base_score": 0.435111,
+        "final_score": 0.583586,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.76282,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-TX"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 20 in [18,24]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'technology'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'inch', 'laptops', 'ultrabook', '14'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083475,
+            "reason": "cat_match=laptops(conf=0.56)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:portable=True"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.05,
+            "reason": "category_terms: frozenset({'laptop'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_01075",
+        "base_score": 0.423248,
+        "final_score": 0.531723,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.76282,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-TX"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 20 in [18,24]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'touchscreen', 'laptops', 'ultrabook'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083475,
+            "reason": "cat_match=laptops(conf=0.56)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:portable=True"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.07,
+            "reason": "model_terms: frozenset({'laptop'}); category_terms: frozenset({'laptop'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00608",
+        "base_score": 0.44282,
+        "final_score": 0.531295,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.76282,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-TX"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 20 in [18,24]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'inch', 'professional', 'laptops', '14'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083475,
+            "reason": "cat_match=laptops(conf=0.56)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:portable=True"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.05,
+            "reason": "category_terms: frozenset({'laptop'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00730",
+        "base_score": 0.425416,
+        "final_score": 0.523891,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.76282,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-TX"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 20 in [18,24]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'inch', 'notebook', 'laptops', '14'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083475,
+            "reason": "cat_match=laptops(conf=0.56)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:portable=True"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.06,
+            "reason": "model_terms: frozenset({'laptop'}); category_terms: frozenset({'laptop'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00587",
+        "base_score": 0.426776,
+        "final_score": 0.503584,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.76282,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-TX"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 20 in [18,24]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'inch', '13', 'laptops', 'ultrabook'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.083475,
+            "reason": "cat_match=laptops(conf=0.56)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:portable=True"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.038333,
+            "reason": "category_terms: frozenset({'laptop'}); feature_terms: frozenset({'lightweight'})"
+          }
+        ]
+      }
+    ]
+  }
+}

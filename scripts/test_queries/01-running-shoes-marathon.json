@@ -1,0 +1,9 @@
+{
+  "query": "best running shoes for marathon training",
+  "context": {
+    "gender": "male",
+    "age": 28,
+    "location": "San Francisco, CA",
+    "interests": ["fitness", "outdoor activities"]
+  }
+}

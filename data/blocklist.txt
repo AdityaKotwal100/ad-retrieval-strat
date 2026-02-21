@@ -1,0 +1,92 @@
+# =============================================================================
+# AD ELIGIBILITY BLOCKLIST (High precision, low false positives)
+# One pattern per line. No multiline regex.
+# Use re.IGNORECASE when compiling.
+# =============================================================================
+
+# --- CATEGORY 0: PII / DOXXING (Score: 0.0) ---
+\b(?:ssn|social\s+security\s+number)\b
+\b\d{3}-\d{2}-\d{4}\b
+\b(?:my|his|her|their)\s+address\s+is\b
+\b(?:my|his|her|their)\s+(?:phone|cell)\s+number\s+is\b
+\b(?:dox|doxx|doxxing)\b
+\b(?:here\s+is)\s+(?:his|her|their)\s+(?:number|address)\b
+\b(?:leak|post|share)\s+(?:his|her|their)\s+(?:address|phone|number)\b
+
+# --- CATEGORY 1: SELF-HARM ACTIONS (Score: 0.0) ---
+\b(?:kill\s+myself|end\s+my\s+life|want\s+to\s+die|end\s+it\s+all|goodbye\s+world)\b
+\b(?:i\s*(?:am|'m)\s+suicidal|suicidal\s+thoughts|thoughts\s+of\s+self[-\s]?harm)\b
+\b(?:do\s+not\s+want\s+to\s+be\s+alive|don'?t\s+want\s+to\s+be\s+alive)\b
+\b(?:slit\s+my\s+wrists|cutting\s+myself|self[-\s]?harm|self[-\s]?mutilat|self[-\s]?hurt)\b
+\b(?:hanging\s+myself|jump\s+off\s+(?:a\s+)?bridge|overdose\s+on\s+pills|carbon\s+monoxide\s+suicide)\b
+\b(?:anorexia|bulimia|pro-ana|pro-mia|thinspo|starve\s+myself|purge\s+after\s+eating)\b
+\b(?:how\s+to)\s+(?:die|kill\s+myself)\s+(?:painlessly|quickly)\b
+\b(?:suicide)\s+(?:note|letter|methods?)\b
+\b(?:commit|attempt|perform|execute)\s+(?:suicide|self[-\s]?harm)\b
+
+# --- CATEGORY 2: WEAPON & BOMB CONSTRUCTION (Score: 0.0) ---
+\b(?:make|build|create|construct|assemble|synthesize|manufacture|design)\s+(?:a|an)?\s*(?:bomb|explosive|ied|grenade|detonator|warhead|napalm|dirty\s+bomb|nuke)\b
+\b(?:make|build|create|construct|assemble|manufacture|modify)\s+(?:a|an)?\s*(?:gun|firearm|rifle|pistol|silencer|suppressor|automatic\s+weapon|ghost\s+gun)\b
+\b(?:pipe\s+bomb|pressure\s+cooker\s+bomb|molotov\s+cocktail|ied|detonator|gunpowder|atom\s+bomb)\b
+\b(?:3d\s+printed\s+gun|cnc\s+gun|ghost\s+gun)\b
+\b(?:ingredients|recipe|materials|instructions|guide)\s+for\s+(?:bomb|explosive|ied|poison\s+gas)\b
+\b(?:how\s+to|ways\s+to|steps?\s+to|guide\s+to)\s+(?:make|build|assemble|construct)\s+(?:an?\s+)?(?:improvised\s+)?(?:explosive|bomb)\b
+\bhow to (?:make|build|create|synthesize|manufacture|brew|cook|produce) (?:a |an )?(?:weapon|bomb|explosive|poison|meth|fentanyl|heroin|cocaine|crack|drugs?)\b
+
+# --- CATEGORY 3: VIOLENCE, KIDNAPPING, BODY DISPOSAL (Score: 0.0) ---
+\b(?:mass\s+shooting|school\s+shooting|active\s+shooter|massacre|genocide|ethnic\s+cleansing)\b
+\b(?:assassinate|behead|decapitat)\b
+\b(?:strangle|throat\s+slit|stab(?:\s+)?(?:someone|a\s+person|people))\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|guide\s+to|plan\s+to|ways\s+to)\s+(?:unalive|murder|kill|assassinate)\s+(?:someone|a\s+person|people|my\s+(?:spouse|partner|husband|wife|ex))\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|guide\s+to|plan\s+to|ways\s+to)\s+(?:kidnap|abduct)\s+(?:a\s+person|someone|a\s+kid|a\s+child)\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|ways\s+to)\s+(?:poison|drug)\s+(?:someone|my\s+(?:spouse|partner|husband|wife|ex))\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|ways\s+to|best\s+way\s+to|where\s+to)\s+(?:hide|dispose\s+of|get\s+rid\s+of|conceal)\s+(?:a\s+|the\s+)?(?:dead\s+)?(?:body|corpse|remains)\b
+\b(?:how\s+to|best\s+way\s+to)\s+(?:make\s+someone\s+disappear|ambush\s+someone)\b
+\b(?:how\s+to|best\s+way\s+to)\s+(?:stalk)\s+(?:my\s+)?ex\b
+\b(?:human\s+trafficking|organ\s+harvesting|hostage|torture|snuff|gore)\b
+
+# --- CATEGORY 3B: TERRORISM SUPPORT (Score: 0.0) ---
+\b(?:join|support|fund|donate|recruit|plan)\s+(?:an?\s+)?(?:isis|al-qaeda|taliban)\b
+\b(?:terror(?:ist)?\s+(?:attack|plot|cell|group|jihad))\b
+
+# --- CATEGORY 4: EXPLICIT & NSFW (Score: 0.0) ---
+\b(?:porn(?:ography)?|hardcore|xxx|hentai|erotica|sex\s+(?:video|tape|act|scene))\b
+\b(?:escort\s+service|prostitution|sugar\s+baby|camgirl|voyeur|upskirt|deepfake\s+porn)\b
+\b(?:watch|stream|download|leak|record)\s+(?:porn|sex|xxx|hentai|nudes)\b
+\b(?:sexting|bdsm|fetish|bestiality|incest)\b
+\b(?:child\s+(?:porn|nude|sex|explicit)|underage\s+(?:sex|nude|porn)|csam|pedophil)\b
+\b(?:explicit|sexual|porn)\s+(?:images?|videos?)\s+(?:of|for)\s+(?:minors?|underage|teens?)\b
+
+# --- CATEGORY 5: DRUGS SALES / SOURCING / MANUFACTURING (Score: 0.0) ---
+\b(?:meth\s+lab|cook\s+crack)\b
+\b(?:where\s+to\s+buy|buy|source)\s+(?:heroin|cocaine|fentanyl|meth)\b
+\b(?:illegal\s+drug\s+source|drug\s+dealer|drug\s+mule|cartel|drug\s+trafficking)\b
+\b(?:manufacture|cook|produce|distribute|deal|sell|traffic)\s+(?:drugs|meth|heroin|fentanyl|cocaine|crack)\b
+\b(?:where\s+to|how\s+to)\s+(?:get|score|purchase)\s+(?:illegal\s+drugs|meth|fentanyl|heroin)\b
+
+# --- CATEGORY 6: CYBERCRIME & THEFT (Score: 0.0) ---
+# High precision "how to + verb + target" patterns only (avoid generic "hack" matches)
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|ways\s+to|teach\s+me\s+to|steps?\s+to)\s+(?:hack|crack|bypass|exploit|breach|ddos)\s+(?:\s+\w+){0,4}\s+(?:account|password|login|2fa|otp|email\s+account|bank\s+account|server|database|website|firewall|wifi)\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|ways\s+to|teach\s+me\s+to|steps?\s+to)\s+(?:phish|scam|defraud)\s+(?:\s+\w+){0,4}\s+(?:someone|people|users|customers|a\s+business)\b
+\b(?:how\s+to|how\s+do\s+i|how\s+can\s+i|ways\s+to|teach\s+me\s+to|steps?\s+to)\s+(?:steal|rob|shoplift|burgle|heist)\s+(?:\s+\w+){0,4}\s+(?:money|credit\s*card|identity|ssn|passport|car|house|store|bank)\b
+\b(?:stolen\s+credit\s+card|credit\s+card\s+numbers|carding|stolen\s+data)\b
+\b(?:bypass\s+encryption|dark\s+web\s+(?:market|links|onion))\b
+\b(?:money\s+laundering|arson|burglary|robbery)\b
+
+# --- CATEGORY 7: HATE & EXTREMISM (Score: 0.0) ---
+\b(?:white\s+supremacy|neo-nazi|kkk|lynching|hate\s+group|racial\s+extermination)\b
+\b(?:join|recruit(?:ment)?|support)\s+(?:an?\s+)?extremist(?:\s+group)?\b
+\b(?:holocaust\s+denial|anti-semitic|islamophobic|homophobic|transphobic)\b
+\b(?:ethnic\s+(?:slur|cleansing)|racial\s+(?:purity|hatred|war))\b
+\b(?:nigger|nigga|faggot|kike|spic|chink|wetback|raghead|pajeet)\b
+\b(?:kill\s+all|gas\s+the|ban\s+all)\b(?:\s+\w+){0,6}\s+\b(?:muslims|jews|christians|immigrants|women|men|gay\s+people|trans\s+people)\b
+\b(?:are|r)\s+(?:animals|vermin|subhuman)\b
+
+# --- CATEGORY 8: TRAGEDY / GRIEF (soft-cap, handled by fuzzy scorer) ---
+# intentionally not hard blocked
+
+# --- CATEGORY 9: FINANCIAL DISTRESS (soft-cap, handled by fuzzy scorer) ---
+# intentionally not hard blocked
+
+# --- CATEGORY 10: SCAMS & FRAUD (soft-cap, handled by fuzzy scorer) ---
+# intentionally not hard blocked

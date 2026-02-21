@@ -1,0 +1,12 @@
+{
+  "query": "affordable whey protein supplement under $40",
+  "context": {
+    "age": 23,
+    "gender": "male",
+    "interests": [
+      "gym equipment",
+      "supplements",
+      "fitness"
+    ]
+  }
+}

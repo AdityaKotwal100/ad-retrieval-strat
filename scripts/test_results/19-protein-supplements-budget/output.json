@@ -1,0 +1,632 @@
+{
+  "ad_eligibility": 0.9686,
+  "extracted_categories": [
+    "supplements",
+    "snacks"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_00177",
+      "relevance_score": 0.295701,
+      "internal_score": 0.548359,
+      "title": "EnduroPeak BCAA: Maximize Recovery",
+      "advertiser": "EnduroPeak",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/177",
+      "creative_format": "text",
+      "budget_remaining": 41989.31
+    },
+    {
+      "campaign_id": "camp_00027",
+      "relevance_score": 0.293119,
+      "internal_score": 0.543573,
+      "title": "Revive Electrolytes: Hydrate Smart",
+      "advertiser": "HydrateNow",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/27",
+      "creative_format": "carousel",
+      "budget_remaining": 35397.97
+    },
+    {
+      "campaign_id": "camp_00539",
+      "relevance_score": 0.285081,
+      "internal_score": 0.528666,
+      "title": "Peak Performance: Endurance Fuel",
+      "advertiser": "Peak Performance",
+      "category": "supplements",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/539",
+      "creative_format": "display",
+      "budget_remaining": 75161.14
+    },
+    {
+      "campaign_id": "camp_01995",
+      "relevance_score": 0.229374,
+      "internal_score": 0.425361,
+      "title": "Trader Joe's: Unique, Delicious Treats",
+      "advertiser": "Trader Joe's",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1995",
+      "creative_format": "carousel",
+      "budget_remaining": 80693.68
+    },
+    {
+      "campaign_id": "camp_01878",
+      "relevance_score": 0.199189,
+      "internal_score": 0.369384,
+      "title": "Crisp 'n' Crunch: Healthy Veggie Chips",
+      "advertiser": "Veggie Delight",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1878",
+      "creative_format": "video",
+      "budget_remaining": 70563.61
+    },
+    {
+      "campaign_id": "camp_01739",
+      "relevance_score": 0.197245,
+      "internal_score": 0.365779,
+      "title": "Trailblazer: Energy Bites, On-The-Go Fuel",
+      "advertiser": "Trailblazer",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1739",
+      "creative_format": "display",
+      "budget_remaining": 27695.39
+    },
+    {
+      "campaign_id": "camp_01635",
+      "relevance_score": 0.196838,
+      "internal_score": 0.365025,
+      "title": "Wholesome Harvest Snacks: The Healthy Choice",
+      "advertiser": "Wholesome Harvest",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1635",
+      "creative_format": "video",
+      "budget_remaining": 26311.03
+    },
+    {
+      "campaign_id": "camp_01960",
+      "relevance_score": 0.193295,
+      "internal_score": 0.358453,
+      "title": "Sparkling Citrus: Zesty Refreshment Daily",
+      "advertiser": "Sparkling Citrus",
+      "category": "beverages",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1960",
+      "creative_format": "video",
+      "budget_remaining": 81388.79
+    },
+    {
+      "campaign_id": "camp_00442",
+      "relevance_score": 0.193114,
+      "internal_score": 0.358118,
+      "title": "Under Armour: ColdGear Keeps You Warm",
+      "advertiser": "Under Armour",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/442",
+      "creative_format": "carousel",
+      "budget_remaining": 13603.99
+    },
+    {
+      "campaign_id": "camp_02098",
+      "relevance_score": 0.184633,
+      "internal_score": 0.34239,
+      "title": "Sunrise Brew: Your Daily Coffee Ritual",
+      "advertiser": "Sunrise Brew",
+      "category": "coffee",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2098",
+      "creative_format": "display",
+      "budget_remaining": 49266.91
+    },
+    {
+      "campaign_id": "camp_07099",
+      "relevance_score": 0.181579,
+      "internal_score": 0.336728,
+      "title": "Senior Dog Joint Support Supplements",
+      "advertiser": "VetSmart",
+      "category": "pet health",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7099",
+      "creative_format": "display",
+      "budget_remaining": 29932.35
+    },
+    {
+      "campaign_id": "camp_02030",
+      "relevance_score": 0.172407,
+      "internal_score": 0.319718,
+      "title": "DoorDash: Food Delivery, Fast and Easy",
+      "advertiser": "DoorDash",
+      "category": "meal delivery",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2030",
+      "creative_format": "display",
+      "budget_remaining": 54864.13
+    },
+    {
+      "campaign_id": "camp_01704",
+      "relevance_score": 0.167255,
+      "internal_score": 0.310164,
+      "title": "Simple Greens: Organic Goodness Delivered",
+      "advertiser": "Simple Greens",
+      "category": "organic food",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/1704",
+      "creative_format": "carousel",
+      "budget_remaining": 62014.14
+    },
+    {
+      "campaign_id": "camp_02071",
+      "relevance_score": 0.163658,
+      "internal_score": 0.303494,
+      "title": "Instacart: Groceries Delivered in Minutes",
+      "advertiser": "Instacart",
+      "category": "organic food",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2071",
+      "creative_format": "native",
+      "budget_remaining": 51586.65
+    },
+    {
+      "campaign_id": "camp_00053",
+      "relevance_score": 0.145938,
+      "internal_score": 0.270634,
+      "title": "Garmin Forerunner: Track Every Stride",
+      "advertiser": "Garmin",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/53",
+      "creative_format": "video",
+      "budget_remaining": 21936.23
+    },
+    {
+      "campaign_id": "camp_00199",
+      "relevance_score": 0.144476,
+      "internal_score": 0.267922,
+      "title": "Fitbit Charge 6: Track Your Day",
+      "advertiser": "Fitbit",
+      "category": "fitness trackers",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/199",
+      "creative_format": "carousel",
+      "budget_remaining": 75777.18
+    },
+    {
+      "campaign_id": "camp_00320",
+      "relevance_score": 0.13885,
+      "internal_score": 0.257488,
+      "title": "Find Your Inner Peace",
+      "advertiser": "Lululemon",
+      "category": "yoga gear",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/320",
+      "creative_format": "display",
+      "budget_remaining": 76147.16
+    },
+    {
+      "campaign_id": "camp_05941",
+      "relevance_score": 0.132938,
+      "internal_score": 0.246525,
+      "title": "L'Oreal Elvive: Hair Transformation",
+      "advertiser": "L'Oreal",
+      "category": "haircare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5941",
+      "creative_format": "video",
+      "budget_remaining": 23696.04
+    },
+    {
+      "campaign_id": "camp_00436",
+      "relevance_score": 0.131257,
+      "internal_score": 0.243407,
+      "title": "Elevate Your Run with ASICS GEL-Nimbus",
+      "advertiser": "ASICS",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/436",
+      "creative_format": "display",
+      "budget_remaining": 39290.12
+    },
+    {
+      "campaign_id": "camp_00085",
+      "relevance_score": 0.128923,
+      "internal_score": 0.239081,
+      "title": "Zenith Yoga Mats: Find Your Center",
+      "advertiser": "Zenith",
+      "category": "yoga gear",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/85",
+      "creative_format": "carousel",
+      "budget_remaining": 32653.5
+    },
+    {
+      "campaign_id": "camp_05500",
+      "relevance_score": 0.128524,
+      "internal_score": 0.23834,
+      "title": "Healthy Scalp Conditioner: Tea Tree",
+      "advertiser": "Neutrogena",
+      "category": "haircare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5500",
+      "creative_format": "native",
+      "budget_remaining": 95867.72
+    },
+    {
+      "campaign_id": "camp_00296",
+      "relevance_score": 0.127932,
+      "internal_score": 0.237242,
+      "title": "ZenFlow Yoga Mat: Find Your Center",
+      "advertiser": "Zenith Wellness",
+      "category": "yoga gear",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/296",
+      "creative_format": "video",
+      "budget_remaining": 80662.71
+    },
+    {
+      "campaign_id": "camp_00458",
+      "relevance_score": 0.124583,
+      "internal_score": 0.231032,
+      "title": "Reebok Nano: Dominate Your WOD",
+      "advertiser": "Reebok",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/458",
+      "creative_format": "video",
+      "budget_remaining": 42688.59
+    },
+    {
+      "campaign_id": "camp_04056",
+      "relevance_score": 0.116636,
+      "internal_score": 0.216294,
+      "title": "Headspace: Meditation for a Happier Life",
+      "advertiser": "Headspace",
+      "category": "mental health",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4056",
+      "creative_format": "display",
+      "budget_remaining": 3637.67
+    },
+    {
+      "campaign_id": "camp_07485",
+      "relevance_score": 0.116215,
+      "internal_score": 0.215513,
+      "title": "Grain Free Goodness: Salmon Recipe",
+      "advertiser": "Purina",
+      "category": "pet food",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7485",
+      "creative_format": "native",
+      "budget_remaining": 14214.24
+    },
+    {
+      "campaign_id": "camp_05828",
+      "relevance_score": 0.111578,
+      "internal_score": 0.206914,
+      "title": "Estee Lauder: Double Wear Foundation",
+      "advertiser": "Estee Lauder",
+      "category": "makeup",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5828",
+      "creative_format": "video",
+      "budget_remaining": 22736.44
+    },
+    {
+      "campaign_id": "camp_04026",
+      "relevance_score": 0.106783,
+      "internal_score": 0.198023,
+      "title": "Reliant ECG: Monitor Your Heart",
+      "advertiser": "Reliant Medical",
+      "category": "medical devices",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4026",
+      "creative_format": "carousel",
+      "budget_remaining": 22907.45
+    },
+    {
+      "campaign_id": "camp_04254",
+      "relevance_score": 0.105556,
+      "internal_score": 0.195748,
+      "title": "AcuClear Hearing Aids: Hear Brilliantly Again",
+      "advertiser": "AcuClear",
+      "category": "medical devices",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4254",
+      "creative_format": "display",
+      "budget_remaining": 97460.3
+    },
+    {
+      "campaign_id": "camp_05924",
+      "relevance_score": 0.099692,
+      "internal_score": 0.184873,
+      "title": "Sephora: Rare Beauty Blush Collection",
+      "advertiser": "Sephora",
+      "category": "makeup",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5924",
+      "creative_format": "native",
+      "budget_remaining": 59988.92
+    },
+    {
+      "campaign_id": "camp_06347",
+      "relevance_score": 0.083072,
+      "internal_score": 0.154053,
+      "title": "Hulu: Next Day TV - Watch Now",
+      "advertiser": "Hulu",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6347",
+      "creative_format": "display",
+      "budget_remaining": 89392.37
+    },
+    {
+      "campaign_id": "camp_06153",
+      "relevance_score": 0.083053,
+      "internal_score": 0.154017,
+      "title": "Hulu: Stream Your Shows Your Way",
+      "advertiser": "Hulu",
+      "category": "streaming services",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6153",
+      "creative_format": "display",
+      "budget_remaining": 98275.78
+    },
+    {
+      "campaign_id": "camp_07323",
+      "relevance_score": 0.082523,
+      "internal_score": 0.153034,
+      "title": "Chewy: Same-Day Pet Supply Delivery",
+      "advertiser": "Chewy",
+      "category": "pet accessories",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7323",
+      "creative_format": "display",
+      "budget_remaining": 99726.56
+    }
+  ],
+  "latency_ms": 8.45,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 32,
+    "filter_drops": {
+      "age_range": 1543,
+      "gender": 103,
+      "negative_keyword": 9,
+      "price_hard": 306,
+      "category_gender_mismatch": 7
+    },
+    "n_results": 32,
+    "gated": false,
+    "timing_ms": {
+      "embed": 2.07,
+      "parallel_stages": 1.89,
+      "parse": 0.48,
+      "filter_and_rerank": 3.65,
+      "total": 8.45
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.0199,
+      "commercial_boost": 0.9882,
+      "top_cluster": "financial_hardship",
+      "top_cluster_sim": 0.1879,
+      "commercial_sim": 0.3638,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.0199,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 2,
+    "categories": [
+      {
+        "category": "supplements",
+        "score": 0.5596
+      },
+      {
+        "category": "snacks",
+        "score": 0.4811
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": 40.0,
+      "attribute_intents": {},
+      "negative_terms": [],
+      "user_location": null
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_00177",
+        "base_score": 0.392006,
+        "final_score": 0.548359,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.85444,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 23 in [18,24]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.0375,
+            "reason": "overlap: {'fitness', 'gym', 'equipment'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.08394,
+            "reason": "cat_match=supplements(conf=0.56)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.007333,
+            "reason": "feature_terms: frozenset({'under'}); benefit_terms: frozenset({'affordable'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.00988,
+            "reason": "over_budget: $44.939998626708984 > $40.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00027",
+        "base_score": 0.392006,
+        "final_score": 0.543573,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.85444,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 23 in [18,24]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.0375,
+            "reason": "overlap: {'fitness', 'gym', 'equipment'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.08394,
+            "reason": "cat_match=supplements(conf=0.56)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.006667,
+            "reason": "feature_terms: frozenset({'under'}); benefit_terms: frozenset({'affordable'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.01606,
+            "reason": "over_budget: $48.029998779296875 > $40.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_00539",
+        "base_score": 0.392206,
+        "final_score": 0.528666,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.85444,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 23 in [18,24]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.0125,
+            "reason": "overlap: {'fitness'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.08394,
+            "reason": "cat_match=supplements(conf=0.56)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.008,
+            "reason": "feature_terms: frozenset({'under'}); benefit_terms: frozenset({'affordable'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": -0.01572,
+            "reason": "over_budget: $47.86000061035156 > $40.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_01995",
+        "base_score": 0.333363,
+        "final_score": 0.425361,
+        "active_params": 3,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.85444,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 23 in [18,24]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.0125,
+            "reason": "overlap: {'equipment'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'items', 'specialty', 'healthy', 'snacks', 'seasonal'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.072165,
+            "reason": "cat_match=snacks(conf=0.48)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.007333,
+            "reason": "feature_terms: frozenset({'under'}); benefit_terms: frozenset({'affordable'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $23.6299991607666 <= $40.0"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_01878",
+        "base_score": 0.339361,
+        "final_score": 0.369384,
+        "active_params": 3,
+        "coverage_ratio": 0.6667,
+        "query_potential_max": 1.85444,
+        "deltas": [
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 23 in [18,24]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": -0.15,
+            "reason": "taxonomy_mismatch: query has no overlap with {'vegetable', 'healthy', 'snacks', 'chips'}"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.072165,
+            "reason": "cat_match=snacks(conf=0.48)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.007857,
+            "reason": "feature_terms: frozenset({'under'}); benefit_terms: frozenset({'affordable'})"
+          },
+          {
+            "component": "price_alignment",
+            "delta": 0.08,
+            "reason": "under_budget: $14.350000381469727 <= $40.0"
+          }
+        ]
+      }
+    ]
+  }
+}

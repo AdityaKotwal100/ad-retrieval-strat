@@ -1,0 +1,12 @@
+{
+  "query": "Nike road running shoes with high cushioning",
+  "context": {
+    "age": 26,
+    "gender": "male",
+    "location": "Chicago, IL",
+    "interests": [
+      "running",
+      "fitness"
+    ]
+  }
+}

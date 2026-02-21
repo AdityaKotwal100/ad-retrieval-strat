@@ -1,0 +1,1691 @@
+{
+  "ad_eligibility": 0.8284,
+  "extracted_categories": [
+    "car accessories",
+    "electric vehicles",
+    "used cars",
+    "luxury cars"
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "camp_02819",
+      "relevance_score": 0.471787,
+      "internal_score": 0.794658,
+      "title": "Evolve Motors: The Future is Now",
+      "advertiser": "Evolve Motors",
+      "category": "electric vehicles",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2819",
+      "creative_format": "native",
+      "budget_remaining": 70541.06
+    },
+    {
+      "campaign_id": "camp_10479",
+      "relevance_score": 0.435306,
+      "internal_score": 0.733212,
+      "title": "Zephyr EV: Compact Electric Commuter",
+      "advertiser": "Zephyr Motors",
+      "category": "electric vehicles",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10479",
+      "creative_format": "display",
+      "budget_remaining": 63566.49
+    },
+    {
+      "campaign_id": "camp_03053",
+      "relevance_score": 0.409548,
+      "internal_score": 0.689827,
+      "title": "SecureRide Dash Cam: Drive Safer",
+      "advertiser": "SecureRide",
+      "category": "car accessories",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3053",
+      "creative_format": "text",
+      "budget_remaining": 64365.43
+    },
+    {
+      "campaign_id": "camp_03193",
+      "relevance_score": 0.399923,
+      "internal_score": 0.673615,
+      "title": "Protect Your Seats: SeatShield Covers",
+      "advertiser": "CarComfort",
+      "category": "car accessories",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3193",
+      "creative_format": "native",
+      "budget_remaining": 61991.76
+    },
+    {
+      "campaign_id": "camp_03245",
+      "relevance_score": 0.390673,
+      "internal_score": 0.658034,
+      "title": "Floor Mats: Protect Your Car",
+      "advertiser": "CarComfort",
+      "category": "car accessories",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3245",
+      "creative_format": "display",
+      "budget_remaining": 14768.3
+    },
+    {
+      "campaign_id": "camp_02998",
+      "relevance_score": 0.388903,
+      "internal_score": 0.655053,
+      "title": "The Future of Driving: Solara EV",
+      "advertiser": "Automotion",
+      "category": "electric vehicles",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2998",
+      "creative_format": "display",
+      "budget_remaining": 1889.05
+    },
+    {
+      "campaign_id": "camp_02971",
+      "relevance_score": 0.382626,
+      "internal_score": 0.64448,
+      "title": "Tesla Model 3: Electrify Your Drive",
+      "advertiser": "Tesla",
+      "category": "electric vehicles",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2971",
+      "creative_format": "text",
+      "budget_remaining": 67622.49
+    },
+    {
+      "campaign_id": "camp_02771",
+      "relevance_score": 0.382287,
+      "internal_score": 0.64391,
+      "title": "ArmorAll: Protect Your Investment",
+      "advertiser": "ArmorAll",
+      "category": "car accessories",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2771",
+      "creative_format": "carousel",
+      "budget_remaining": 20548.41
+    },
+    {
+      "campaign_id": "camp_02849",
+      "relevance_score": 0.351173,
+      "internal_score": 0.591502,
+      "title": "SparkCharge EV: The City Solution",
+      "advertiser": "SparkCharge",
+      "category": "electric vehicles",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2849",
+      "creative_format": "native",
+      "budget_remaining": 44076.56
+    },
+    {
+      "campaign_id": "camp_03003",
+      "relevance_score": 0.319991,
+      "internal_score": 0.53898,
+      "title": "Geico: 15 Minutes Could Save",
+      "advertiser": "Geico",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3003",
+      "creative_format": "carousel",
+      "budget_remaining": 27544.31
+    },
+    {
+      "campaign_id": "camp_02911",
+      "relevance_score": 0.297402,
+      "internal_score": 0.500931,
+      "title": "Geico: Save Money On Car Insurance",
+      "advertiser": "Geico",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2911",
+      "creative_format": "display",
+      "budget_remaining": 72165.27
+    },
+    {
+      "campaign_id": "camp_03093",
+      "relevance_score": 0.276515,
+      "internal_score": 0.46575,
+      "title": "Geico: 15 Minutes Can Save",
+      "advertiser": "Geico",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3093",
+      "creative_format": "video",
+      "budget_remaining": 82352.48
+    },
+    {
+      "campaign_id": "camp_02921",
+      "relevance_score": 0.265593,
+      "internal_score": 0.447354,
+      "title": "RoadGuard: Car Insurance Peace of Mind",
+      "advertiser": "RoadGuard",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2921",
+      "creative_format": "video",
+      "budget_remaining": 26353.43
+    },
+    {
+      "campaign_id": "camp_03198",
+      "relevance_score": 0.265475,
+      "internal_score": 0.447156,
+      "title": "Geico: 15 Minutes Could Save",
+      "advertiser": "Geico",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3198",
+      "creative_format": "carousel",
+      "budget_remaining": 50718.29
+    },
+    {
+      "campaign_id": "camp_02940",
+      "relevance_score": 0.254249,
+      "internal_score": 0.428246,
+      "title": "SwiftSure Insurance: Drive with Confidence",
+      "advertiser": "SwiftSure Insurance",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2940",
+      "creative_format": "native",
+      "budget_remaining": 51340.97
+    },
+    {
+      "campaign_id": "camp_09626",
+      "relevance_score": 0.254149,
+      "internal_score": 0.428078,
+      "title": "Drive Safe, Save Big Auto",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9626",
+      "creative_format": "carousel",
+      "budget_remaining": 66483.2
+    },
+    {
+      "campaign_id": "camp_03011",
+      "relevance_score": 0.252851,
+      "internal_score": 0.425892,
+      "title": "BudgetBuddy Car Insurance - Save Today",
+      "advertiser": "BudgetBuddy",
+      "category": "car insurance",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3011",
+      "creative_format": "carousel",
+      "budget_remaining": 45705.19
+    },
+    {
+      "campaign_id": "camp_09692",
+      "relevance_score": 0.220134,
+      "internal_score": 0.370785,
+      "title": "Progressive: Bundle Auto & Home, Save More",
+      "advertiser": "Progressive",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9692",
+      "creative_format": "native",
+      "budget_remaining": 47522.52
+    },
+    {
+      "campaign_id": "camp_09572",
+      "relevance_score": 0.216054,
+      "internal_score": 0.363912,
+      "title": "State Farm: Like a Good Neighbor",
+      "advertiser": "State Farm",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9572",
+      "creative_format": "text",
+      "budget_remaining": 10923.47
+    },
+    {
+      "campaign_id": "camp_09427",
+      "relevance_score": 0.215782,
+      "internal_score": 0.363455,
+      "title": "Farmers: Smart Auto Insurance",
+      "advertiser": "Farmers",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9427",
+      "creative_format": "video",
+      "budget_remaining": 96836.48
+    },
+    {
+      "campaign_id": "camp_03100",
+      "relevance_score": 0.194797,
+      "internal_score": 0.328108,
+      "title": "Discount Auto: Used Car Savings",
+      "advertiser": "Discount Auto",
+      "category": "used cars",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3100",
+      "creative_format": "native",
+      "budget_remaining": 71275.91
+    },
+    {
+      "campaign_id": "camp_09611",
+      "relevance_score": 0.18604,
+      "internal_score": 0.313359,
+      "title": "Drive Safe, Save More With Geico",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9611",
+      "creative_format": "text",
+      "budget_remaining": 86546.76
+    },
+    {
+      "campaign_id": "camp_02711",
+      "relevance_score": 0.182638,
+      "internal_score": 0.307627,
+      "title": "Everest Explorers: Adventure Travel Gear",
+      "advertiser": "Everest Explorers",
+      "category": "travel gear",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2711",
+      "creative_format": "carousel",
+      "budget_remaining": 59124.8
+    },
+    {
+      "campaign_id": "camp_03214",
+      "relevance_score": 0.125325,
+      "internal_score": 0.211092,
+      "title": "AutoZone: Your Car, Our Parts",
+      "advertiser": "AutoZone",
+      "category": "auto parts",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3214",
+      "creative_format": "text",
+      "budget_remaining": 8403.21
+    },
+    {
+      "campaign_id": "camp_03229",
+      "relevance_score": 0.119407,
+      "internal_score": 0.201125,
+      "title": "AutoZone: All Your Auto Needs",
+      "advertiser": "AutoZone",
+      "category": "auto parts",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3229",
+      "creative_format": "display",
+      "budget_remaining": 30251.68
+    },
+    {
+      "campaign_id": "camp_02760",
+      "relevance_score": 0.097169,
+      "internal_score": 0.163667,
+      "title": "Drive with Confidence: Budget Tires",
+      "advertiser": "Budget Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2760",
+      "creative_format": "display",
+      "budget_remaining": 74882.75
+    },
+    {
+      "campaign_id": "camp_01251",
+      "relevance_score": 0.095002,
+      "internal_score": 0.160018,
+      "title": "Luxury Timepiece for Special Occasions",
+      "advertiser": "Aurum Lux",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1251",
+      "creative_format": "display",
+      "budget_remaining": 51257.04
+    },
+    {
+      "campaign_id": "camp_09267",
+      "relevance_score": 0.094032,
+      "internal_score": 0.158383,
+      "title": "Drive with Confidence: Geico Auto Insurance",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9267",
+      "creative_format": "native",
+      "budget_remaining": 91147.53
+    },
+    {
+      "campaign_id": "camp_00460",
+      "relevance_score": 0.084391,
+      "internal_score": 0.142145,
+      "title": "Zen Activewear: Find Your Inner Peace",
+      "advertiser": "Zen Activewear",
+      "category": "yoga gear",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/460",
+      "creative_format": "carousel",
+      "budget_remaining": 57270.6
+    },
+    {
+      "campaign_id": "camp_03151",
+      "relevance_score": 0.075576,
+      "internal_score": 0.127297,
+      "title": "Unleash Your Drive with Apex Tires",
+      "advertiser": "Apex Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3151",
+      "creative_format": "native",
+      "budget_remaining": 84151.68
+    },
+    {
+      "campaign_id": "camp_09370",
+      "relevance_score": 0.074049,
+      "internal_score": 0.124724,
+      "title": "NextGuard: Safe Driving Starts Here.",
+      "advertiser": "NextGuard",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9370",
+      "creative_format": "display",
+      "budget_remaining": 58908.97
+    },
+    {
+      "campaign_id": "camp_02833",
+      "relevance_score": 0.067174,
+      "internal_score": 0.113145,
+      "title": "OffRoader XT: Conquering Any Terrain",
+      "advertiser": "TrailBlazer Tires",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2833",
+      "creative_format": "display",
+      "budget_remaining": 94345.61
+    },
+    {
+      "campaign_id": "camp_09410",
+      "relevance_score": 0.063532,
+      "internal_score": 0.10701,
+      "title": "Liberty Mutual Saves You Money",
+      "advertiser": "Liberty Mutual",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9410",
+      "creative_format": "text",
+      "budget_remaining": 89261.29
+    },
+    {
+      "campaign_id": "camp_09431",
+      "relevance_score": 0.057905,
+      "internal_score": 0.097533,
+      "title": "Geico: Auto Insurance. Simple. Fast.",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9431",
+      "creative_format": "text",
+      "budget_remaining": 51834.79
+    },
+    {
+      "campaign_id": "camp_09486",
+      "relevance_score": 0.056692,
+      "internal_score": 0.095489,
+      "title": "Liberty Mutual: Only Pay What's Needed",
+      "advertiser": "Liberty Mutual",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9486",
+      "creative_format": "display",
+      "budget_remaining": 83018.16
+    },
+    {
+      "campaign_id": "camp_09332",
+      "relevance_score": 0.053848,
+      "internal_score": 0.0907,
+      "title": "State Farm Drive Safe & Save",
+      "advertiser": "State Farm",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9332",
+      "creative_format": "text",
+      "budget_remaining": 58268.86
+    },
+    {
+      "campaign_id": "camp_09671",
+      "relevance_score": 0.052362,
+      "internal_score": 0.088197,
+      "title": "Geico Affordable Auto Coverage",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9671",
+      "creative_format": "text",
+      "budget_remaining": 39652.02
+    },
+    {
+      "campaign_id": "camp_09512",
+      "relevance_score": 0.049635,
+      "internal_score": 0.083603,
+      "title": "DriveWise: Safe Driver Discounts",
+      "advertiser": "Allstate",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9512",
+      "creative_format": "display",
+      "budget_remaining": 54261.35
+    },
+    {
+      "campaign_id": "camp_03069",
+      "relevance_score": 0.049626,
+      "internal_score": 0.083589,
+      "title": "RoadWarrior: Heavy-Duty Truck Tires",
+      "advertiser": "RoadWarrior",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3069",
+      "creative_format": "display",
+      "budget_remaining": 84335.67
+    },
+    {
+      "campaign_id": "camp_10714",
+      "relevance_score": 0.046986,
+      "internal_score": 0.079142,
+      "title": "Ecoflow Delta Pro: Power Independence",
+      "advertiser": "Ecoflow",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10714",
+      "creative_format": "text",
+      "budget_remaining": 80066.34
+    },
+    {
+      "campaign_id": "camp_09492",
+      "relevance_score": 0.04686,
+      "internal_score": 0.078929,
+      "title": "SafeDrive Auto Insurance - Save Now",
+      "advertiser": "SafeDrive",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9492",
+      "creative_format": "video",
+      "budget_remaining": 13274.39
+    },
+    {
+      "campaign_id": "camp_09579",
+      "relevance_score": 0.045692,
+      "internal_score": 0.076962,
+      "title": "TravelSafe: Vacation Coverage, Worldwide Peace",
+      "advertiser": "TravelSafe",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9579",
+      "creative_format": "text",
+      "budget_remaining": 36382.41
+    },
+    {
+      "campaign_id": "camp_02800",
+      "relevance_score": 0.039584,
+      "internal_score": 0.066675,
+      "title": "Honda Civic: The Smart Choice",
+      "advertiser": "Honda",
+      "category": "SUVs",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2800",
+      "creative_format": "text",
+      "budget_remaining": 49899.53
+    },
+    {
+      "campaign_id": "camp_10570",
+      "relevance_score": 0.037377,
+      "internal_score": 0.062957,
+      "title": "ZeroWaste Grocery Delivery",
+      "advertiser": "Loop",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10570",
+      "creative_format": "carousel",
+      "budget_remaining": 41451.57
+    },
+    {
+      "campaign_id": "camp_10564",
+      "relevance_score": 0.035773,
+      "internal_score": 0.060254,
+      "title": "Pela Case: Protect Your Phone, Planet",
+      "advertiser": "Pela",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10564",
+      "creative_format": "native",
+      "budget_remaining": 50804.12
+    },
+    {
+      "campaign_id": "camp_10721",
+      "relevance_score": 0.031606,
+      "internal_score": 0.053237,
+      "title": "SunPower: Power Your Future Greener",
+      "advertiser": "SunPower",
+      "category": "solar panels",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10721",
+      "creative_format": "text",
+      "budget_remaining": 94653.71
+    },
+    {
+      "campaign_id": "camp_09407",
+      "relevance_score": 0.029855,
+      "internal_score": 0.050286,
+      "title": "Geico: 15 Minutes Could Save",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9407",
+      "creative_format": "text",
+      "budget_remaining": 20542.98
+    },
+    {
+      "campaign_id": "camp_10541",
+      "relevance_score": 0.029726,
+      "internal_score": 0.050069,
+      "title": "SunPower: Power Your Future, Sustainably",
+      "advertiser": "SunPower",
+      "category": "solar panels",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10541",
+      "creative_format": "text",
+      "budget_remaining": 17839.61
+    },
+    {
+      "campaign_id": "camp_10285",
+      "relevance_score": 0.024482,
+      "internal_score": 0.041237,
+      "title": "SolSource: Backyard Solar Oven",
+      "advertiser": "SolSource",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10285",
+      "creative_format": "video",
+      "budget_remaining": 91030.28
+    },
+    {
+      "campaign_id": "camp_09642",
+      "relevance_score": 0.024277,
+      "internal_score": 0.040891,
+      "title": "Geico Motorcycle Insurance: Ride Protected",
+      "advertiser": "Geico",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9642",
+      "creative_format": "native",
+      "budget_remaining": 20880.68
+    },
+    {
+      "campaign_id": "camp_10506",
+      "relevance_score": 0.024155,
+      "internal_score": 0.040686,
+      "title": "Ecoflow: Power the Outdoors, Sustainably",
+      "advertiser": "Ecoflow",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10506",
+      "creative_format": "text",
+      "budget_remaining": 51327.1
+    },
+    {
+      "campaign_id": "camp_00675",
+      "relevance_score": 0.023856,
+      "internal_score": 0.040182,
+      "title": "HomeGuard Security Starter Package",
+      "advertiser": "HomeGuard",
+      "category": "smart home",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/675",
+      "creative_format": "text",
+      "budget_remaining": 45013.67
+    },
+    {
+      "campaign_id": "camp_10499",
+      "relevance_score": 0.02368,
+      "internal_score": 0.039885,
+      "title": "Blueland: Refill, Not Landfill.",
+      "advertiser": "Blueland",
+      "category": "eco-friendly products",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10499",
+      "creative_format": "video",
+      "budget_remaining": 70781.29
+    },
+    {
+      "campaign_id": "camp_00555",
+      "relevance_score": 0.021546,
+      "internal_score": 0.036291,
+      "title": "AI Powered Assistant: SmartServe",
+      "advertiser": "Oracle",
+      "category": "smart home",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/555",
+      "creative_format": "text",
+      "budget_remaining": 27987.3
+    },
+    {
+      "campaign_id": "camp_01362",
+      "relevance_score": 0.018912,
+      "internal_score": 0.031855,
+      "title": "Urban Edge: Streetwear Collection",
+      "advertiser": "Renegade Clothing",
+      "category": "streetwear",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1362",
+      "creative_format": "video",
+      "budget_remaining": 69042.38
+    },
+    {
+      "campaign_id": "camp_09293",
+      "relevance_score": 0.017261,
+      "internal_score": 0.029074,
+      "title": "Save Big: Auto Insurance Bundling",
+      "advertiser": "InsureAll",
+      "category": "auto insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9293",
+      "creative_format": "text",
+      "budget_remaining": 54518.79
+    },
+    {
+      "campaign_id": "camp_09676",
+      "relevance_score": 0.015974,
+      "internal_score": 0.026906,
+      "title": "Safe Haven Renters Insurance",
+      "advertiser": "Safe Haven",
+      "category": "renters insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9676",
+      "creative_format": "text",
+      "budget_remaining": 69298.51
+    },
+    {
+      "campaign_id": "camp_05323",
+      "relevance_score": 0.014351,
+      "internal_score": 0.024172,
+      "title": "SolarGlow - Smart Garden Lights",
+      "advertiser": "SolarGlow",
+      "category": "smart home",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5323",
+      "creative_format": "video",
+      "budget_remaining": 28005.73
+    },
+    {
+      "campaign_id": "camp_05061",
+      "relevance_score": 0.013087,
+      "internal_score": 0.022043,
+      "title": "Roomba i7+ Self-Emptying Robot Vac",
+      "advertiser": "Roomba",
+      "category": "appliances",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5061",
+      "creative_format": "native",
+      "budget_remaining": 66213.98
+    },
+    {
+      "campaign_id": "camp_06710",
+      "relevance_score": 0.013038,
+      "internal_score": 0.021961,
+      "title": "Corsair iCUE: Control Your Battle Station",
+      "advertiser": "Corsair",
+      "category": "gaming accessories",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6710",
+      "creative_format": "native",
+      "budget_remaining": 80563.32
+    },
+    {
+      "campaign_id": "camp_01265",
+      "relevance_score": 0.012988,
+      "internal_score": 0.021877,
+      "title": "The Voyager Backpack - Adventure Awaits",
+      "advertiser": "Pathfinder Outfitters",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1265",
+      "creative_format": "text",
+      "budget_remaining": 56591.82
+    },
+    {
+      "campaign_id": "camp_10578",
+      "relevance_score": 0.012852,
+      "internal_score": 0.021647,
+      "title": "Tentree Plant 10 Trees With Every Purchase",
+      "advertiser": "Tentree",
+      "category": "sustainable fashion",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10578",
+      "creative_format": "text",
+      "budget_remaining": 49157.17
+    },
+    {
+      "campaign_id": "camp_07509",
+      "relevance_score": 0.011481,
+      "internal_score": 0.019338,
+      "title": "BarkBox: Monthly Dog Toy Fun",
+      "advertiser": "BarkBox",
+      "category": "pet toys",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7509",
+      "creative_format": "text",
+      "budget_remaining": 8034.74
+    },
+    {
+      "campaign_id": "camp_00469",
+      "relevance_score": 0.010068,
+      "internal_score": 0.016958,
+      "title": "Lululemon Align: Effortless Movement, All Day",
+      "advertiser": "Lululemon",
+      "category": "workout apparel",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/469",
+      "creative_format": "carousel",
+      "budget_remaining": 21513.95
+    },
+    {
+      "campaign_id": "camp_04326",
+      "relevance_score": 0.009258,
+      "internal_score": 0.015594,
+      "title": "Clarity Hearing Aids: Hear Life Clearly",
+      "advertiser": "Clarity",
+      "category": "medical devices",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4326",
+      "creative_format": "video",
+      "budget_remaining": 44731.04
+    },
+    {
+      "campaign_id": "camp_08369",
+      "relevance_score": 0.009133,
+      "internal_score": 0.015384,
+      "title": "NextGen CRM: Customer Delight Defined",
+      "advertiser": "NextGen",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8369",
+      "creative_format": "native",
+      "budget_remaining": 20923.92
+    },
+    {
+      "campaign_id": "camp_05216",
+      "relevance_score": 0.008539,
+      "internal_score": 0.014382,
+      "title": "West Elm: Modern Decor Accents",
+      "advertiser": "West Elm",
+      "category": "home decor",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5216",
+      "creative_format": "carousel",
+      "budget_remaining": 79186.4
+    },
+    {
+      "campaign_id": "camp_03931",
+      "relevance_score": 0.008387,
+      "internal_score": 0.014126,
+      "title": "Simplify Dental Care With SmileDirect",
+      "advertiser": "SmileDirectClub",
+      "category": "dental care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/3931",
+      "creative_format": "carousel",
+      "budget_remaining": 8090.28
+    },
+    {
+      "campaign_id": "camp_07258",
+      "relevance_score": 0.007162,
+      "internal_score": 0.012063,
+      "title": "Chewy: Shop Collars and Leashes",
+      "advertiser": "Chewy",
+      "category": "pet accessories",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7258",
+      "creative_format": "display",
+      "budget_remaining": 86338.66
+    },
+    {
+      "campaign_id": "camp_03254",
+      "relevance_score": 0.006796,
+      "internal_score": 0.011447,
+      "title": "RoadGuard: Tire Protection Plan",
+      "advertiser": "TireSafe",
+      "category": "tires",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/3254",
+      "creative_format": "display",
+      "budget_remaining": 96878.94
+    },
+    {
+      "campaign_id": "camp_06848",
+      "relevance_score": 0.006124,
+      "internal_score": 0.010315,
+      "title": "Xbox Series X - Power Your Dreams",
+      "advertiser": "Xbox",
+      "category": "consoles",
+      "vertical": "gaming",
+      "landing_url": "https://example.com/campaign/6848",
+      "creative_format": "display",
+      "budget_remaining": 98272.35
+    },
+    {
+      "campaign_id": "camp_09314",
+      "relevance_score": 0.006116,
+      "internal_score": 0.010302,
+      "title": "Lemonade Renters: Simple & Affordable",
+      "advertiser": "Lemonade",
+      "category": "renters insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9314",
+      "creative_format": "display",
+      "budget_remaining": 35885.14
+    },
+    {
+      "campaign_id": "camp_06218",
+      "relevance_score": 0.005799,
+      "internal_score": 0.009767,
+      "title": "Stream the Blockbuster Summer Movie",
+      "advertiser": "Hulu",
+      "category": "movies",
+      "vertical": "entertainment",
+      "landing_url": "https://example.com/campaign/6218",
+      "creative_format": "display",
+      "budget_remaining": 59490.69
+    },
+    {
+      "campaign_id": "camp_09441",
+      "relevance_score": 0.005616,
+      "internal_score": 0.009459,
+      "title": "LifeSecure: Your Family's Future",
+      "advertiser": "LifeSecure",
+      "category": "life insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9441",
+      "creative_format": "carousel",
+      "budget_remaining": 90532.04
+    },
+    {
+      "campaign_id": "camp_05688",
+      "relevance_score": 0.005273,
+      "internal_score": 0.008882,
+      "title": "Summit Apex: For the Modern Man",
+      "advertiser": "Summit Apex",
+      "category": "men's grooming",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5688",
+      "creative_format": "video",
+      "budget_remaining": 66420.6
+    },
+    {
+      "campaign_id": "camp_10531",
+      "relevance_score": 0.004906,
+      "internal_score": 0.008263,
+      "title": "Save Water, Save the Planet",
+      "advertiser": "AquaSave",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10531",
+      "creative_format": "display",
+      "budget_remaining": 54549.82
+    },
+    {
+      "campaign_id": "camp_02804",
+      "relevance_score": 0.004228,
+      "internal_score": 0.007121,
+      "title": "Hyundai Kona: The Fun SUV",
+      "advertiser": "Hyundai",
+      "category": "SUVs",
+      "vertical": "automotive",
+      "landing_url": "https://example.com/campaign/2804",
+      "creative_format": "carousel",
+      "budget_remaining": 50350.49
+    },
+    {
+      "campaign_id": "camp_00640",
+      "relevance_score": 0.004227,
+      "internal_score": 0.007119,
+      "title": "Google Pixel 8: Capture Brilliance",
+      "advertiser": "Google",
+      "category": "smartphones",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/640",
+      "creative_format": "video",
+      "budget_remaining": 91022.07
+    },
+    {
+      "campaign_id": "camp_08400",
+      "relevance_score": 0.003975,
+      "internal_score": 0.006695,
+      "title": "Datadog: Monitor. Alert. Optimize.",
+      "advertiser": "Datadog",
+      "category": "analytics",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8400",
+      "creative_format": "carousel",
+      "budget_remaining": 29441.92
+    },
+    {
+      "campaign_id": "camp_02588",
+      "relevance_score": 0.003006,
+      "internal_score": 0.005064,
+      "title": "TripAdvisor: Discover Hidden Gems",
+      "advertiser": "TripAdvisor",
+      "category": "vacation packages",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2588",
+      "creative_format": "carousel",
+      "budget_remaining": 55658.9
+    },
+    {
+      "campaign_id": "camp_10656",
+      "relevance_score": 0.002536,
+      "internal_score": 0.004272,
+      "title": "AquaCycle: Home Greywater System",
+      "advertiser": "AquaCycle",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10656",
+      "creative_format": "display",
+      "budget_remaining": 75181.07
+    },
+    {
+      "campaign_id": "camp_02145",
+      "relevance_score": 0.001703,
+      "internal_score": 0.002869,
+      "title": "Gourmet Gadgets: Master Your Kitchen",
+      "advertiser": "Gourmet Gadgets",
+      "category": "cooking equipment",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2145",
+      "creative_format": "video",
+      "budget_remaining": 80912.26
+    },
+    {
+      "campaign_id": "camp_04872",
+      "relevance_score": 0.001668,
+      "internal_score": 0.002809,
+      "title": "Nature's Embrace: Organic Fertilizer",
+      "advertiser": "Nature's Embrace",
+      "category": "gardening tools",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4872",
+      "creative_format": "carousel",
+      "budget_remaining": 95055.61
+    },
+    {
+      "campaign_id": "camp_07469",
+      "relevance_score": 0.001361,
+      "internal_score": 0.002292,
+      "title": "SnugglePup: Calming Dog Bed - Anxiety Relief",
+      "advertiser": "SnugglePup",
+      "category": "pet accessories",
+      "vertical": "pets",
+      "landing_url": "https://example.com/campaign/7469",
+      "creative_format": "display",
+      "budget_remaining": 10680.89
+    },
+    {
+      "campaign_id": "camp_04086",
+      "relevance_score": 0.001032,
+      "internal_score": 0.001739,
+      "title": "Breathe Easy with AirWave CPAP",
+      "advertiser": "AirWave",
+      "category": "medical devices",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4086",
+      "creative_format": "display",
+      "budget_remaining": 54896.21
+    },
+    {
+      "campaign_id": "camp_01287",
+      "relevance_score": 0.000304,
+      "internal_score": 0.000512,
+      "title": "The Silk Scarf Collection: Spring Elegance",
+      "advertiser": "Adeline & Co.",
+      "category": "accessories",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1287",
+      "creative_format": "native",
+      "budget_remaining": 76116.87
+    },
+    {
+      "campaign_id": "camp_04983",
+      "relevance_score": 0.0,
+      "internal_score": -1.4e-05,
+      "title": "GlowBug Citronella Candles: Bug-Free Evenings",
+      "advertiser": "GlowBug",
+      "category": "home decor",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4983",
+      "creative_format": "video",
+      "budget_remaining": 8199.32
+    },
+    {
+      "campaign_id": "camp_02102",
+      "relevance_score": 0.0,
+      "internal_score": -0.000384,
+      "title": "Chef's Essentials Knife Set: Master Your Kitchen",
+      "advertiser": "Chef's Essentials",
+      "category": "cooking equipment",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2102",
+      "creative_format": "text",
+      "budget_remaining": 23026.73
+    },
+    {
+      "campaign_id": "camp_09455",
+      "relevance_score": 0.0,
+      "internal_score": -0.001013,
+      "title": "Bright Future: Affordable Health Coverage",
+      "advertiser": "Bright Future",
+      "category": "health insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9455",
+      "creative_format": "display",
+      "budget_remaining": 16047.13
+    },
+    {
+      "campaign_id": "camp_09549",
+      "relevance_score": 0.0,
+      "internal_score": -0.001136,
+      "title": "HomeGuard Plus: Enhanced Coverage",
+      "advertiser": "HomeGuard",
+      "category": "home insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9549",
+      "creative_format": "carousel",
+      "budget_remaining": 49380.68
+    },
+    {
+      "campaign_id": "camp_09481",
+      "relevance_score": 0.0,
+      "internal_score": -0.001309,
+      "title": "Renter's Shield: Protect Your Belongings",
+      "advertiser": "Renter's Shield",
+      "category": "renters insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9481",
+      "creative_format": "text",
+      "budget_remaining": 75162.16
+    },
+    {
+      "campaign_id": "camp_02054",
+      "relevance_score": 0.0,
+      "internal_score": -0.00167,
+      "title": "Snack Attack: Satisfy Your Cravings",
+      "advertiser": "Snack Attack",
+      "category": "snacks",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2054",
+      "creative_format": "video",
+      "budget_remaining": 80878.68
+    },
+    {
+      "campaign_id": "camp_09540",
+      "relevance_score": 0.0,
+      "internal_score": -0.002644,
+      "title": "HealthFirst: Simple Health Insurance Plans",
+      "advertiser": "HealthFirst",
+      "category": "health insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9540",
+      "creative_format": "video",
+      "budget_remaining": 79024.6
+    },
+    {
+      "campaign_id": "camp_02413",
+      "relevance_score": 0.0,
+      "internal_score": -0.004619,
+      "title": "Urban Escapes: City Weekend Packages",
+      "advertiser": "Urban Escapes",
+      "category": "vacation packages",
+      "vertical": "travel",
+      "landing_url": "https://example.com/campaign/2413",
+      "creative_format": "text",
+      "budget_remaining": 27881.75
+    },
+    {
+      "campaign_id": "camp_09717",
+      "relevance_score": 0.0,
+      "internal_score": -0.005391,
+      "title": "Protect What Matters: HomeGuard Insurance",
+      "advertiser": "HomeGuard",
+      "category": "home insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9717",
+      "creative_format": "display",
+      "budget_remaining": 30504.1
+    },
+    {
+      "campaign_id": "camp_04188",
+      "relevance_score": 0.0,
+      "internal_score": -0.006706,
+      "title": "ShineRite: Professional Teeth Whitening",
+      "advertiser": "ShineRite",
+      "category": "dental care",
+      "vertical": "healthcare",
+      "landing_url": "https://example.com/campaign/4188",
+      "creative_format": "carousel",
+      "budget_remaining": 90326.4
+    },
+    {
+      "campaign_id": "camp_05324",
+      "relevance_score": 0.0,
+      "internal_score": -0.007445,
+      "title": "Rust-Oleum Weatherproof Wood Stain",
+      "advertiser": "Rust-Oleum",
+      "category": "cleaning",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/5324",
+      "creative_format": "carousel",
+      "budget_remaining": 89878.99
+    },
+    {
+      "campaign_id": "camp_05791",
+      "relevance_score": 0.0,
+      "internal_score": -0.008936,
+      "title": "The Ordinary: Affordable Skincare",
+      "advertiser": "The Ordinary",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5791",
+      "creative_format": "text",
+      "budget_remaining": 86217.33
+    },
+    {
+      "campaign_id": "camp_01471",
+      "relevance_score": 0.0,
+      "internal_score": -0.0156,
+      "title": "Urban Edge: Streetwear Collection '24",
+      "advertiser": "Rogue Threads",
+      "category": "streetwear",
+      "vertical": "fashion",
+      "landing_url": "https://example.com/campaign/1471",
+      "creative_format": "carousel",
+      "budget_remaining": 36210.02
+    },
+    {
+      "campaign_id": "camp_00054",
+      "relevance_score": 0.0,
+      "internal_score": -0.019278,
+      "title": "New Balance Fresh Foam: Run in Comfort",
+      "advertiser": "New Balance",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/54",
+      "creative_format": "text",
+      "budget_remaining": 28815.25
+    },
+    {
+      "campaign_id": "camp_00106",
+      "relevance_score": 0.0,
+      "internal_score": -0.019278,
+      "title": "StrideFree: Run Further, Feel Lighter",
+      "advertiser": "StrideFree",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/106",
+      "creative_format": "video",
+      "budget_remaining": 42312.58
+    },
+    {
+      "campaign_id": "camp_00878",
+      "relevance_score": 0.0,
+      "internal_score": -0.020964,
+      "title": "Apple iPad Pro - The Ultimate Tablet",
+      "advertiser": "Apple",
+      "category": "tablets",
+      "vertical": "technology",
+      "landing_url": "https://example.com/campaign/878",
+      "creative_format": "native",
+      "budget_remaining": 7634.97
+    },
+    {
+      "campaign_id": "camp_00481",
+      "relevance_score": 0.0,
+      "internal_score": -0.023266,
+      "title": "Ignite Your Run with NovaStride Shoes",
+      "advertiser": "NovaStride Athletics",
+      "category": "running shoes",
+      "vertical": "fitness",
+      "landing_url": "https://example.com/campaign/481",
+      "creative_format": "text",
+      "budget_remaining": 29471.64
+    },
+    {
+      "campaign_id": "camp_10764",
+      "relevance_score": 0.0,
+      "internal_score": -0.026522,
+      "title": "Solaris Panels: Efficient Home Energy",
+      "advertiser": "Solaris",
+      "category": "solar panels",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10764",
+      "creative_format": "video",
+      "budget_remaining": 11920.51
+    },
+    {
+      "campaign_id": "camp_08167",
+      "relevance_score": 0.0,
+      "internal_score": -0.028455,
+      "title": "Salesforce Essentials: Simple CRM",
+      "advertiser": "Salesforce",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8167",
+      "creative_format": "display",
+      "budget_remaining": 73013.39
+    },
+    {
+      "campaign_id": "camp_10497",
+      "relevance_score": 0.0,
+      "internal_score": -0.028738,
+      "title": "SunPower: Powering Your Home, Sustainably.",
+      "advertiser": "SunPower",
+      "category": "solar panels",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10497",
+      "creative_format": "display",
+      "budget_remaining": 56279.29
+    },
+    {
+      "campaign_id": "camp_09646",
+      "relevance_score": 0.0,
+      "internal_score": -0.032216,
+      "title": "Lemonade Renters Insurance: Simple, Affordable",
+      "advertiser": "Lemonade",
+      "category": "renters insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9646",
+      "creative_format": "text",
+      "budget_remaining": 78733.12
+    },
+    {
+      "campaign_id": "camp_09709",
+      "relevance_score": 0.0,
+      "internal_score": -0.036473,
+      "title": "Nationwide: Life Insurance, On Your Side",
+      "advertiser": "Nationwide",
+      "category": "life insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9709",
+      "creative_format": "text",
+      "budget_remaining": 42763.64
+    },
+    {
+      "campaign_id": "camp_09399",
+      "relevance_score": 0.0,
+      "internal_score": -0.038993,
+      "title": "Protect Your Family with FortressLife",
+      "advertiser": "FortressLife",
+      "category": "life insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9399",
+      "creative_format": "display",
+      "budget_remaining": 21617.62
+    },
+    {
+      "campaign_id": "camp_04968",
+      "relevance_score": 0.0,
+      "internal_score": -0.044201,
+      "title": "TerraClean: Eco-Friendly Outdoor Cleaner",
+      "advertiser": "TerraClean",
+      "category": "cleaning",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4968",
+      "creative_format": "carousel",
+      "budget_remaining": 42170.66
+    },
+    {
+      "campaign_id": "camp_08153",
+      "relevance_score": 0.0,
+      "internal_score": -0.048421,
+      "title": "Streamline Sales with Unified CRM",
+      "advertiser": "HubSpot",
+      "category": "CRM",
+      "vertical": "b2b_software",
+      "landing_url": "https://example.com/campaign/8153",
+      "creative_format": "display",
+      "budget_remaining": 62743.32
+    },
+    {
+      "campaign_id": "camp_02160",
+      "relevance_score": 0.0,
+      "internal_score": -0.050384,
+      "title": "Premier Pan: Superior Non-Stick Cookware",
+      "advertiser": "Premier Pan",
+      "category": "cooking equipment",
+      "vertical": "food_beverage",
+      "landing_url": "https://example.com/campaign/2160",
+      "creative_format": "text",
+      "budget_remaining": 94801.4
+    },
+    {
+      "campaign_id": "camp_09292",
+      "relevance_score": 0.0,
+      "internal_score": -0.051013,
+      "title": "Affordable Dental Coverage: Smile Confidently",
+      "advertiser": "SmileGuard",
+      "category": "health insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9292",
+      "creative_format": "native",
+      "budget_remaining": 28989.52
+    },
+    {
+      "campaign_id": "camp_10492",
+      "relevance_score": 0.0,
+      "internal_score": -0.052015,
+      "title": "HomeWell Irrigation: Smart Watering Systems",
+      "advertiser": "HomeWell Irrigation",
+      "category": "water conservation",
+      "vertical": "sustainability",
+      "landing_url": "https://example.com/campaign/10492",
+      "creative_format": "display",
+      "budget_remaining": 12550.57
+    },
+    {
+      "campaign_id": "camp_09693",
+      "relevance_score": 0.0,
+      "internal_score": -0.055391,
+      "title": "Farmers: Home Insurance - We Know You",
+      "advertiser": "Farmers",
+      "category": "home insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9693",
+      "creative_format": "text",
+      "budget_remaining": 20215.18
+    },
+    {
+      "campaign_id": "camp_05498",
+      "relevance_score": 0.0,
+      "internal_score": -0.056056,
+      "title": "Dark Spot Corrector: Even Tone",
+      "advertiser": "Estee Lauder",
+      "category": "skincare",
+      "vertical": "beauty",
+      "landing_url": "https://example.com/campaign/5498",
+      "creative_format": "text",
+      "budget_remaining": 6563.79
+    },
+    {
+      "campaign_id": "camp_09711",
+      "relevance_score": 0.0,
+      "internal_score": -0.056539,
+      "title": "FidoGuard: Because Pets Are Family",
+      "advertiser": "FidoGuard",
+      "category": "pet insurance",
+      "vertical": "insurance",
+      "landing_url": "https://example.com/campaign/9711",
+      "creative_format": "video",
+      "budget_remaining": 53653.39
+    },
+    {
+      "campaign_id": "camp_04982",
+      "relevance_score": 0.0,
+      "internal_score": -0.058438,
+      "title": "GardenJoy Trellis: Climbing Plants' Paradise",
+      "advertiser": "GardenJoy",
+      "category": "gardening tools",
+      "vertical": "home_garden",
+      "landing_url": "https://example.com/campaign/4982",
+      "creative_format": "video",
+      "budget_remaining": 25438.14
+    }
+  ],
+  "latency_ms": 10.53,
+  "metadata": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "n_campaigns_indexed": 10783,
+    "n_candidates_retrieved": 2000,
+    "n_candidates_after_filter": 118,
+    "filter_drops": {
+      "geo_include": 1188,
+      "age_range": 648,
+      "gender": 27,
+      "negative_keyword": 18,
+      "category_gender_mismatch": 1
+    },
+    "n_results": 118,
+    "gated": false,
+    "timing_ms": {
+      "embed": 1.69,
+      "parallel_stages": 1.18,
+      "parse": 0.4,
+      "filter_and_rerank": 6.88,
+      "total": 10.53
+    },
+    "eligibility_detail": {
+      "blocklist_triggered": false,
+      "hard_block_cluster": null,
+      "sensitivity_penalty": 0.1009,
+      "commercial_boost": 0.9214,
+      "top_cluster": "insensitive_model_v5",
+      "top_cluster_sim": 0.1009,
+      "commercial_sim": 0.1581,
+      "distress_signal": 0.0,
+      "amplifier": 1.0,
+      "co_activation_bonus": 0.0,
+      "insensitive_model_probability": 0.1009,
+      "insensitive_model_threshold": 0.5,
+      "cluster_penalty": 0.0
+    },
+    "n_categories": 4,
+    "categories": [
+      {
+        "category": "car accessories",
+        "score": 0.6617
+      },
+      {
+        "category": "electric vehicles",
+        "score": 0.6246
+      },
+      {
+        "category": "used cars",
+        "score": 0.5513
+      },
+      {
+        "category": "luxury cars",
+        "score": 0.5464
+      }
+    ],
+    "parser_output": {
+      "brand_terms": [],
+      "price_min": null,
+      "price_max": null,
+      "attribute_intents": {
+        "fuel_type": "electric"
+      },
+      "negative_terms": [],
+      "user_location": "US-CA"
+    },
+    "score_breakdown": [
+      {
+        "campaign_id": "camp_02819",
+        "base_score": 0.333111,
+        "final_score": 0.794658,
+        "active_params": 4,
+        "coverage_ratio": 1.0,
+        "query_potential_max": 1.68436,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 37 in [37,43]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'electric', 'vehicles'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.15,
+            "reason": "leaf=electric"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.09369,
+            "reason": "cat_match=electric vehicles(conf=0.62)"
+          },
+          {
+            "component": "attribute_alignment",
+            "delta": 0.02,
+            "reason": "match:fuel_type=electric"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.052857,
+            "reason": "category_terms: frozenset({'vehicle', 'electric'}); feature_terms: frozenset({'charging'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_10479",
+        "base_score": 0.273541,
+        "final_score": 0.733212,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.68436,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 37 in [37,44]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'electric', 'vehicles'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.15,
+            "reason": "leaf_partial=electric car"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.099255,
+            "reason": "cat_match=car accessories(conf=0.66)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.101667,
+            "reason": "model_terms: frozenset({'electric', 'car'}); category_terms: frozenset({'vehicle', 'electric', 'car'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_03053",
+        "base_score": 0.315155,
+        "final_score": 0.689827,
+        "active_params": 4,
+        "coverage_ratio": 0.75,
+        "query_potential_max": 1.68436,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 37 in [37,44]; gender_match"
+          },
+          {
+            "component": "interest",
+            "delta": 0.025,
+            "reason": "overlap: {'electric', 'vehicles'}"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=car accessories"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.099255,
+            "reason": "cat_match=car accessories(conf=0.66)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.066667,
+            "reason": "category_terms: frozenset({'accessories', 'car'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_03193",
+        "base_score": 0.36436,
+        "final_score": 0.673615,
+        "active_params": 4,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.68436,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 37 in [35,42]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=car accessories"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.099255,
+            "reason": "cat_match=car accessories(conf=0.66)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.05,
+            "reason": "category_terms: frozenset({'accessories', 'car'})"
+          }
+        ]
+      },
+      {
+        "campaign_id": "camp_03245",
+        "base_score": 0.356557,
+        "final_score": 0.658034,
+        "active_params": 4,
+        "coverage_ratio": 0.5,
+        "query_potential_max": 1.68436,
+        "deltas": [
+          {
+            "component": "location",
+            "delta": 0.05,
+            "reason": "location_match: US-CA"
+          },
+          {
+            "component": "demographic",
+            "delta": 0.07,
+            "reason": "age 37 in [37,43]; gender_match"
+          },
+          {
+            "component": "taxonomy_alignment",
+            "delta": 0.1,
+            "reason": "category_partial=car accessories"
+          },
+          {
+            "component": "category_alignment",
+            "delta": 0.099255,
+            "reason": "cat_match=car accessories(conf=0.66)"
+          },
+          {
+            "component": "keyword_overlap",
+            "delta": 0.042222,
+            "reason": "category_terms: frozenset({'accessories', 'car'}); benefit_terms: frozenset({'car'})"
+          }
+        ]
+      }
+    ]
+  }
+}

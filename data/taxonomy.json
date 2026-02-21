@@ -1,0 +1,970 @@
+[
+  {
+    "name": "running shoes",
+    "description": "athletic footwear designed for running, jogging, and marathon training"
+  },
+  {
+    "name": "trail running shoes",
+    "description": "off-road running shoes with grip for trails and rough terrain"
+  },
+  {
+    "name": "gym equipment",
+    "description": "home and commercial gym machines, weights, and exercise equipment"
+  },
+  {
+    "name": "dumbbells and weights",
+    "description": "free weights, dumbbells, kettlebells, and weight plates for strength training"
+  },
+  {
+    "name": "resistance bands",
+    "description": "elastic exercise bands for stretching, rehab, and strength workouts"
+  },
+  {
+    "name": "fitness trackers",
+    "description": "wearable devices that track steps, heart rate, calories, and workouts"
+  },
+  {
+    "name": "smartwatches for fitness",
+    "description": "GPS-enabled watches for running, cycling, and athletic performance"
+  },
+  {
+    "name": "workout apparel",
+    "description": "athletic clothing including shorts, leggings, sports bras, and moisture-wicking tops"
+  },
+  {
+    "name": "yoga mats and gear",
+    "description": "yoga mats, blocks, straps, and accessories for yoga practice"
+  },
+  {
+    "name": "sports bras",
+    "description": "supportive athletic bras for running, gym workouts, and high-impact sports"
+  },
+  {
+    "name": "protein supplements",
+    "description": "whey protein, plant protein, and protein bars for muscle recovery"
+  },
+  {
+    "name": "pre-workout supplements",
+    "description": "energy and performance supplements taken before exercise"
+  },
+  {
+    "name": "sports nutrition",
+    "description": "energy gels, electrolyte drinks, and nutrition for endurance athletes"
+  },
+  {
+    "name": "foam rollers",
+    "description": "muscle recovery rollers and massage tools for post-workout soreness"
+  },
+  {
+    "name": "jump ropes",
+    "description": "speed ropes and weighted jump ropes for cardio and boxing training"
+  },
+  {
+    "name": "exercise bikes",
+    "description": "stationary bikes and spin bikes for indoor cycling workouts"
+  },
+  {
+    "name": "treadmills",
+    "description": "motorized and manual treadmills for home running and walking"
+  },
+  {
+    "name": "rowing machines",
+    "description": "indoor rowing machines for full-body cardio workouts"
+  },
+  {
+    "name": "smartphones",
+    "description": "mobile phones including iPhones, Android devices, and flagship handsets"
+  },
+  {
+    "name": "phone cases",
+    "description": "protective cases, covers, and screen protectors for smartphones"
+  },
+  {
+    "name": "laptops",
+    "description": "notebook computers for work, gaming, and everyday use"
+  },
+  {
+    "name": "gaming laptops",
+    "description": "high-performance laptops with dedicated GPUs for gaming"
+  },
+  {
+    "name": "tablets",
+    "description": "touchscreen tablets like iPads and Android tablets for media and productivity"
+  },
+  {
+    "name": "wireless headphones",
+    "description": "bluetooth earbuds and over-ear headphones for music and calls"
+  },
+  {
+    "name": "noise-canceling headphones",
+    "description": "headphones with active noise cancellation for travel and focus"
+  },
+  {
+    "name": "smart speakers",
+    "description": "voice-controlled speakers like Alexa, Google Home, and HomePod"
+  },
+  {
+    "name": "smart home devices",
+    "description": "connected home automation including lights, thermostats, and cameras"
+  },
+  {
+    "name": "computer monitors",
+    "description": "desktop displays including ultrawide, 4K, and gaming monitors"
+  },
+  {
+    "name": "mechanical keyboards",
+    "description": "tactile and programmable keyboards for typing and gaming"
+  },
+  {
+    "name": "external storage",
+    "description": "portable SSDs, hard drives, and USB flash drives for data storage"
+  },
+  {
+    "name": "wireless chargers",
+    "description": "Qi charging pads and stands for phones and earbuds"
+  },
+  {
+    "name": "webcams",
+    "description": "USB cameras for video calls, streaming, and content creation"
+  },
+  {
+    "name": "routers and mesh wifi",
+    "description": "home networking equipment for fast and reliable internet coverage"
+  },
+  {
+    "name": "power banks",
+    "description": "portable battery packs for charging devices on the go"
+  },
+  {
+    "name": "women's dresses",
+    "description": "casual, formal, and summer dresses for women"
+  },
+  {
+    "name": "men's suits",
+    "description": "business suits, blazers, and formal menswear"
+  },
+  {
+    "name": "women's shoes",
+    "description": "heels, flats, boots, and sandals for women"
+  },
+  {
+    "name": "men's sneakers",
+    "description": "casual and lifestyle sneakers for everyday wear"
+  },
+  {
+    "name": "handbags",
+    "description": "women's purses, tote bags, and designer handbags"
+  },
+  {
+    "name": "watches",
+    "description": "analog and digital watches as fashion accessories"
+  },
+  {
+    "name": "sunglasses",
+    "description": "designer and sports sunglasses with UV protection"
+  },
+  {
+    "name": "jewelry",
+    "description": "necklaces, bracelets, rings, and earrings"
+  },
+  {
+    "name": "winter jackets",
+    "description": "coats, parkas, and insulated jackets for cold weather"
+  },
+  {
+    "name": "activewear",
+    "description": "athleisure clothing that transitions from gym to casual wear"
+  },
+  {
+    "name": "jeans",
+    "description": "denim jeans in various fits including slim, straight, and relaxed"
+  },
+  {
+    "name": "t-shirts",
+    "description": "casual graphic tees, plain tees, and designer t-shirts"
+  },
+  {
+    "name": "swimwear",
+    "description": "bathing suits, bikinis, and swim trunks for the beach and pool"
+  },
+  {
+    "name": "formal shoes",
+    "description": "dress shoes, oxfords, and loafers for business and events"
+  },
+  {
+    "name": "streetwear",
+    "description": "urban fashion including hoodies, sneakers, and limited-edition drops"
+  },
+  {
+    "name": "meal delivery kits",
+    "description": "pre-portioned recipe kits delivered weekly for home cooking"
+  },
+  {
+    "name": "food delivery apps",
+    "description": "restaurant and grocery delivery services to your door"
+  },
+  {
+    "name": "coffee makers",
+    "description": "drip coffee machines, espresso makers, and pour-over equipment"
+  },
+  {
+    "name": "coffee beans",
+    "description": "whole bean and ground coffee from various roasts and origins"
+  },
+  {
+    "name": "tea",
+    "description": "loose leaf tea, tea bags, and specialty tea blends"
+  },
+  {
+    "name": "healthy snacks",
+    "description": "nutritious snack bars, nuts, dried fruit, and low-calorie treats"
+  },
+  {
+    "name": "organic food",
+    "description": "certified organic groceries, produce, and pantry staples"
+  },
+  {
+    "name": "wine",
+    "description": "red, white, and sparkling wines for drinking and gifting"
+  },
+  {
+    "name": "craft beer",
+    "description": "microbrewery and independent craft beer selections"
+  },
+  {
+    "name": "kitchen appliances",
+    "description": "blenders, air fryers, instant pots, and countertop appliances"
+  },
+  {
+    "name": "cookware",
+    "description": "pots, pans, baking sheets, and cooking utensils"
+  },
+  {
+    "name": "meal replacement shakes",
+    "description": "nutritional shakes and smoothies as convenient meal substitutes"
+  },
+  {
+    "name": "baby food",
+    "description": "pureed, organic, and stage-based food for infants and toddlers"
+  },
+  {
+    "name": "plant-based food",
+    "description": "vegan and vegetarian meat alternatives and dairy-free products"
+  },
+  {
+    "name": "spices and seasonings",
+    "description": "herbs, spices, and seasoning blends for cooking"
+  },
+  {
+    "name": "flights",
+    "description": "domestic and international airline tickets and flight deals"
+  },
+  {
+    "name": "hotels",
+    "description": "hotel rooms, resorts, and boutique accommodations"
+  },
+  {
+    "name": "vacation packages",
+    "description": "bundled travel deals including flights, hotels, and activities"
+  },
+  {
+    "name": "luggage",
+    "description": "suitcases, carry-ons, duffel bags, and travel bags"
+  },
+  {
+    "name": "travel backpacks",
+    "description": "backpacks designed for traveling, hiking, and day trips"
+  },
+  {
+    "name": "car rentals",
+    "description": "rental cars and vans for road trips and business travel"
+  },
+  {
+    "name": "cruises",
+    "description": "ocean and river cruise vacations and cruise line deals"
+  },
+  {
+    "name": "travel insurance",
+    "description": "trip cancellation, medical, and baggage insurance for travelers"
+  },
+  {
+    "name": "camping gear",
+    "description": "tents, sleeping bags, and outdoor camping equipment"
+  },
+  {
+    "name": "hiking boots",
+    "description": "waterproof and durable boots for hiking trails and mountains"
+  },
+  {
+    "name": "travel accessories",
+    "description": "neck pillows, packing cubes, adapters, and toiletry bags"
+  },
+  {
+    "name": "vacation rentals",
+    "description": "short-term home and apartment rentals like Airbnb and VRBO"
+  },
+  {
+    "name": "guided tours",
+    "description": "organized sightseeing tours and travel experiences"
+  },
+  {
+    "name": "electric vehicles",
+    "description": "battery-powered electric cars and plug-in hybrid vehicles"
+  },
+  {
+    "name": "SUVs",
+    "description": "sport utility vehicles for families and outdoor adventures"
+  },
+  {
+    "name": "car insurance",
+    "description": "auto insurance policies for coverage, liability, and collision"
+  },
+  {
+    "name": "auto parts",
+    "description": "replacement parts, accessories, and performance upgrades for vehicles"
+  },
+  {
+    "name": "tires",
+    "description": "all-season, winter, and performance tires for cars and trucks"
+  },
+  {
+    "name": "car accessories",
+    "description": "floor mats, phone mounts, dash cams, and seat covers"
+  },
+  {
+    "name": "motor oil",
+    "description": "synthetic and conventional engine oil for vehicle maintenance"
+  },
+  {
+    "name": "car detailing",
+    "description": "car wash supplies, wax, polish, and interior cleaning products"
+  },
+  {
+    "name": "electric car chargers",
+    "description": "home and portable EV charging stations and adapters"
+  },
+  {
+    "name": "truck accessories",
+    "description": "bed liners, toolboxes, and accessories for pickup trucks"
+  },
+  {
+    "name": "motorcycles",
+    "description": "street bikes, cruisers, and adventure motorcycles"
+  },
+  {
+    "name": "car GPS",
+    "description": "navigation systems and GPS devices for vehicles"
+  },
+  {
+    "name": "credit cards",
+    "description": "rewards credit cards, cashback cards, and travel credit cards"
+  },
+  {
+    "name": "savings accounts",
+    "description": "high-yield savings accounts and money market accounts"
+  },
+  {
+    "name": "investing platforms",
+    "description": "stock trading apps, robo-advisors, and brokerage accounts"
+  },
+  {
+    "name": "cryptocurrency",
+    "description": "bitcoin, ethereum, and crypto trading platforms and wallets"
+  },
+  {
+    "name": "personal loans",
+    "description": "unsecured personal loans for debt consolidation and expenses"
+  },
+  {
+    "name": "mortgages",
+    "description": "home loans, refinancing, and mortgage rate comparisons"
+  },
+  {
+    "name": "budgeting apps",
+    "description": "personal finance apps for tracking spending and saving money"
+  },
+  {
+    "name": "tax preparation",
+    "description": "tax filing software and professional tax preparation services"
+  },
+  {
+    "name": "retirement planning",
+    "description": "401k, IRA, and retirement investment planning tools"
+  },
+  {
+    "name": "student loans",
+    "description": "student loan refinancing and repayment assistance"
+  },
+  {
+    "name": "business banking",
+    "description": "business checking accounts, credit lines, and merchant services"
+  },
+  {
+    "name": "money transfer",
+    "description": "international money transfer and peer-to-peer payment services"
+  },
+  {
+    "name": "telemedicine",
+    "description": "online doctor visits and virtual healthcare consultations"
+  },
+  {
+    "name": "vitamins",
+    "description": "daily multivitamins, vitamin D, B12, and dietary supplements"
+  },
+  {
+    "name": "dental care",
+    "description": "toothbrushes, toothpaste, whitening kits, and dental floss"
+  },
+  {
+    "name": "electric toothbrushes",
+    "description": "powered toothbrushes with timers and pressure sensors"
+  },
+  {
+    "name": "vision care",
+    "description": "eyeglasses, contact lenses, and prescription sunglasses"
+  },
+  {
+    "name": "mental health apps",
+    "description": "meditation, therapy, and stress management applications"
+  },
+  {
+    "name": "first aid kits",
+    "description": "emergency medical supplies and first aid essentials"
+  },
+  {
+    "name": "blood pressure monitors",
+    "description": "home blood pressure cuffs and digital monitors"
+  },
+  {
+    "name": "hearing aids",
+    "description": "over-the-counter and prescription hearing amplification devices"
+  },
+  {
+    "name": "allergy relief",
+    "description": "antihistamines, nasal sprays, and allergy treatment products"
+  },
+  {
+    "name": "sleep aids",
+    "description": "melatonin, white noise machines, and sleep improvement products"
+  },
+  {
+    "name": "pain relief",
+    "description": "over-the-counter pain relievers, topical creams, and heating pads"
+  },
+  {
+    "name": "prescription delivery",
+    "description": "mail-order pharmacy and prescription medication delivery services"
+  },
+  {
+    "name": "online courses",
+    "description": "self-paced learning platforms for skills and professional development"
+  },
+  {
+    "name": "coding bootcamps",
+    "description": "intensive programming courses for career changers and beginners"
+  },
+  {
+    "name": "language learning",
+    "description": "apps and courses for learning foreign languages"
+  },
+  {
+    "name": "tutoring services",
+    "description": "one-on-one academic tutoring for students of all ages"
+  },
+  {
+    "name": "test prep",
+    "description": "SAT, GRE, GMAT, and standardized test preparation courses"
+  },
+  {
+    "name": "textbooks",
+    "description": "new and used college textbooks and educational materials"
+  },
+  {
+    "name": "children's education",
+    "description": "educational toys, apps, and learning tools for kids"
+  },
+  {
+    "name": "professional certifications",
+    "description": "industry certification courses in IT, project management, and more"
+  },
+  {
+    "name": "MBA programs",
+    "description": "business school and executive MBA degree programs"
+  },
+  {
+    "name": "music lessons",
+    "description": "online and in-person instruction for guitar, piano, and other instruments"
+  },
+  {
+    "name": "art supplies",
+    "description": "paints, brushes, canvases, and drawing materials for artists"
+  },
+  {
+    "name": "study tools",
+    "description": "flashcard apps, note-taking tools, and study organization software"
+  },
+  {
+    "name": "furniture",
+    "description": "sofas, beds, tables, desks, and home furnishing pieces"
+  },
+  {
+    "name": "mattresses",
+    "description": "memory foam, innerspring, and hybrid mattresses for better sleep"
+  },
+  {
+    "name": "vacuum cleaners",
+    "description": "upright, robot, and cordless vacuums for home cleaning"
+  },
+  {
+    "name": "robot vacuums",
+    "description": "automated floor cleaning robots like Roomba"
+  },
+  {
+    "name": "air purifiers",
+    "description": "HEPA air cleaners for allergies, smoke, and indoor air quality"
+  },
+  {
+    "name": "smart thermostats",
+    "description": "programmable and wifi-enabled home temperature controls"
+  },
+  {
+    "name": "indoor plants",
+    "description": "houseplants, succulents, and potted plants for home decor"
+  },
+  {
+    "name": "garden tools",
+    "description": "shovels, pruners, hoses, and lawn care equipment"
+  },
+  {
+    "name": "lawn mowers",
+    "description": "gas, electric, and robotic lawn mowers for yard maintenance"
+  },
+  {
+    "name": "outdoor furniture",
+    "description": "patio sets, chairs, and outdoor dining furniture"
+  },
+  {
+    "name": "home security cameras",
+    "description": "indoor and outdoor security cameras and doorbell cameras"
+  },
+  {
+    "name": "lighting",
+    "description": "lamps, smart bulbs, LED strips, and home lighting fixtures"
+  },
+  {
+    "name": "rugs and carpets",
+    "description": "area rugs, runners, and floor coverings for home decor"
+  },
+  {
+    "name": "storage and organization",
+    "description": "shelving, bins, closet organizers, and storage solutions"
+  },
+  {
+    "name": "paint and wallpaper",
+    "description": "interior and exterior house paint, primers, and wall coverings"
+  },
+  {
+    "name": "skincare",
+    "description": "moisturizers, serums, cleansers, and anti-aging skincare products"
+  },
+  {
+    "name": "sunscreen",
+    "description": "SPF lotions, sprays, and sun protection for face and body"
+  },
+  {
+    "name": "makeup",
+    "description": "foundation, mascara, lipstick, and cosmetics for everyday and glam looks"
+  },
+  {
+    "name": "haircare",
+    "description": "shampoo, conditioner, hair masks, and styling products"
+  },
+  {
+    "name": "hair tools",
+    "description": "blow dryers, flat irons, curling wands, and hair styling tools"
+  },
+  {
+    "name": "fragrance",
+    "description": "perfumes, colognes, and body sprays for men and women"
+  },
+  {
+    "name": "nail care",
+    "description": "nail polish, gel kits, and manicure tools"
+  },
+  {
+    "name": "men's grooming",
+    "description": "razors, beard oil, shaving cream, and men's skincare"
+  },
+  {
+    "name": "body lotion",
+    "description": "moisturizing body lotions, creams, and oils for dry skin"
+  },
+  {
+    "name": "teeth whitening",
+    "description": "whitening strips, pens, and LED whitening kits"
+  },
+  {
+    "name": "acne treatment",
+    "description": "spot treatments, cleansers, and acne prevention skincare"
+  },
+  {
+    "name": "anti-aging products",
+    "description": "retinol, collagen, and wrinkle-reducing skincare treatments"
+  },
+  {
+    "name": "streaming services",
+    "description": "movie and TV show streaming subscriptions like Netflix and Disney+"
+  },
+  {
+    "name": "music streaming",
+    "description": "music listening platforms like Spotify, Apple Music, and Tidal"
+  },
+  {
+    "name": "e-readers",
+    "description": "Kindle and other digital book reading devices"
+  },
+  {
+    "name": "audiobooks",
+    "description": "spoken-word books and audiobook subscription services"
+  },
+  {
+    "name": "concert tickets",
+    "description": "live music event tickets and concert experiences"
+  },
+  {
+    "name": "board games",
+    "description": "tabletop games, card games, and party games for groups"
+  },
+  {
+    "name": "musical instruments",
+    "description": "guitars, keyboards, drums, and beginner instrument kits"
+  },
+  {
+    "name": "vinyl records",
+    "description": "collectible vinyl LPs and turntable equipment"
+  },
+  {
+    "name": "movie tickets",
+    "description": "cinema tickets and movie theater passes"
+  },
+  {
+    "name": "podcasting equipment",
+    "description": "microphones, mixers, and recording gear for podcast creators"
+  },
+  {
+    "name": "streaming devices",
+    "description": "Roku, Apple TV, Chromecast, and Fire Stick media players"
+  },
+  {
+    "name": "gaming consoles",
+    "description": "PlayStation, Xbox, Nintendo Switch, and next-gen game consoles"
+  },
+  {
+    "name": "PC gaming",
+    "description": "gaming desktops, GPUs, and custom PC builds for gamers"
+  },
+  {
+    "name": "gaming headsets",
+    "description": "headphones with microphones for online multiplayer gaming"
+  },
+  {
+    "name": "gaming chairs",
+    "description": "ergonomic chairs designed for long gaming and desk sessions"
+  },
+  {
+    "name": "gaming mice",
+    "description": "precision mice with programmable buttons for competitive gaming"
+  },
+  {
+    "name": "VR headsets",
+    "description": "virtual reality headsets for immersive gaming and experiences"
+  },
+  {
+    "name": "game subscriptions",
+    "description": "monthly game pass services like Xbox Game Pass and PS Plus"
+  },
+  {
+    "name": "mobile games",
+    "description": "free-to-play and premium games for phones and tablets"
+  },
+  {
+    "name": "gaming monitors",
+    "description": "high refresh rate displays for competitive and immersive gaming"
+  },
+  {
+    "name": "controller accessories",
+    "description": "custom controllers, thumbstick grips, and charging docks"
+  },
+  {
+    "name": "retro gaming",
+    "description": "classic console emulators, retro game collections, and vintage hardware"
+  },
+  {
+    "name": "dog food",
+    "description": "dry kibble, wet food, and grain-free diets for dogs"
+  },
+  {
+    "name": "cat food",
+    "description": "dry and wet food, treats, and specialty diets for cats"
+  },
+  {
+    "name": "pet toys",
+    "description": "chew toys, interactive puzzles, and fetch toys for dogs and cats"
+  },
+  {
+    "name": "pet grooming",
+    "description": "brushes, shampoos, nail clippers, and grooming kits for pets"
+  },
+  {
+    "name": "pet beds",
+    "description": "comfortable beds, mats, and crates for dogs and cats"
+  },
+  {
+    "name": "pet insurance",
+    "description": "health insurance plans for veterinary care and pet emergencies"
+  },
+  {
+    "name": "aquarium supplies",
+    "description": "fish tanks, filters, lights, and aquarium accessories"
+  },
+  {
+    "name": "bird supplies",
+    "description": "cages, feed, toys, and accessories for pet birds"
+  },
+  {
+    "name": "pet GPS trackers",
+    "description": "wearable GPS devices and smart collars for locating pets"
+  },
+  {
+    "name": "dog training",
+    "description": "obedience training tools, treats, and online dog training courses"
+  },
+  {
+    "name": "pet subscription boxes",
+    "description": "monthly curated boxes of toys, treats, and supplies for pets"
+  },
+  {
+    "name": "homes for sale",
+    "description": "residential properties, houses, and condos available for purchase"
+  },
+  {
+    "name": "apartments for rent",
+    "description": "rental apartments, studios, and lease listings"
+  },
+  {
+    "name": "mortgage lenders",
+    "description": "home loan providers and mortgage rate comparison tools"
+  },
+  {
+    "name": "home inspections",
+    "description": "professional home inspection services for buyers"
+  },
+  {
+    "name": "moving services",
+    "description": "full-service movers, truck rentals, and packing supplies"
+  },
+  {
+    "name": "home renovation",
+    "description": "kitchen, bathroom, and whole-house remodeling services"
+  },
+  {
+    "name": "interior design",
+    "description": "home decorating services and interior design consultations"
+  },
+  {
+    "name": "property management",
+    "description": "rental property management and landlord services"
+  },
+  {
+    "name": "home warranties",
+    "description": "home appliance and systems protection plans"
+  },
+  {
+    "name": "real estate agents",
+    "description": "local buyer and seller real estate agent services"
+  },
+  {
+    "name": "CRM software",
+    "description": "customer relationship management platforms for sales teams"
+  },
+  {
+    "name": "project management tools",
+    "description": "task tracking and team collaboration software like Asana and Jira"
+  },
+  {
+    "name": "cloud hosting",
+    "description": "web hosting, cloud servers, and infrastructure-as-a-service platforms"
+  },
+  {
+    "name": "cybersecurity software",
+    "description": "endpoint protection, firewalls, and security monitoring tools"
+  },
+  {
+    "name": "analytics platforms",
+    "description": "business intelligence, data visualization, and reporting tools"
+  },
+  {
+    "name": "HR software",
+    "description": "human resources management, payroll, and recruiting platforms"
+  },
+  {
+    "name": "email marketing",
+    "description": "bulk email campaigns, automation, and newsletter platforms"
+  },
+  {
+    "name": "accounting software",
+    "description": "bookkeeping, invoicing, and financial management tools"
+  },
+  {
+    "name": "video conferencing",
+    "description": "virtual meeting platforms for remote teams and webinars"
+  },
+  {
+    "name": "helpdesk software",
+    "description": "customer support ticketing and knowledge base platforms"
+  },
+  {
+    "name": "VPN services",
+    "description": "virtual private networks for business security and remote access"
+  },
+  {
+    "name": "document management",
+    "description": "cloud storage, file sharing, and document collaboration tools"
+  },
+  {
+    "name": "legal services",
+    "description": "attorney consultation, legal advice, and law firm services"
+  },
+  {
+    "name": "estate planning",
+    "description": "wills, trusts, and estate planning legal documents"
+  },
+  {
+    "name": "business formation",
+    "description": "LLC registration, incorporation, and business entity setup"
+  },
+  {
+    "name": "tax services",
+    "description": "professional tax preparation and tax advisory services"
+  },
+  {
+    "name": "immigration services",
+    "description": "visa applications, green card assistance, and immigration lawyers"
+  },
+  {
+    "name": "trademark registration",
+    "description": "intellectual property filing and trademark protection services"
+  },
+  {
+    "name": "divorce attorneys",
+    "description": "family law and divorce legal representation services"
+  },
+  {
+    "name": "contract templates",
+    "description": "legal document templates for businesses and individuals"
+  },
+  {
+    "name": "notary services",
+    "description": "document notarization and apostille services"
+  },
+  {
+    "name": "auto insurance",
+    "description": "car insurance quotes, policies, and coverage comparison"
+  },
+  {
+    "name": "home insurance",
+    "description": "homeowner's insurance for property damage and liability"
+  },
+  {
+    "name": "life insurance",
+    "description": "term life, whole life, and universal life insurance policies"
+  },
+  {
+    "name": "health insurance",
+    "description": "medical insurance plans, marketplace coverage, and HMO/PPO options"
+  },
+  {
+    "name": "renters insurance",
+    "description": "apartment and rental property insurance for tenants"
+  },
+  {
+    "name": "business insurance",
+    "description": "commercial liability, workers comp, and business owner policies"
+  },
+  {
+    "name": "disability insurance",
+    "description": "income protection insurance for illness or injury"
+  },
+  {
+    "name": "umbrella insurance",
+    "description": "supplemental liability coverage beyond standard policies"
+  },
+  {
+    "name": "luxury watches",
+    "description": "high-end timepieces from Rolex, Omega, Cartier, and other brands"
+  },
+  {
+    "name": "designer handbags",
+    "description": "premium bags from Louis Vuitton, Hermes, Chanel, and Gucci"
+  },
+  {
+    "name": "fine jewelry",
+    "description": "diamonds, gold, platinum, and precious gemstone jewelry"
+  },
+  {
+    "name": "luxury cars",
+    "description": "premium automobiles from Porsche, BMW, Mercedes, and Audi"
+  },
+  {
+    "name": "premium spirits",
+    "description": "top-shelf whiskey, champagne, cognac, and fine wines"
+  },
+  {
+    "name": "luxury travel",
+    "description": "five-star resorts, first-class flights, and exclusive vacation experiences"
+  },
+  {
+    "name": "luxury skincare",
+    "description": "high-end skincare brands and premium beauty treatments"
+  },
+  {
+    "name": "designer clothing",
+    "description": "couture and ready-to-wear fashion from luxury fashion houses"
+  },
+  {
+    "name": "solar panels",
+    "description": "residential solar energy systems and solar panel installation"
+  },
+  {
+    "name": "eco-friendly products",
+    "description": "biodegradable, reusable, and environmentally friendly household goods"
+  },
+  {
+    "name": "sustainable fashion",
+    "description": "ethically made clothing from recycled and organic materials"
+  },
+  {
+    "name": "composting",
+    "description": "backyard composters, worm bins, and food waste recycling systems"
+  },
+  {
+    "name": "water conservation",
+    "description": "low-flow fixtures, rain barrels, and water-saving devices"
+  },
+  {
+    "name": "reusable products",
+    "description": "reusable water bottles, bags, straws, and food containers"
+  },
+  {
+    "name": "energy-efficient appliances",
+    "description": "Energy Star rated appliances that reduce electricity usage"
+  },
+  {
+    "name": "carbon offsets",
+    "description": "carbon credit programs and climate impact offset services"
+  },
+  {
+    "name": "bamboo products",
+    "description": "sustainable bamboo alternatives to plastic and wood products"
+  }
+]

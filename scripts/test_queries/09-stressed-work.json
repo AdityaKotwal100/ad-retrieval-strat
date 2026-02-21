@@ -1,0 +1,7 @@
+{
+  "query": "I'm feeling really stressed about work lately",
+  "context": {
+    "age": 32,
+    "gender": "male"
+  }
+}

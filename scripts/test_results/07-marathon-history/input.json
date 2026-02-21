@@ -1,0 +1,9 @@
+{
+  "query": "what is the history of the marathon",
+  "context": {
+    "interests": [
+      "sports",
+      "history"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "query": "lightweight laptop for college students",
+  "context": {
+    "age": 20,
+    "gender": "female",
+    "location": "Austin, TX",
+    "interests": ["technology", "education"]
+  }
+}
